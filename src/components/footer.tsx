@@ -1,5 +1,5 @@
 import { Button } from '@/components/ui/button';
-import { useQuiz } from '@/context/quizContext';
+import { useQuiz } from '@/context/QuizContext';
 import { cn } from '@/lib/utils';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 

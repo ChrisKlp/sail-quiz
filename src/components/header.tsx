@@ -1,4 +1,4 @@
-import { useQuiz } from '@/context/quizContext';
+import { useQuiz } from '@/context/QuizContext';
 import { Anchor } from 'lucide-react';
 
 export function Header() {

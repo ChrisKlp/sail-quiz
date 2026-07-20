@@ -3,7 +3,7 @@ import { Card } from '@/components/ui/card';
 import { Check, ImageOff, X } from 'lucide-react';
 import { cn } from '@/lib/utils';
 import { useEffect, useState } from 'react';
-import { useQuiz } from '@/context/quizContext';
+import { useQuiz } from '@/context/QuizContext';
 
 export function Quiz() {
   const { question, letters, selected, hasAnswered, isCorrect } = useQuiz();
