@@ -1,7 +1,7 @@
 import { Footer } from '@/components/footer';
 import { Header } from '@/components/header';
 import { Quiz } from '@/components/quiz';
-import { QuizProvider } from './context/quizContext';
+import { QuizProvider } from './context/QuizContext';
 
 export default function App() {
   return (
