@@ -6,7 +6,7 @@ import {
   useState,
   type ReactNode,
 } from 'react';
-import { questions } from '@/data/questions';
+import questions_01 from '@/data/budowa_jachtow_quiz.json';
 import type { Question } from '@/types';
 
 const LETTERS = ['A', 'B', 'C', 'D', 'E', 'F'] as const;
@@ -21,7 +21,7 @@ function shuffle<T>(array: T[]): T[] {
 }
 
 function newCycle(excludeFirstIndex: number): number[] {
-  const cycle = shuffle(questions.map((_, i) => i));
+  const cycle = shuffle(questions_01.map((_, i) => i));
   if (cycle.length > 1 && cycle[0] === excludeFirstIndex) {
     [cycle[0], cycle[1]] = [cycle[1], cycle[0]];
   }
@@ -44,12 +44,12 @@ const QuizContext = createContext<QuizContextValue | null>(null);
 
 export function QuizProvider({ children }: { children: ReactNode }) {
   const [order, setOrder] = useState<number[]>(() =>
-    shuffle(questions.map((_, i) => i)),
+    shuffle(questions_01.map((_, i) => i)),
   );
   const [pos, setPos] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
 
-  const question = questions[order[pos]];
+  const question = questions_01[order[pos]];
   const letters = useMemo(
     () => question.answers.map((_, i) => LETTERS[i] ?? '?'),
     [question],

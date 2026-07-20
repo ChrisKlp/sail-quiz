@@ -3,7 +3,7 @@ export interface Question {
   question: string;
   answers: string[];
   correct_answer: string;
-  image_url: string | null;
+  image_url?: string;
 }
 
 export type AnswerState = 'idle' | 'correct' | 'incorrect';
