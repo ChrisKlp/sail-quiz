@@ -1,0 +1,784 @@
+[
+  {
+    "id": 510,
+    "question": "Kto ogłasza alarm „Człowiek za burtą” ( MOB) ?",
+    "answers": [
+      "kapitan, po wywołaniu go na pokład",
+      "kapitan, po wywołaniu załogi na pokład",
+      "osoba, która pierwsza zauważyła wypadnięcie człowieka"
+    ],
+    "correct_answer": "osoba, która pierwsza zauważyła wypadnięcie człowieka"
+  },
+  {
+    "id": 511,
+    "question": "Pozycja „HELP” to:",
+    "answers": [
+      "sposób założenia kamizelki ratunkowej",
+      "jeden ze sposobów wzywania pomocy",
+      "sposób ułożenia ciała w wodzie zmniejszający utratę ciepła"
+    ],
+    "correct_answer": "sposób ułożenia ciała w wodzie zmniejszający utratę ciepła"
+  },
+  {
+    "id": 512,
+    "question": "Hipotermia występuje w wyniku:",
+    "answers": [
+      "przegrzania ciała",
+      "wychłodzenia ciała",
+      "przemęczenia"
+    ],
+    "correct_answer": "wychłodzenia ciała"
+  },
+  {
+    "id": 513,
+    "question": "Do gaszenia urządzeń elektrycznych użyjesz:",
+    "answers": [
+      "gaśnicę pianową",
+      "gaśnicę proszkową",
+      "koc zamoczony w wodzie"
+    ],
+    "correct_answer": "gaśnicę proszkową"
+  },
+  {
+    "id": 514,
+    "question": "Co powinno cechować linkę (taśmę), na końcu której podawane jest koło ratunkowe:",
+    "answers": [
+      "niepalność",
+      "duża grubość",
+      "pływalność"
+    ],
+    "correct_answer": "pływalność"
+  },
+  {
+    "id": 515,
+    "question": "Jakie natychmiastowe działania po wywrotce jachtu podejmiesz w pierwszej kolejności:",
+    "answers": [
+      "zabezpieczysz sprzęt przed zdryfowaniem",
+      "natychmiast popłyniesz z załogą do brzegu",
+      "policzysz załogę i założysz pasy ratunkowe"
+    ],
+    "correct_answer": "policzysz załogę i założysz pasy ratunkowe"
+  },
+  {
+    "id": 516,
+    "question": "W trakcie RKO, klatkę piersiową u osoby dorosłej uciskasz z częstotliwością:",
+    "answers": [
+      "60 razy na minutę",
+      "100 razy na minutę",
+      "120 razy na minutę"
+    ],
+    "correct_answer": "100 razy na minutę"
+  },
+  {
+    "id": 517,
+    "question": "Widzisz na pokładzie człowieka, który powtarza powolne podnoszenie i opuszczanie ramion wyprostowanych w bok, co to oznacza:",
+    "answers": [
+      "sygnał wzywania pomocy",
+      "nic nie znaczy",
+      "ćwiczenia fizyczne z Chodakowską ;)"
+    ],
+    "correct_answer": "sygnał wzywania pomocy"
+  },
+  {
+    "id": 518,
+    "question": "Widzisz podniesioną kulę a nad nią lub pod nią flagę, oznacza to:",
+    "answers": [
+      "mam nurka pod wodą",
+      "jestem na mieliźnie",
+      "sygnał wzywania pomocy"
+    ],
+    "correct_answer": "sygnał wzywania pomocy"
+  },
+  {
+    "id": 519,
+    "question": "Jak unieruchomisz nogę przy złamaniu kości podudzia:",
+    "answers": [
+      "unieruchomisz sąsiednie stawy (kolanowy i skokowy)",
+      "unieruchomisz tylko staw skokowy",
+      "unieruchomisz tylko staw kolanowy"
+    ],
+    "correct_answer": "unieruchomisz sąsiednie stawy (kolanowy i skokowy)"
+  },
+  {
+    "id": 520,
+    "question": "Gwałtowne poruszanie się człowieka w zimnej wodzie:",
+    "answers": [
+      "wydłuża czas przeżycia",
+      "skraca czas przeżycia",
+      "nie ma wpływu na czas przeżycia"
+    ],
+    "correct_answer": "skraca czas przeżycia"
+  },
+  {
+    "id": 521,
+    "question": "Jak zabezpieczysz załogę przed wypadnięciem za burtę w czasie sztormu:",
+    "answers": [
+      "załoga ma zakaz chodzenia po burtach",
+      "załoga ubrana w kamizelki ratunkowe przebywa pod pokładem",
+      "załoga ubrana w kamizelki ratunkowe i pasy bezpieczeństwa przebywa w kokpicie wpięta w rozciągniętą na pokładzie sztormlinę"
+    ],
+    "correct_answer": "załoga ubrana w kamizelki ratunkowe i pasy bezpieczeństwa przebywa w kokpicie wpięta w rozciągniętą na pokładzie sztormlinę"
+  },
+  {
+    "id": 522,
+    "question": "Sygnał wezwania pomocy przez radio na morzu to:",
+    "answers": [
+      "„MAYDAY, MAYDAY, MAYDAY”",
+      "„SECURITE, SECURITE, SECURITE”",
+      "PAN-PAN, PAN-PAN, PAN-PAN”"
+    ],
+    "correct_answer": "„MAYDAY, MAYDAY, MAYDAY”"
+  },
+  {
+    "id": 523,
+    "question": "W czasie sztormu, gdy jacht znajduje się w drodze, załoga powinna:",
+    "answers": [
+      "przebywać na pokładzie w założonych kamizelkach ratunkowych",
+      "przebywać pod pokładem",
+      "przebywać pod pokładem w szczelnie zamkniętej kabinie, w kamizelkach ratunkowych"
+    ],
+    "correct_answer": "przebywać na pokładzie w założonych kamizelkach ratunkowych"
+  },
+  {
+    "id": 524,
+    "question": "Jak postąpisz przy omdleniu:",
+    "answers": [
+      "zaczniesz RKO",
+      "wyniesiesz ratowanego na świeże powietrze",
+      "ułożysz ratowanego w pozycji bezpiecznej w miejscu gdzie omdlał"
+    ],
+    "correct_answer": "wyniesiesz ratowanego na świeże powietrze"
+  },
+  {
+    "id": 525,
+    "question": "Czy kamizelka asekuracyjna zapewnia odwrócenie człowieka w wodzie twarzą do góry:",
+    "answers": [
+      "nie – brak kołnierza",
+      "tak",
+      "wszystko zależy od wagi człowieka"
+    ],
+    "correct_answer": "nie – brak kołnierza"
+  },
+  {
+    "id": 526,
+    "question": "Celowe wyjście jachtem na mieliznę to:",
+    "answers": [
+      "ształowanie",
+      "sztormowanie",
+      "sztrandowanie"
+    ],
+    "correct_answer": "sztrandowanie"
+  },
+  {
+    "id": 527,
+    "question": "Czy ratowanie życia na wodzie jest bezpłatne?",
+    "answers": [
+      "tak",
+      "nie",
+      "zależy od warunków atmosferycznych"
+    ],
+    "correct_answer": "tak"
+  },
+  {
+    "id": 528,
+    "question": "Człowiek w wodzie o temperaturze 10oC, może przeżyć:",
+    "answers": [
+      "ok 1 godziny",
+      "3 godzin",
+      "10 godzin"
+    ],
+    "correct_answer": "ok 1 godziny"
+  },
+  {
+    "id": 529,
+    "question": "Pozycja „CLINCH” osób znajdujących się w wodzie oznacza, że:",
+    "answers": [
+      "osoba jest w pozycji embrionalnej",
+      "kilka osób jest razem ciasno objętych",
+      "osoba obejmuje się ramionami"
+    ],
+    "correct_answer": "kilka osób jest razem ciasno objętych"
+  },
+  {
+    "id": 530,
+    "question": "Wyporność kamizelki ratunkowej dla przeciętnej osoby dorosłej wynosi:",
+    "answers": [
+      "100 N",
+      "300 N",
+      "500 N"
+    ],
+    "correct_answer": "100 N"
+  },
+  {
+    "id": 531,
+    "question": "Używanie pirotechnicznych środków wzywania pomocy powinno odbywać się:",
+    "answers": [
+      "na nawietrznej burcie jachtu",
+      "na zawietrznej burcie jachtu",
+      "a dziobie jachtu od strony nawietrznej"
+    ],
+    "correct_answer": "na zawietrznej burcie jachtu"
+  },
+  {
+    "id": 532,
+    "question": "Przy RKO po ilu cyklach powinieneś ocenić skutki ratowania:",
+    "answers": [
+      "po 2 cyklach",
+      "po 4 cyklach",
+      "c) po 6 cyklach"
+    ],
+    "correct_answer": "po 4 cyklach"
+  },
+  {
+    "id": 533,
+    "question": "Ubranie się w kilka warstw odzieży w wodzie, po wywrotce jachtu:",
+    "answers": [
+      "zmniejsza szanse przeżycia",
+      "nie wpływa na szanse przeżycia",
+      "zwiększa szanse przeżycia"
+    ],
+    "correct_answer": "zwiększa szanse przeżycia"
+  },
+  {
+    "id": 534,
+    "question": "Jakiego koloru rakiet należy użyć celem wezwania pomocy ?",
+    "answers": [
+      "zielonych",
+      "czerwonych",
+      "białych"
+    ],
+    "correct_answer": "czerwonych"
+  },
+  {
+    "id": 535,
+    "question": "Udrażnianie dróg oddechowych odbywa się poprzez:",
+    "answers": [
+      "odchylenie głowy do tyłu i uniesienie żuchwy do góry",
+      "ułożenie w pozycji bezpiecznej",
+      "ułożenie ratowanego na brzuchu"
+    ],
+    "correct_answer": "odchylenie głowy do tyłu i uniesienie żuchwy do góry"
+  },
+  {
+    "id": 536,
+    "question": "Człowiekowi, który wypadł za burtę koło ratunkowe należy rzucać blisko niego:",
+    "answers": [
+      "od strony, w którą ma zwróconą twarz",
+      "od jego zawietrznej",
+      "od jego nawietrznej"
+    ],
+    "correct_answer": "od jego nawietrznej"
+  },
+  {
+    "id": 537,
+    "question": "Jaką przyjmujemy pozycję w zimnej wodzie chcąc zachować jak najdłużej ciepło własne?",
+    "answers": [
+      "na plecach",
+      "pionową",
+      "pozycję help (embrionalna)"
+    ],
+    "correct_answer": "pozycję help (embrionalna)"
+  },
+  {
+    "id": 538,
+    "question": "Kamizelka ratunkowa jest środkiem ratunkowym zapewniającym:",
+    "answers": [
+      "utrzymanie człowieka na powierzchni wody przez 1 godzinę",
+      "ratowanie człowieka z wszelkich trudnych sytuacji w czasie żeglugi",
+      "utrzymanie człowieka na powierzchni wody w pozycji umożliwiającej swobodne oddychanie (twarzą do góry)"
+    ],
+    "correct_answer": "utrzymanie człowieka na powierzchni wody w pozycji umożliwiającej swobodne oddychanie (twarzą do góry)"
+  },
+  {
+    "id": 539,
+    "question": "Człowiekowi, który wypadł za burtę, koło ratunkowe należy rzucać blisko niego:",
+    "answers": [
+      "od jego nawietrznej",
+      "od jego zawietrznej",
+      "od tej strony, w którą ma zwróconą twarz"
+    ],
+    "correct_answer": "od jego nawietrznej"
+  },
+  {
+    "id": 540,
+    "question": "W trakcie żeglugi bezpieczniej jest poruszać się po pokładzie po burcie:",
+    "answers": [
+      "zawietrznej",
+      "nawietrznej",
+      "nie ma to znaczenia"
+    ],
+    "correct_answer": "nawietrznej"
+  },
+  {
+    "id": 541,
+    "question": "W pobliżu jachtu na Zatoce Gdańskiej zaobserwowano pomarańczowy dym. Co to oznacza?",
+    "answers": [
+      "wzywanie pomocy",
+      "wzywanie pilota",
+      "ostrzeżenie „manewruję z trudem”"
+    ],
+    "correct_answer": "wzywanie pomocy"
+  },
+  {
+    "id": 542,
+    "question": "Po wywrotce jachtu należy przede wszystkim:",
+    "answers": [
+      "najpierw zebrać sprzęt, który wypadł z jachtu, a potem opuścić żagle",
+      "natychmiast wzywać pomocy",
+      "sprawdzić czy cała załoga jest na powierzchni wody, założyć pasy ratunkowe, zabezpieczyć jacht przed wywróceniem do góry dnem"
+    ],
+    "correct_answer": "sprawdzić czy cała załoga jest na powierzchni wody, założyć pasy ratunkowe, zabezpieczyć jacht przed wywróceniem do góry dnem"
+  },
+  {
+    "id": 543,
+    "question": "Jak wzywać pomocy w nocy (wody śródlądowe – do dyspozycji jest tylko latarka)?",
+    "answers": [
+      "nadawać długie błyski",
+      "zataczać zapaloną latarką kręgi",
+      "poruszać latarką poziomo"
+    ],
+    "correct_answer": "zataczać zapaloną latarką kręgi"
+  },
+  {
+    "id": 544,
+    "question": "Po wyłowieniu człowieka, który wypadł za burtę stwierdzono, że nie oddycha. Co robić?",
+    "answers": [
+      "natychmiast rozpocząć akcję resuscytacyjną i wezwać pomoc",
+      "wezwać pomoc, jak najszybciej płynąć do brzegu i czekać na pomoc lekarską",
+      "ułożyć człowieka w pozycji bezpiecznej i zabezpieczyć przed utrata ciepła"
+    ],
+    "correct_answer": "natychmiast rozpocząć akcję resuscytacyjną i wezwać pomoc"
+  },
+  {
+    "id": 545,
+    "question": "Gwałtowne poruszanie się człowieka w zimnej wodzie powoduje:",
+    "answers": [
+      "polepszenie samopoczucia, lecz nie ma wpływu na czas przeżycia",
+      "wydłuża czas przeżycia",
+      "skraca czas przeżycia"
+    ],
+    "correct_answer": "skraca czas przeżycia"
+  },
+  {
+    "id": 546,
+    "question": "Przy złamaniu kończyny należy :",
+    "answers": [
+      "wezwać pogotowie ratunkowe",
+      "ułożyć poszkodowanego w tzw. pozycji bezpiecznej",
+      "usztywnić 2 przyległe stawy, możliwie szybko zapewnić poszkodowanemu pomoc lekarską"
+    ],
+    "correct_answer": "usztywnić 2 przyległe stawy, możliwie szybko zapewnić poszkodowanemu pomoc lekarską"
+  },
+  {
+    "id": 547,
+    "question": "Na jachcie zerwała się top-wanta nawietrzna, maszt nie złamał się. Jakie działanie podjąć?",
+    "answers": [
+      "jak najszybciej wykonać zwrot przez sztag i dokonać prowizorycznej naprawy",
+      "wyostrzyć do linii wiatru, zrzucić żagle i dokonać prowizorycznej naprawy",
+      "odpaść do baksztagu i dokonać prowizorycznej naprawy"
+    ],
+    "correct_answer": "jak najszybciej wykonać zwrot przez sztag i dokonać prowizorycznej naprawy"
+  },
+  {
+    "id": 548,
+    "question": "Człowieka z wody podejmujemy:",
+    "answers": [
+      "w miejscu gdzie jest najłatwiej przy zachowaniu stateczności jednostki",
+      "zawsze z burty nawietrznej",
+      "przy dziobie jachtu"
+    ],
+    "correct_answer": "w miejscu gdzie jest najłatwiej przy zachowaniu stateczności jednostki"
+  },
+  {
+    "id": 549,
+    "question": "W jakie osobiste środki ratunkowe ma być wyposażony jacht żeglujący na wodach śródlądowych?",
+    "answers": [
+      "zgodnie z dokumentem rejestracyjnym lub bezpieczeństwa, a jeśli takiego dokumentu nie ma to w pasy/kamizelki ratunkowe w liczbie takiej jak liczba osób na jachcie",
+      "pasy/kamizelki ratunkowe i pasy bezpieczeństwa dla wszystkich osób na pokładzie",
+      "tyle ile jest osób na pokładzie plus jedna lub koło ratunkowe"
+    ],
+    "correct_answer": "zgodnie z dokumentem rejestracyjnym lub bezpieczeństwa, a jeśli takiego dokumentu nie ma to w pasy/kamizelki ratunkowe w liczbie takiej jak liczba osób na jachcie"
+  },
+  {
+    "id": 550,
+    "question": "Pierwsza pomoc przy krwawiących ranach otwartych kończyn:",
+    "answers": [
+      "przemywamy ranę czystą wodą np. mineralną, zakładamy opatrunek, przekazujemy poszkodowanego do lekarza",
+      "usuwamy obce ciała z rany następnie przemywamy ja czystą wodą np. mineralną, zakładamy opatrunek uciskowy, przekazujemy poszkodowanego do lekarza",
+      "pozostawiamy ranę otwartą i jak najszybciej przekazujemy poszkodowanego do lekarza"
+    ],
+    "correct_answer": "przemywamy ranę czystą wodą np. mineralną, zakładamy opatrunek, przekazujemy poszkodowanego do lekarza"
+  },
+  {
+    "id": 551,
+    "question": "Hipotermia jest to stan organizmu z obniżoną temperaturą wewnętrzną spowodowany czynnikami zewnętrznymi jak np. woda, wiatr itp. Jak postępować z taką osobą?",
+    "answers": [
+      "zabezpieczyć przed dalszą utratą ciepła np. folia NRC, koc, śpiwór; poszkodowanemu można podać alkohol. jak najszybciej zapewnić opiekę lekarską",
+      "zabezpieczyć przed dalszą utratą ciepła np. folia NRC, koc, śpiwór; poszkodowanemu podać ciepłe osłodzone płyny; jak najszybciej zapewnić opiekę lekarską",
+      "zabezpieczyć przed dalszą utratą ciepła np. folia NRC, koc, śpiwór; nie podawać nic do picia; jak najszybciej zapewnić opiekę lekarską"
+    ],
+    "correct_answer": "zabezpieczyć przed dalszą utratą ciepła np. folia NRC, koc, śpiwór; poszkodowanemu podać ciepłe osłodzone płyny; jak najszybciej zapewnić opiekę lekarską"
+  },
+  {
+    "id": 552,
+    "question": "Gwałtowne uderzenie bardzo silnego wiatru zastało jacht mieczowy w pobliżu brzegu nawietrznego (wody śródlądowe), żagle zrzucono w porę jacht się nie przewrócił. Wiatr nadal bardzo silny. Brzeg bezpieczny. Jak postępować dalej ?",
+    "answers": [
+      "podnieść miecz, załoga na pokładzie w pasach/kamizelkach ratunkowych, sztrandować z wiatrem",
+      "przygotować kotwicę, miecza nie podnosić aby wolniej dryfować, blisko brzegu rzucić kotwicę",
+      "natychmiast rzucić kotwicę, załoga pozostaje pod pokładem"
+    ],
+    "correct_answer": "podnieść miecz, załoga na pokładzie w pasach/kamizelkach ratunkowych, sztrandować z wiatrem"
+  },
+  {
+    "id": 553,
+    "question": "Na jachcie żeglującym na Jeziorach Mazurskich zasłabł członek załogi ( wiatr bardzo słaby, jacht bez silnika). Jak najlepiej i najszybciej wezwać pomoc?",
+    "answers": [
+      "wezwać pomoc WOPR telefonicznie nr 601 100 100",
+      "nadawać sygnał wezwania pomocy rękami ( podnoszenie i opuszczanie)",
+      "zataczać kręgi czerwoną chorągiewką"
+    ],
+    "correct_answer": "wezwać pomoc WOPR telefonicznie nr 601 100 100"
+  },
+  {
+    "id": 554,
+    "question": "Na Zalewie Szczecińskim w dzień na skutek pęknięcia kadłuba jacht nabiera wody (jacht wyposażony zgodnie z przepisami). Jak najlepiej i najskuteczniej wezwać pomocy?",
+    "answers": [
+      "przy pomocy radiotelefonu UKF (procedura MAY DAY)",
+      "przy pomocy rakiet czerwonych",
+      "podnosząc pod salingiem sygnał: kula nad flagą"
+    ],
+    "correct_answer": "przy pomocy radiotelefonu UKF (procedura MAY DAY)"
+  },
+  {
+    "id": 555,
+    "question": "Na jeziorach Mazurskich w dzień na jachcie złamał się maszt, jacht jest bez silnika, brak telefonu. Jak najlepiej wzywać pomocy? (wg rozporządzenia w sprawie przepisów żeglugowych…)",
+    "answers": [
+      "podnosząc i opuszczając ręce i/lub zataczając koła dobrze widocznym przedmiotem",
+      "krzycząc głośno ratunku – pomocy",
+      "nadając latarką sygnał SOS"
+    ],
+    "correct_answer": "podnosząc i opuszczając ręce i/lub zataczając koła dobrze widocznym przedmiotem"
+  },
+  {
+    "id": 556,
+    "question": "Czy na jachcie żeglującym na Jeziorach Mazurskich kapitan ma prawo zarządzić, aby załoga założyła pasy/kamizelki ratunkowe?",
+    "answers": [
+      "tak",
+      "nie, to indywidualna decyzja członka załogi",
+      "przepisy tego nie określają"
+    ],
+    "correct_answer": "tak"
+  },
+  {
+    "id": 557,
+    "question": "Czy na Zatoce Gdańskiej i Zalewie Szczecińskim działa służba ratownictwa morskiego SAR?",
+    "answers": [
+      "tak, z centrum koordynacyjnym w Gdyni i stacjami ratownictwa w portach",
+      "nie, SAR działa tylko na pełnym morzu",
+      "nie, działa tam tylko WOPR"
+    ],
+    "correct_answer": "tak, z centrum koordynacyjnym w Gdyni i stacjami ratownictwa w portach"
+  },
+  {
+    "id": 558,
+    "question": "Prowadzący jacht polecił załodze założyć pasy /kamizelki ratunkowe. Jak powinna postępować załoga?",
+    "answers": [
+      "założyć pasy pod pokładem",
+      "wyjść z pasami na pokład i tam je założyć",
+      "trzymać je przy sobie, a zakładać dopiero w wodzie"
+    ],
+    "correct_answer": "wyjść z pasami na pokład i tam je założyć"
+  },
+  {
+    "id": 559,
+    "question": "Pierwszej pomocy przy oparzeniach udzielamy następująco:",
+    "answers": [
+      "szybkie ochłodzenie oparzonego miejsca przez polewanie zimną woda i nałożenie jałowego opatrunku",
+      "nałożenie tłustego kremu lub oliwy i jałowego opatrunku",
+      "przemycie alkoholem i nałożenie opatrunku"
+    ],
+    "correct_answer": "szybkie ochłodzenie oparzonego miejsca przez polewanie zimną woda i nałożenie jałowego opatrunku"
+  },
+  {
+    "id": 560,
+    "question": "Przed rozpoczęciem sztucznego oddychania u osoby nieprzytomnej należy:",
+    "answers": [
+      "udrożnić drogi oddechowe i prowadzić akcję sztucznego oddychania",
+      "zabezpieczyć poszkodowaną osobę przed utratą ciepła i prowadzić akcję",
+      "położyć osobę poszkodowaną na miękkim podłożu i natychmiast rozpocząć akcję"
+    ],
+    "correct_answer": "udrożnić drogi oddechowe i prowadzić akcję sztucznego oddychania"
+  },
+  {
+    "id": 561,
+    "question": "Z prawej burty jachtu zaobserwowano jednostkę nadającą sygnał jak na rysunku. Jak należy postąpić?",
+    "answers": [
+      "zmienić kurs i podejść do tej jednostki, nawiązać z nią łączność",
+      "nie zbliżać się, jednostka wykonuje prace podwodne",
+      "zatrzymać się i czekać na dalsze sygnały tej jednostki"
+    ],
+    "correct_answer": "zmienić kurs i podejść do tej jednostki, nawiązać z nią łączność",
+    "image_url": "page_052.png"
+  },
+  {
+    "id": 562,
+    "question": "Wybierz właściwy sposób postępowania osoby, która wypadła za burtę:",
+    "answers": [
+      "zachować spokój, wzywać pomocy, płynąć do brzegu,",
+      "płynąć za jachtem lub do brzegu możliwie jak najszybciej",
+      "zachować spokój, oszczędzać energię i siły, podpłynąć do rzuconego już koła i spokojnie czekać."
+    ],
+    "correct_answer": "zachować spokój, oszczędzać energię i siły, podpłynąć do rzuconego już koła i spokojnie czekać."
+  },
+  {
+    "id": 563,
+    "question": "Prowadząc sztuczne oddychanie i pośredni masaż serca wykonujemy:",
+    "answers": [
+      "15 uciśnięć mostka i 2 wdmuchnięcia powietrza",
+      "5 uciśnięć mostka i 1 wdmuchnięcie powietrza",
+      "30 uciśnięć mostka i 2 wdmuchnięcia powietrza"
+    ],
+    "correct_answer": "30 uciśnięć mostka i 2 wdmuchnięcia powietrza"
+  },
+  {
+    "id": 564,
+    "question": "Po całodziennej żegludze w lecie załoganta boli głowa, ma zaburzenia świadomości, ciepłą zaczerwienioną skórę i nudności. Czego to mogą być objawy i jak postępować ?",
+    "answers": [
+      "wyziębienia ciała, podać ciepły napój",
+      "porażenia słonecznego, zastosować zimne okłady, podać wodę mineralną, potrzebna pomoc lekarska",
+      "zatrucia pokarmowego, potrzebna szybka pomoc lekarska"
+    ],
+    "correct_answer": "porażenia słonecznego, zastosować zimne okłady, podać wodę mineralną, potrzebna pomoc lekarska"
+  },
+  {
+    "id": 565,
+    "question": "Jacht na Zatoce Gdańskiej dryfuje przy bardzo silnym wietrze do brzegu, nadano sygnały wzywania pomocy. Na brzegu wystrzelono zieloną rakietę, a stojący na brzegu macha białą chorągiewką. Co to oznacza i jak postępować ?",
+    "answers": [
+      "ostrzeżenie o niebezpiecznym miejscu, starać się sztrandować w innym miejscu",
+      "informacja o dobrym miejscu do sztrandowania, starać się sztrandować w tym miejscu",
+      "informacja, że wkrótce nadejdzie jednostka ratownicza ?"
+    ],
+    "correct_answer": "informacja o dobrym miejscu do sztrandowania, starać się sztrandować w tym miejscu"
+  },
+  {
+    "id": 566,
+    "question": "Jakie są PODSTAWOWE/NAJWAŻNIEJSZE obowiązki prowadzącego jacht przed wyjściem w rejs?",
+    "answers": [
+      "zapoznanie załogi ze sprzętem ratunkowym na jachcie, jego rozmieszczeniu i obsłudze (np. pasy/ kamizelki ratunkowe i bezpieczeństwa, gaśnice, itp.) i postępowaniem w niebezpieczeństwie",
+      "zapoznanie załogi z przepisami prawa drogi i oznakowaniem nawigacyjnym danego akwenu",
+      "zapoznanie załogi z zasadami etykiety jachtowej"
+    ],
+    "correct_answer": "zapoznanie załogi ze sprzętem ratunkowym na jachcie, jego rozmieszczeniu i obsłudze (np. pasy/ kamizelki ratunkowe i bezpieczeństwa, gaśnice, itp.) i postępowaniem w niebezpieczeństwie"
+  },
+  {
+    "id": 567,
+    "question": "W celu ugaszenia gaśnicą pożaru w komorze silnika należy:",
+    "answers": [
+      "lekko uchylić pokrywę komory i natychmiast użyć gaśnicy",
+      "otworzyć szeroko pokrywę komory, sprawdzić co się pali i dopiero użyć gaśnicy",
+      "otworzyć szeroko pokrywę komory i gasić ogień wodą podawaną z za burty"
+    ],
+    "correct_answer": "lekko uchylić pokrywę komory i natychmiast użyć gaśnicy"
+  },
+  {
+    "id": 568,
+    "question": "Po podjęciu nieprzytomnego człowieka z wody należy w PIERWSZEJ KOLEJNOŚCI sprawdzić:",
+    "answers": [
+      "oddech i tętno",
+      "czy nie jest zraniony",
+      "reakcję źrenic na światło"
+    ],
+    "correct_answer": "oddech i tętno"
+  },
+  {
+    "id": 569,
+    "question": "Niezatapialny jacht w lecie przewrócił się na dużym jeziorze w odległości ok. 1 km od zawietrznego brzegu. Wzywano pomoc ale na razie bez skutku. Jakie powinno być dalsze postępowanie?",
+    "answers": [
+      "załoga w pasach/kamizelkach ratunkowych powinna w grupie płynąć do lądu",
+      "załoga ciepło ubrana w pasach/kamizelkach ratunkowych powinna siedzieć na jachcie możliwie nie w wodzie; nadal wzywać pomocy",
+      "osoba najlepiej pływająca powinna płynąć do lądu po pomoc"
+    ],
+    "correct_answer": "załoga ciepło ubrana w pasach/kamizelkach ratunkowych powinna siedzieć na jachcie możliwie nie w wodzie; nadal wzywać pomocy"
+  },
+  {
+    "id": 570,
+    "question": "Zaobserwowano, że znajdujący się w pobliżu jacht ma podniesiony sygnał jak na rysunku. Co należy zrobić ?",
+    "answers": [
+      "taki sygnał nic nie oznacza, kontynuować swoje pływanie",
+      "jacht stoi na mieliźnie, nie podchodzić w pobliże",
+      "jacht wzywa pomocy, podejść i podjąć odpowiednie działania"
+    ],
+    "correct_answer": "jacht wzywa pomocy, podejść i podjąć odpowiednie działania",
+    "image_url": "page_061.png"
+  },
+  {
+    "id": 571,
+    "question": "Jak zachować się przy wywracaniu się jachtu (wywrotka już nieunikniona)?",
+    "answers": [
+      "działać tak aby nie wpaść pod żagiel",
+      "wyskoczyć od strony burty zawietrznej jak najdalej od jachtu",
+      "wyskoczyć za rufę"
+    ],
+    "correct_answer": "działać tak aby nie wpaść pod żagiel"
+  },
+  {
+    "id": 572,
+    "question": "Na jachcie czuć zapach tlącej się izolacji. Co zrobić w pierwszej kolejności?",
+    "answers": [
+      "jak najszybciej zlokalizować miejsce uszkodzenia",
+      "przygotować gaśnicę i czekać gdzie pojawi się dym",
+      "wyłączyć główny wyłącznik akumulatorów lub zdjąć klemy z akumulatora"
+    ],
+    "correct_answer": "wyłączyć główny wyłącznik akumulatorów lub zdjąć klemy z akumulatora"
+  },
+  {
+    "id": 573,
+    "question": "Po wywrotce jachtu Omega wieczorem (jesień - temp. wody ok. 10C, wiatr słabnący, do brzegu zawietrznego odl. ok. 3 km, do nawietrznego ok. 300 m) sternik ocenił, że należy płynąć na prowizorycznej tratwie do brzegu nawietrznego. Czy decyzja była słuszna?",
+    "answers": [
+      "tak, bo do tego brzegu jest bliżej, a istnieje niebezpieczeństwo wychłodzenia",
+      "nie, nigdy nie powinno się opuszczać jachtu",
+      "tak, ale dopiero jeżeli próby wzywania pomocy nie dały rezultatu (w rozsądnym czasie)"
+    ],
+    "correct_answer": "tak, ale dopiero jeżeli próby wzywania pomocy nie dały rezultatu (w rozsądnym czasie)"
+  },
+  {
+    "id": 574,
+    "question": "Co może być pomocne przy próbie postawienia niewielkiego jachtu mieczowego po wywrotce, jeżeli dotychczasowe próby postawienia nie dały rezultatu?",
+    "answers": [
+      "podniesienie miecza i steru",
+      "zrzucenie żagli i położenie masztu",
+      "ustawienie jachtu rufą do wiatru"
+    ],
+    "correct_answer": "zrzucenie żagli i położenie masztu"
+  },
+  {
+    "id": 575,
+    "question": "O stateczności poprzecznej jachtu decyduje wzajemne położenie:",
+    "answers": [
+      "środka ciężkości jachtu i środka oporu bocznego",
+      "środka ożaglowania i środka wyporu części zanurzonej kadłuba",
+      "środka ciężkości jachtu i środka wyporu części zanurzonej kadłuba"
+    ],
+    "correct_answer": "środka ciężkości jachtu i środka wyporu części zanurzonej kadłuba"
+  },
+  {
+    "id": 576,
+    "question": "Jaki jest numer ratunkowy telefonu WOPR (ratownictwo na jeziorach)?",
+    "answers": [
+      "600 100 100",
+      "601 100 100",
+      "601 101 101"
+    ],
+    "correct_answer": "601 100 100"
+  },
+  {
+    "id": 577,
+    "question": "Członek załogi przewrócił się na pokładzie, ma silny ból klatki piersiowej szczególnie przy wdechu. Jak udzielić mu pierwszej pomocy?",
+    "answers": [
+      "umieścić go w pozycji półsiedzącej w miejscu najmniej narażonym na kołysanie, założyć okrężna opaskę z szerokiego bandaża na klatkę piersiową, podać środki przeciwbólowe",
+      "ułożyć go w pozycji bezpiecznej, w miejscu dobrze wentylowanym",
+      "podawać ciepłe płyny i środki przeciwkaszlowe"
+    ],
+    "correct_answer": "umieścić go w pozycji półsiedzącej w miejscu najmniej narażonym na kołysanie, założyć okrężna opaskę z szerokiego bandaża na klatkę piersiową, podać środki przeciwbólowe"
+  },
+  {
+    "id": 578,
+    "question": "Przy pracach konserwacyjnych członek załogi oparzył się kwasem z akumulatora. Jak udzielić pierwszej pomocy?",
+    "answers": [
+      "nałożyć na miejsce oparzone sterylny opatrunek",
+      "starannie i długo płukać miejsce oparzone wodą, a następnie roztworem sody oczyszczonej lub mydła; nałożyć sterylny opatrunek",
+      "nałożyć na miejsce oparzone okład alkaliczny np. z mydła"
+    ],
+    "correct_answer": "starannie i długo płukać miejsce oparzone wodą, a następnie roztworem sody oczyszczonej lub mydła; nałożyć sterylny opatrunek"
+  },
+  {
+    "id": 579,
+    "question": "Członek załogi doznał urazu stawu skokowego ( ból i zasinienie) jak należy postępować?",
+    "answers": [
+      "nałożyć ciasny bandaż, trzymać nogę w cieple",
+      "unieruchomić całą kończynę, wzywać natychmiast pomoc lekarską",
+      "zastosować zimne okłady przez 15 – 30 minut, unieruchomić staw, podać środki przeciwbólowe, przekazać poszkodowanego pod opiekę lekarską"
+    ],
+    "correct_answer": "zastosować zimne okłady przez 15 – 30 minut, unieruchomić staw, podać środki przeciwbólowe, przekazać poszkodowanego pod opiekę lekarską"
+  },
+  {
+    "id": 580,
+    "question": "Na małym jachcie wywracalnym (np. OMEGA) jest 5 osób. Jedna wypadła za burtę. Jak do niej podejść i jak ją najbezpieczniej wyciągnąć na jacht?",
+    "answers": [
+      "podejść bajdewindem burtą nawietrzną, przeprowadzić osobę w wodzie na rufę i tam ją wyciągnąć na pokład",
+      "podejść bajdewindem burtą nawietrzną, przeprowadzić osobę w wodzie na dziob i tam ją wyciągnąć na pokład",
+      "podejść bajdewindem burtą nawietrzną, dwie osoby balastują, a dwie wyciągają człowieka na pokład na śródokręciu"
+    ],
+    "correct_answer": "podejść bajdewindem burtą nawietrzną, dwie osoby balastują, a dwie wyciągają człowieka na pokład na śródokręciu"
+  },
+  {
+    "id": 581,
+    "question": "Na jachcie jest silnik przyczepny na pantografie rufowym po stronie lewej burty. Wypadł człowiek za burtę, uruchomiono silnik. Jak podchodzić do człowieka najszybciej i najbezpieczniej?",
+    "answers": [
+      "na silniku w bajdewindzie lub pod wiatr lewą burtą",
+      "na silniku w bajdewindzie lub pod wiatr prawą burtą",
+      "najpierw zrzucić żagle i dopiero potem podchodzić w dowolny sposób"
+    ],
+    "correct_answer": "na silniku w bajdewindzie lub pod wiatr prawą burtą"
+  },
+  {
+    "id": 582,
+    "question": "Jacht żegluje bajdewindem lewego halsu, zauważono, że zerwała się prawa topwanta (rozkręcił się ściągacz) Co należy zrobić?",
+    "answers": [
+      "zmienić kurs do linii wiatru, zrzucić żagle, uruchomić silnik, płynąć do portu",
+      "zluzować nieco żagle nie zmieniając kursu, połączyć i skręcić ściągacz i zabezpieczyć go",
+      "wykonać zwrot przez sztag, zrzucić żagle, jak najszybciej założyć awaryjną wantę"
+    ],
+    "correct_answer": "zluzować nieco żagle nie zmieniając kursu, połączyć i skręcić ściągacz i zabezpieczyć go"
+  },
+  {
+    "id": 583,
+    "question": "Na jeziorach Mazurskich na maszcie sygnałowym w pobliżu wejścia do kanału Tałckiego zaobserwowano żółte światło pulsujące ( błysk w przybliżeniu co 2 sekundy). Co to może oznaczać ?",
+    "answers": [
+      "zakaz wejścia do kanału",
+      "oznaczenie wejścia do kanału",
+      "ostrzeżenie o burzach i możliwości wystąpienia bardzo silnego wiatru"
+    ],
+    "correct_answer": "ostrzeżenie o burzach i możliwości wystąpienia bardzo silnego wiatru"
+  },
+  {
+    "id": 584,
+    "question": "Na jeziorach Mazurskich na maszcie sygnałowym przy wejściu do kanału Jeglińskiego zaobserwowano żółte światło pulsujące ( błysk częściej niż co 1 sekundę). Co to może oznaczać ?",
+    "answers": [
+      "zakaz wejścia do kanału",
+      "oznaczenie wejścia do kanału",
+      "ostrzeżenie bezpośrednim niebezpieczeństwie wystąpienia burz i bardzo silnego wiatru"
+    ],
+    "correct_answer": "ostrzeżenie bezpośrednim niebezpieczeństwie wystąpienia burz i bardzo silnego wiatru"
+  },
+  {
+    "id": 585,
+    "question": "Czy pływając jachtem na jeziorach Mazurskich można korzystać z telefonicznych ostrzeżeń meteorologicznych?",
+    "answers": [
+      "tak, telefonując na nr informacyjny rejonu dróg wodnych",
+      "tak, zamawiając usługę ostrzeżeń w mazurskim WOPR wysyłanych jako sms",
+      "nie, takich możliwości nie ma"
+    ],
+    "correct_answer": "tak, zamawiając usługę ostrzeżeń w mazurskim WOPR wysyłanych jako sms"
+  },
+  {
+    "id": 586,
+    "question": "Zauważyliśmy wywrócony jacht i załogę tego jachtu w wodzie. Jak postępujemy?",
+    "answers": [
+      "płyniemy jak najszybciej do najbliższej przystani celem wezwania pomocy",
+      "w bezpiecznej odległości od przewróconego jachtu zrzucamy żagle i z prędkością minimalną podpływamy do przewróconego jachtu i ratujemy ludzi, a potem sprzęt",
+      "w bezpiecznej odległości od przewróconego jachtu, słownie instruujemy jak mają postępować"
+    ],
+    "correct_answer": "w bezpiecznej odległości od przewróconego jachtu zrzucamy żagle i z prędkością minimalną podpływamy do przewróconego jachtu i ratujemy ludzi, a potem sprzęt"
+  },
+  {
+    "id": 587,
+    "question": "Do człowieka za burtą lekkim jachtem podchodzimy:",
+    "answers": [
+      "kursem ostry bajdewind i burtą zawietrzną",
+      "kursem ostry bajdewind i burtą nawietrzną",
+      "kursem półwiatrem i burtą zawietrzną"
+    ],
+    "correct_answer": "kursem ostry bajdewind i burtą nawietrzną"
+  }
+]

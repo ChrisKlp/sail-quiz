@@ -1,0 +1,744 @@
+[
+  {
+    "id": 437,
+    "question": "Wiatr jest ruchem powietrza:",
+    "answers": [
+      "wywołanym różnicą ciśnień i płynącym od niżu do wyżu",
+      "wywołanym ruchem obrotowym ziemi i płynącym zgodnie z kierunkiem tego ruchu",
+      "wywołanym różnicą ciśnień i płynącym od wyżu do niżu"
+    ],
+    "correct_answer": "wywołanym różnicą ciśnień i płynącym od wyżu do niżu"
+  },
+  {
+    "id": 438,
+    "question": "Zagęszczenie izobar na mapie pogody informuje:",
+    "answers": [
+      "o słabnięciu wiatru",
+      "zmianie zachmurzenia",
+      "wystąpieniu silnego wiatru"
+    ],
+    "correct_answer": "wystąpieniu silnego wiatru"
+  },
+  {
+    "id": 439,
+    "question": "Przy dobrej pogodzie zaobserwowano chmury cirrus i cirrostratus, zwiastuje to:",
+    "answers": [
+      "dalsze utrzymywanie się dobrej pogody",
+      "zbliżanie się frontu chłodnego",
+      "zbliżanie się frontu ciepłego"
+    ],
+    "correct_answer": "zbliżanie się frontu ciepłego"
+  },
+  {
+    "id": 440,
+    "question": "W komunikacie meteorologicznym podano, że nad środkową Polską będzie przemieszczał się front chłodny z zachodu na wschód. Jakiej pogody można się spodziewać na Zalewie Zegrzyńskim?",
+    "answers": [
+      "bez opadów, małe zachmurzenie",
+      "ciągły opad deszczu słabnący wiatr",
+      "duże zachmurzenia, burze, szkwały"
+    ],
+    "correct_answer": "duże zachmurzenia, burze, szkwały"
+  },
+  {
+    "id": 441,
+    "question": "Wystąpienia zjawiska dyszy należy spodziewać się:",
+    "answers": [
+      "na środku dużego jeziora",
+      "w przesmyku między zalesionymi wyspami",
+      "za wysokim brzegiem"
+    ],
+    "correct_answer": "w przesmyku między zalesionymi wyspami"
+  },
+  {
+    "id": 442,
+    "question": "Wiatr o prędkości 5 węzłów, ile to w skali Beauforta:",
+    "answers": [
+      "1B",
+      "2B",
+      "3B"
+    ],
+    "correct_answer": "2B"
+  },
+  {
+    "id": 443,
+    "question": "Wiatr o prędkości 13 węzłów, ile to w skali Beauforta:",
+    "answers": [
+      "2B",
+      "3B",
+      "4B"
+    ],
+    "correct_answer": "4B"
+  },
+  {
+    "id": 444,
+    "question": "Wiatr o prędkości 25 węzłów, ile to w skali Beauforta:",
+    "answers": [
+      "4B",
+      "5B",
+      "6B"
+    ],
+    "correct_answer": "6B"
+  },
+  {
+    "id": 445,
+    "question": "Wiatr o prędkości 50 węzłów, ile to w skali Beauforta:",
+    "answers": [
+      "8B (sztorm)",
+      "9B (silny sztorm)",
+      "10B (bardzo silny sztorm)"
+    ],
+    "correct_answer": "10B (bardzo silny sztorm)"
+  },
+  {
+    "id": 446,
+    "question": "Chmury piętra wysokiego:",
+    "answers": [
+      "altostratus, altocumulus",
+      "stratus, stratocumulus, nimbostratus",
+      "cirrostratus, cirrocumulus"
+    ],
+    "correct_answer": "cirrostratus, cirrocumulus"
+  },
+  {
+    "id": 447,
+    "question": "Informacja „ ostrzeżenie przed silnym wiatrem” występująca w komunikacie meteorologicznym oznacza:",
+    "answers": [
+      "nadejście sztormu o sile wiatru 8B",
+      "siłę wiatru 4B",
+      "siłę wiatru 6B"
+    ],
+    "correct_answer": "siłę wiatru 6B"
+  },
+  {
+    "id": 448,
+    "question": "Sztorm to wiatr o sile:",
+    "answers": [
+      "4B",
+      "6B",
+      "8B"
+    ],
+    "correct_answer": "8B"
+  },
+  {
+    "id": 449,
+    "question": "Wiatr wieje:",
+    "answers": [
+      "od wyżu do niżu",
+      "od niżu do wyżu",
+      "tylko w centrum niżu"
+    ],
+    "correct_answer": "od wyżu do niżu"
+  },
+  {
+    "id": 450,
+    "question": "Jakie chmury informują o zbliżaniu się frontu ciepłego:",
+    "answers": [
+      "Cu, Nb, Sc",
+      "Ci, Cs, As",
+      "Ac, Sc, Cc"
+    ],
+    "correct_answer": "Ci, Cs, As"
+  },
+  {
+    "id": 451,
+    "question": "Chmury piętra średniego:",
+    "answers": [
+      "altostratus, altocumulus",
+      "stratus, stratocumulus, nimbostratus",
+      "cirrostratus, cirrocumulus"
+    ],
+    "correct_answer": "altostratus, altocumulus"
+  },
+  {
+    "id": 452,
+    "question": "Na mapie synoptycznej pokazanej w TV środek wyżu jest położony na północ od naszej pozycji. Jakiego kierunku wiatru można się spodziewać?",
+    "answers": [
+      "północno wschodniego",
+      "południowo wschodniego",
+      "zachodniego"
+    ],
+    "correct_answer": "północno wschodniego"
+  },
+  {
+    "id": 453,
+    "question": "Podczas bryzy dziennej wiatr wieje:",
+    "answers": [
+      "wzdłuż brzegu ze wschodu",
+      "z morza na ląd",
+      "z lądu na morze"
+    ],
+    "correct_answer": "z morza na ląd"
+  },
+  {
+    "id": 454,
+    "question": "prognozie określono wiatr jako „słaby”.",
+    "answers": [
+      "w skali Beauforta to „7B”",
+      "w skali Beauforta to „2B”",
+      "w skali Beauforta to „5B”"
+    ],
+    "correct_answer": "w skali Beauforta to „2B”"
+  },
+  {
+    "id": 455,
+    "question": "W niżu najniższe ciśnienie panuje:",
+    "answers": [
+      "w centrum niżu",
+      "na obrzeżach niżu",
+      "w niżu nie ma różnic ciśnienia"
+    ],
+    "correct_answer": "w centrum niżu"
+  },
+  {
+    "id": 456,
+    "question": "Chmury piętra niskiego to:",
+    "answers": [
+      "stratus, stratocumulus, nimbostratus",
+      "altostratus, altocumulus",
+      "cirrostratus, cirrocumulus"
+    ],
+    "correct_answer": "stratus, stratocumulus, nimbostratus"
+  },
+  {
+    "id": 457,
+    "question": "Flauta – sztil, to określenie:",
+    "answers": [
+      "fali przybojowej",
+      "mgły porannej",
+      "zupełny brak wiatru"
+    ],
+    "correct_answer": "zupełny brak wiatru"
+  },
+  {
+    "id": 458,
+    "question": "Na horyzoncie widać chmurę jak obok, słychać grzmoty. Jakiej pogody można się spodziewać?",
+    "answers": [
+      "silny wiatr bez opadów",
+      "gwałtowne opady, silne szkwały",
+      "długotrwały deszcz, słaby wiatr"
+    ],
+    "correct_answer": "gwałtowne opady, silne szkwały",
+    "image_url": "page_022.png"
+  },
+  {
+    "id": 459,
+    "question": "Wiatr przyziemny w wyżu wieje:",
+    "answers": [
+      "prostopadle do izobar od centrum wyżu",
+      "do centrum wyżu z zewnątrz",
+      "od środka wyżu odchylony zgodnie z ruchem wskazówek zegara, kąt 20-40 stopni do izobary"
+    ],
+    "correct_answer": "od środka wyżu odchylony zgodnie z ruchem wskazówek zegara, kąt 20-40 stopni do izobary"
+  },
+  {
+    "id": 460,
+    "question": "Chmury nie dające opadów to:",
+    "answers": [
+      "cirrus, cirrocumulus, altocumulus",
+      "stratus, altostratus, nimbostratus",
+      "cumulonimbus, nimbostratus"
+    ],
+    "correct_answer": "cirrus, cirrocumulus, altocumulus"
+  },
+  {
+    "id": 461,
+    "question": "Jakiej pogody można spodziewać się na obszarze wyżowym?",
+    "answers": [
+      "duże zachmurzenie opady",
+      "burze, opady przelotne",
+      "małe zachmurzenie lub bezchmurnie brak opadów"
+    ],
+    "correct_answer": "małe zachmurzenie lub bezchmurnie brak opadów"
+  },
+  {
+    "id": 462,
+    "question": "Radiowy morski komunikat meteorologiczny posiada następujący schemat:",
+    "answers": [
+      "prognoza na następne 24 godziny",
+      "ostrzeżenia, sytuacja baryczna, prognoza na 12 godzin, orientacyjna prognoza na następne 12 godzin",
+      "omówienie sytuacji barycznej, prognoza na 12 godzi"
+    ],
+    "correct_answer": "ostrzeżenia, sytuacja baryczna, prognoza na 12 godzin, orientacyjna prognoza na następne 12 godzin"
+  },
+  {
+    "id": 463,
+    "question": "Które z wymienionych chmur dają znaczne opady?",
+    "answers": [
+      "cirrus i stratus",
+      "altostratus i altocumulus",
+      "nimbostratus i cumulonimbus"
+    ],
+    "correct_answer": "nimbostratus i cumulonimbus"
+  },
+  {
+    "id": 464,
+    "question": "Na półkuli północnej w niżu wiatr wieje?",
+    "answers": [
+      "w niżu nie ma wiatru",
+      "przeciwnie do ruchu wskazówek zegara w kierunku centrum niżu",
+      "zgodnie z ruchem wskazówek zegara w kierunku centrum niżu"
+    ],
+    "correct_answer": "przeciwnie do ruchu wskazówek zegara w kierunku centrum niżu"
+  },
+  {
+    "id": 465,
+    "question": "Bryza dzienna to wiatr lokalny wiejący:",
+    "answers": [
+      "od strony morza lub jeziora w kierunku lądu",
+      "od strony lądu na morze lub jezioro",
+      "wzdłuż brzegu"
+    ],
+    "correct_answer": "od strony morza lub jeziora w kierunku lądu"
+  },
+  {
+    "id": 466,
+    "question": "Na mapie synoptycznej taki symbol oznacza:",
+    "answers": [
+      "front ciepły",
+      "front zokludowany",
+      "front chłodny"
+    ],
+    "correct_answer": "front chłodny",
+    "image_url": "page_030.png"
+  },
+  {
+    "id": 467,
+    "question": "W komunikatach pogody nadawanych przez radio podawane są przede wszystkim poniższe informacje:",
+    "answers": [
+      "wilgotność względna",
+      "kierunek i siła wiatru, temperatura, opad",
+      "rodzaje występujących chmur"
+    ],
+    "correct_answer": "kierunek i siła wiatru, temperatura, opad"
+  },
+  {
+    "id": 468,
+    "question": "Na mapie synoptycznej taki symbol oznacza:",
+    "answers": [
+      "front ciepły",
+      "front zokludowany",
+      "front chłodny"
+    ],
+    "correct_answer": "front ciepły",
+    "image_url": "page_032.png"
+  },
+  {
+    "id": 469,
+    "question": "Bryza dzienna (morska) to wiatr lokalny wiejący:",
+    "answers": [
+      "od strony lądu nad morze lub jezioro",
+      "od strony morza lub jeziora nad ląd",
+      "wzdłuż brzegu"
+    ],
+    "correct_answer": "od strony morza lub jeziora nad ląd"
+  },
+  {
+    "id": 470,
+    "question": "Powierzchnia (warstwa) rozdzielająca masę powietrza ciepłego od masy powietrza chłodnego w przypadku kiedy powietrze ciepłe napływa na chłodne to:",
+    "answers": [
+      "front chłodny",
+      "front ciepły",
+      "front zokludowany"
+    ],
+    "correct_answer": "front ciepły"
+  },
+  {
+    "id": 471,
+    "question": "Powierzchnia (warstwa) rozdzielająca masę powietrza chłodnego od masy powietrza ciepłego w przypadku kiedy powietrze chłodne napływa pod ciepłe to:",
+    "answers": [
+      "front zokludowany",
+      "front ciepły",
+      "front chłodny"
+    ],
+    "correct_answer": "front chłodny"
+  },
+  {
+    "id": 472,
+    "question": "Pojawiające się na niebie chmury cirrus a potem stopniowo cirrostratus, altostratus, stratus świadczą o nadejściu :",
+    "answers": [
+      "frontu ciepłego",
+      "frontu chłodnego",
+      "układu wyżowego"
+    ],
+    "correct_answer": "frontu ciepłego"
+  },
+  {
+    "id": 473,
+    "question": "Pojawiające się na niebie wysoko wypiętrzone chmury Cumulonimbus jak na zdjęciu świadczą o nadejściu :",
+    "answers": [
+      "frontu ciepłego",
+      "frontu chłodnego",
+      "opadów przy słabym wietrze"
+    ],
+    "correct_answer": "frontu chłodnego",
+    "image_url": "page_037.png"
+  },
+  {
+    "id": 474,
+    "question": "Kolejne pojawianie się chmur pokazanych na rysunku Cirrus i Cirrostratus przy spadku ciśnienia zwiastuje:",
+    "answers": [
+      "dalsze utrzymywanie się dobrej pogody",
+      "słabnięcie wiatru i wzrost temperatury",
+      "zbliżanie się frontu ciepłego"
+    ],
+    "correct_answer": "zbliżanie się frontu ciepłego",
+    "image_url": "page_038.png"
+  },
+  {
+    "id": 475,
+    "question": "Pojawiające się rano i nieznacznie rozbudowujące się drobne chmury Cumulus pokazane na rysunku zwiastują:",
+    "answers": [
+      "ładniejszą, słoneczną pogodę",
+      "nadejście długotrwałych opadów deszczu",
+      "nadejście burz i silnych wiatrów"
+    ],
+    "correct_answer": "ładniejszą, słoneczną pogodę",
+    "image_url": "page_039.png"
+  },
+  {
+    "id": 476,
+    "question": "Gdzie w układzie niżowym występuje największe i najmniejsze ciśnienie atmosferyczne?",
+    "answers": [
+      "najmniejsze w środku, a największe na zewnątrz",
+      "największe w środku a najmniejsze na zewnątrz",
+      "największe w części północnej, a najmniejsze w południowej"
+    ],
+    "correct_answer": "najmniejsze w środku, a największe na zewnątrz"
+  },
+  {
+    "id": 477,
+    "question": "Z których chmur można spodziewać się opadów deszczu ?",
+    "answers": [
+      "nimbostratus, cumulonimbus",
+      "cirrus i cirrostratus",
+      "stratocumulus, cirrocumulus"
+    ],
+    "correct_answer": "nimbostratus, cumulonimbus"
+  },
+  {
+    "id": 478,
+    "question": "Silne szkwały mogą towarzyszyć chmurom:",
+    "answers": [
+      "nimbostratus",
+      "cumulonimbus",
+      "stratus"
+    ],
+    "correct_answer": "cumulonimbus"
+  },
+  {
+    "id": 479,
+    "question": "Front atmosferyczny jest to :",
+    "answers": [
+      "linia łącząca ośrodki wysokiego ciśnienia na danym obszarze",
+      "zasięg występowania opadów na danym obszarze",
+      "powierzchnia (warstwa) rozgraniczająca dwie masy powietrza o odmiennych właściwościach (szczególnie o różnej temperaturze)"
+    ],
+    "correct_answer": "powierzchnia (warstwa) rozgraniczająca dwie masy powietrza o odmiennych właściwościach (szczególnie o różnej temperaturze)"
+  },
+  {
+    "id": 480,
+    "question": "Pogoda występująca w wyżu barycznym to :",
+    "answers": [
+      "pogoda zmienna",
+      "pogoda pochmurna – deszczowa",
+      "pogoda z małym zachmurzeniem – bez opadów"
+    ],
+    "correct_answer": "pogoda z małym zachmurzeniem – bez opadów"
+  },
+  {
+    "id": 481,
+    "question": "Izobary kreślone na mapach pogody są to :",
+    "answers": [
+      "linie łączące punkty o jednakowej temperaturze",
+      "linie łączące punkty o jednakowej wilgotności powietrza",
+      "linie łączące punkty o jednakowej wartości ciśnienia"
+    ],
+    "correct_answer": "linie łączące punkty o jednakowej wartości ciśnienia"
+  },
+  {
+    "id": 482,
+    "question": "Podczas bryzy nocnej wiatr wieje :",
+    "answers": [
+      "od lądu do wody",
+      "od wody do lądu",
+      "zmienia kierunek na równoległy do linii brzegowej"
+    ],
+    "correct_answer": "od lądu do wody"
+  },
+  {
+    "id": 483,
+    "question": "Jeżeli w prognozie radiowej słyszymy „niż znad Danii pogłębia się i przesuwa szybko na południowy wschód”, to w ciągu najbliższej doby na Zalewie Zegrzyńskim spodziewamy się :",
+    "answers": [
+      "słabnących wiatrów z kierunków wschodnich",
+      "rosnącej siły wiatru z kierunków zachodnich",
+      "słabych wiatrów północnych"
+    ],
+    "correct_answer": "rosnącej siły wiatru z kierunków zachodnich"
+  },
+  {
+    "id": 484,
+    "question": "W prognozie określono wiatr „słaby”",
+    "answers": [
+      "W skali Beauforta to 7B",
+      "W skali Beauforta to 2B",
+      "W skali Beauforta to 5B"
+    ],
+    "correct_answer": "W skali Beauforta to 2B"
+  },
+  {
+    "id": 485,
+    "question": "Widzisz bliską chmurę jak na zdjęciu , wieje słaby wiatr w jej kierunku, zakładasz że:",
+    "answers": [
+      "chmura zaniknie nim do nas dotrze,",
+      "chmura zmierza w naszym kierunku i należy podjąć przygotowania związane z wystąpieniem bardzo silnego szkwalistego wiatru i zmiana jego kierunku",
+      "chmura odejdzie z wiatrem"
+    ],
+    "correct_answer": "chmura zmierza w naszym kierunku i należy podjąć przygotowania związane z wystąpieniem bardzo silnego szkwalistego wiatru i zmiana jego kierunku",
+    "image_url": "page_049.png"
+  },
+  {
+    "id": 486,
+    "question": "Lampa ostrzegawcza funkcjonująca w ramach Systemu Sygnalizacji Ostrzegawczej na szlaku Wielkich Jezior Mazurskich nadaje sygnały świetlne z częstotliwością 40 błysków na minutę. Oznacza to:",
+    "answers": [
+      "UWAGA - spodziewane burze i wiatr, bez wskazania dokładnego, czasu i miejsca nadejścia zjawiska meteorologicznego",
+      "NIEBEZPIECZEŃSTWO - występowanie burzy oraz silnego wiatru w bliskim obszarze",
+      "brak spodziewanych niebezpiecznych zjawisk meteorologicznych"
+    ],
+    "correct_answer": "UWAGA - spodziewane burze i wiatr, bez wskazania dokładnego, czasu i miejsca nadejścia zjawiska meteorologicznego"
+  },
+  {
+    "id": 487,
+    "question": "Lampa ostrzegawcza funkcjonująca w ramach Systemu Sygnalizacji Ostrzegawczej na szlaku Wielkich Jezior Mazurskich nadaje sygnały świetlne z częstotliwością 90 błysków na minutę. Oznacza to:",
+    "answers": [
+      "UWAGA - spodziewane burze i wiatr, bez wskazania dokładnego, czasu i miejsca nadejścia zjawiska meteorologicznego",
+      "NIEBEZPIECZEŃSTWO - występowanie burzy oraz silnego wiatru w bliskim obszarze",
+      "brak spodziewanych niebezpiecznych zjawisk meteorologicznych"
+    ],
+    "correct_answer": "NIEBEZPIECZEŃSTWO - występowanie burzy oraz silnego wiatru w bliskim obszarze"
+  },
+  {
+    "id": 488,
+    "question": "Symbol na mapie synoptycznej jak na rysunku, oznacza:",
+    "answers": [
+      "front chłodny",
+      "front ciepły",
+      "front zokludowany"
+    ],
+    "correct_answer": "front zokludowany",
+    "image_url": "page_052.png"
+  },
+  {
+    "id": 489,
+    "question": "Wiatr przyziemny w niżu wieje (półkula północna):",
+    "answers": [
+      "prostopadle do izobar do centrum niżu",
+      "od centrum niżu z zewnątrz",
+      "do środka niżu odchylony w prawo o kąt 20-40 stopni do izobary"
+    ],
+    "correct_answer": "do środka niżu odchylony w prawo o kąt 20-40 stopni do izobary"
+  },
+  {
+    "id": 490,
+    "question": "Wiatr określony w komunikacie meteorologicznym jako 1 – 2 w skali Beauforta to:",
+    "answers": [
+      "wiatr słaby",
+      "wiatr umiarkowany",
+      "wiatr bardzo silny"
+    ],
+    "correct_answer": "wiatr słaby"
+  },
+  {
+    "id": 491,
+    "question": "Wiatr określony w komunikacie meteorologicznym jako 4 w skali Beauforta to:",
+    "answers": [
+      "wiatr słaby",
+      "wiatr umiarkowany",
+      "wiatr bardzo silny"
+    ],
+    "correct_answer": "wiatr umiarkowany"
+  },
+  {
+    "id": 492,
+    "question": "Wiatr określony w komunikacie meteorologicznym jako 6 - 7 w skali Beauforta to:",
+    "answers": [
+      "sztorm",
+      "wiatr umiarkowany",
+      "wiatr bardzo silny"
+    ],
+    "correct_answer": "wiatr bardzo silny"
+  },
+  {
+    "id": 493,
+    "question": "W ciągu dnia obserwowano chmury jak na rysunku. Po południu wiatr osłabł, a chmury powoli zanikają, ciśnienie nie zmieniało się. Jakiej pogody można się spodziewać?",
+    "answers": [
+      "podobnej pogody bez opadów i niewielkim zachmurzeniu",
+      "wzrostu zachmurzenia, przelotnych opadów",
+      "bardzo silnego wiatru przy niewielkim zachmurzeniu"
+    ],
+    "correct_answer": "podobnej pogody bez opadów i niewielkim zachmurzeniu",
+    "image_url": "page_057.png"
+  },
+  {
+    "id": 494,
+    "question": "W prognozie meteorologicznej podano, że front chłodny związany z niżem nad środkowym Bałtykiem przemieszcza się nad Polską z zachodu na wschód. Na Zalewie Zegrzyńskim wiatr jest południowo zachodni. Jakiej zmiany wiatru możemy się spodziewać?",
+    "answers": [
+      "zmiany wiatru na zachodni i północno-zachodni",
+      "zmiany wiatru na południowy i południowo-wschodni",
+      "zmiany wiatru na północno-wschodni"
+    ],
+    "correct_answer": "zmiany wiatru na zachodni i północno-zachodni"
+  },
+  {
+    "id": 495,
+    "question": "Na rysunku pokazano fragment mapy synoptycznej. Jakiego wiatru możemy spodziewać się w Polsce?",
+    "answers": [
+      "północno-wschodniego",
+      "zachodniego",
+      "południowo-wschodniego"
+    ],
+    "correct_answer": "południowo-wschodniego",
+    "image_url": "page_059.png"
+  },
+  {
+    "id": 496,
+    "question": "Na rysunku pokazano diagram kierunku i siły wiatru dla jednej doby (godziny od 08.00 do 08.00). Prognoza ICM. Jak zmieni się kierunek i siła wiatru w stopniach Beauforta w ciągu tej doby?",
+    "answers": [
+      "na początku okresu SE 3B na końcu S-SW 2B",
+      "na początku okresu SW 2B na końcu S-SW 3B",
+      "na początku okresu NW 3B na końcu SE 2B"
+    ],
+    "correct_answer": "na początku okresu SE 3B na końcu S-SW 2B",
+    "image_url": "page_060.png"
+  },
+  {
+    "id": 497,
+    "question": "Na polskiej mapie synoptycznej poszczególne skróty „ N, W, ” oznaczają kolejno :",
+    "answers": [
+      "wiatr północny (north), wiatr zachodni (west)",
+      "centrum niżu, centrum wyżu",
+      "chmury niskie, chmury wysokie"
+    ],
+    "correct_answer": "centrum niżu, centrum wyżu",
+    "image_url": "page_061.png"
+  },
+  {
+    "id": 498,
+    "question": "Halo wokół słońca zwiastuje:",
+    "answers": [
+      "jest spowodowane chmurami cirrostratus, a zatem zwiastuje zbliżanie się frontu ciepłego i pogorszenie się pogody",
+      "jest spowodowane zmniejszoną wilgotnością powietrza, a zatem wskazuje polepszenie pogody",
+      "jest spowodowane zwiększoną wilgotnością powietrza, a zatem wskazuje na możliwość wystąpienia mgieł"
+    ],
+    "correct_answer": "jest spowodowane chmurami cirrostratus, a zatem zwiastuje zbliżanie się frontu ciepłego i pogorszenie się pogody"
+  },
+  {
+    "id": 499,
+    "question": "W jakim układzie barycznym mogą występować obszary o silniejszym wietrze?",
+    "answers": [
+      "tylko w wyżu barycznym",
+      "tylko w niżu barycznym",
+      "zarówno w wyżu jak i niżu bo zależy to od gradientu ciśnienia"
+    ],
+    "correct_answer": "zarówno w wyżu jak i niżu bo zależy to od gradientu ciśnienia"
+  },
+  {
+    "id": 500,
+    "question": "Przed południem zaobserwowano rozwój chmur kłębiastych cumulus rozbudowujących się coraz wyżej i skupiających się w duże zespoły. Jakiej pogody można się spodziewać w najbliższych godzinach?",
+    "answers": [
+      "ochłodzenia przy braku opadów",
+      "niewielkich opadów przy słabym wietrze",
+      "pogody burzowej, szkwalistego wiatru"
+    ],
+    "correct_answer": "pogody burzowej, szkwalistego wiatru"
+  },
+  {
+    "id": 501,
+    "question": "Pojawiające się rano i nieznacznie rozbudowujące się drobne chmury Cumulus pokazane na rysunku zwiastują:",
+    "answers": [
+      "ładniejszą, słoneczną pogodę",
+      "nadejście długotrwałych opadów deszczu",
+      "nadejście burz i silnych wiatrów"
+    ],
+    "correct_answer": "ładniejszą, słoneczną pogodę"
+  },
+  {
+    "id": 502,
+    "question": "Stosunkowo długie i umiarkowane opady występują zazwyczaj:",
+    "answers": [
+      "przy przechodzeniu frontu chłodnego",
+      "przy przechodzeniu frontu ciepłego",
+      "na obszarach wyżowych"
+    ],
+    "correct_answer": "przy przechodzeniu frontu ciepłego"
+  },
+  {
+    "id": 503,
+    "question": "Krótkotrwałe i gwałtowne opady występują zazwyczaj:",
+    "answers": [
+      "przy przechodzeniu frontu chłodnego",
+      "przy przechodzeniu frontu ciepłego",
+      "na obszarach o podwyższonym ciśnieniu"
+    ],
+    "correct_answer": "przy przechodzeniu frontu chłodnego"
+  },
+  {
+    "id": 504,
+    "question": "Front zokludowany powstaje na skutek :",
+    "answers": [
+      "nasunięcie się frontu ciepłego na front chłodny ze względu na jego szybsze przemieszczanie się",
+      "nasunięcie się frontu chłodnego na front ciepły ze względu na jego szybsze przemieszczanie się",
+      "wzrostu ciśnienia na obszarze niżowym"
+    ],
+    "correct_answer": "nasunięcie się frontu chłodnego na front ciepły ze względu na jego szybsze przemieszczanie się"
+  },
+  {
+    "id": 505,
+    "question": "Czerwona tarcza księżyca zwiastuje:",
+    "answers": [
+      "pogodę z umiarkowanym wiatrem",
+      "pogodę słoneczną i bezwietrzną",
+      "silne wiatry i opady"
+    ],
+    "correct_answer": "silne wiatry i opady"
+  },
+  {
+    "id": 506,
+    "question": "Zachód słońca za gęste chmury jest zwiastunem:",
+    "answers": [
+      "pogorszenia się pogody",
+      "utrzymania się dobrej pogody",
+      "nadchodzącego deszczu"
+    ],
+    "correct_answer": "pogorszenia się pogody"
+  },
+  {
+    "id": 507,
+    "question": "W komunikacie meteorologicznym podano, że nad Polską rozbudowuje się układ wyżowy. Jakiej pogody można się spodziewać?",
+    "answers": [
+      "niewielkich opadów, przy dużym zachmurzeniu",
+      "niewielkiego zachmurzenia lub pogody bezchmurnej, brak opadów",
+      "burz i przelotnych opadów"
+    ],
+    "correct_answer": "niewielkiego zachmurzenia lub pogody bezchmurnej, brak opadów"
+  },
+  {
+    "id": 508,
+    "question": "Wzrostu siły wiatru podczas żeglugi wzdłuż nawietrznego brzegu można się spodziewać w miejscach:",
+    "answers": [
+      "gdzie brzeg jest wysoki lub zalesiony",
+      "w miejscach obniżenia (przerwach) wysokiej linii brzegowej",
+      "ukształtowanie terenu nie ma wpływu na szybkość wiatru"
+    ],
+    "correct_answer": "w miejscach obniżenia (przerwach) wysokiej linii brzegowej"
+  },
+  {
+    "id": 509,
+    "question": "Wzrostu siły wiatru podczas żeglugi wzdłuż zawietrznego brzegu można się spodziewać w miejscach:",
+    "answers": [
+      "gdzie brzeg jest wysoki lub zalesiony",
+      "w miejscach obniżenia (przerwach) wysokiej linii brzegowej",
+      "ukształtowanie terenu nie ma wpływu na szybkość wiatru"
+    ],
+    "correct_answer": "w miejscach obniżenia (przerwach) wysokiej linii brzegowej"
+  }
+]

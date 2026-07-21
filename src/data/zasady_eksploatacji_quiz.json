@@ -1,0 +1,499 @@
+[
+  {
+    "id": 588,
+    "question": "Jacht zacumowany dziobem do pomostu odchodzi na silniku od nabrzeża na biegu wstecznym. Chcemy aby dziób odchylał się w prawo. Jak ustawić płetwę sterową?",
+    "answers": [
+      "ustawić płetwę steru w położeniu „zero”",
+      "ustawić płetwę steru w położeniu „prawo”",
+      "ustawić płetwę steru w położeniu „lewo”"
+    ],
+    "correct_answer": "ustawić płetwę steru w położeniu „lewo”"
+  },
+  {
+    "id": 589,
+    "question": "Przy odejściu od boi na lewy hals ustawiamy:",
+    "answers": [
+      "fok prawo na wiatr, ster zero",
+      "fok lewo na wiatr, ster lewo",
+      "grot i fok w łopocie, ster prawo"
+    ],
+    "correct_answer": "fok lewo na wiatr, ster lewo"
+  },
+  {
+    "id": 590,
+    "question": "Śruba prawoskrętna umiejscowiona jest w diametralnej jachtu. Włączamy silnik na bieg naprzód. Ster zero. Jaka będzie reakcja jachtu?",
+    "answers": [
+      "rufa będzie odrzucana w prawo",
+      "rufa będzie odrzucana w lewo",
+      "jacht ruszy naprzód bez zmiany kierunku"
+    ],
+    "correct_answer": "rufa będzie odrzucana w prawo"
+  },
+  {
+    "id": 591,
+    "question": "Śruba prawoskrętna umiejscowiona w diametralnej jachtu (ster zero) silnik włączamy na bieg wstecz. Jaka będzie reakcja jachtu?",
+    "answers": [
+      "rufa będzie odrzucana w prawo",
+      "rufa będzie odrzucana w lewo",
+      "jacht ruszy wstecz bez zmiany kierunku"
+    ],
+    "correct_answer": "rufa będzie odrzucana w lewo"
+  },
+  {
+    "id": 592,
+    "question": "Jacht prawie stoi. Jest niewiele miejsca na obrót. Chcemy wykonać jachtem na silniku ciasny skręt w prawo. Jak należy postąpić?",
+    "answers": [
+      "ster prawo na burt, krótko cała naprzód, silnik stop – powtarzamy cykl do skutku",
+      "ster prawo na burt, wolno naprzód",
+      "ster prawo na burt, cała naprzód"
+    ],
+    "correct_answer": "ster prawo na burt, krótko cała naprzód, silnik stop – powtarzamy cykl do skutku"
+  },
+  {
+    "id": 593,
+    "question": "Przy dojściu do nabrzeża rufą podano i zamocowano dwie cumy rufowe. Członek załogi na dziobie nie zdążył założył cumy dziobowej na boję. Wiatr jest silny od dziobu. Jak dalej manewrować?",
+    "answers": [
+      "starać się złapać boję bosakiem i przyciągać jacht dla założenia cumy",
+      "silnik bardzo wolno naprzód, powoli luzować cumy rufowe i założyć cumę dziobową. silnik stop. ustawić jacht na cumach.",
+      "założyć odbijacze na rufie i prosić o pomoc personel przystani"
+    ],
+    "correct_answer": "silnik bardzo wolno naprzód, powoli luzować cumy rufowe i założyć cumę dziobową. silnik stop. ustawić jacht na cumach."
+  },
+  {
+    "id": 594,
+    "question": "Intensywne hamowanie żaglami polega na:",
+    "answers": [
+      "całkowitym wyluzowaniu żagli",
+      "maksymalnym wybraniu żagli do diametralnej jachtu",
+      "wynoszeniu (wypychaniu) żagli na wiatr"
+    ],
+    "correct_answer": "wynoszeniu (wypychaniu) żagli na wiatr"
+  },
+  {
+    "id": 595,
+    "question": "Podchodząc do boi najskuteczniej jest przeprowadzić manewr w sposób następujący:",
+    "answers": [
+      "zrzucić fok przed podejściem, dochodzić w linii wiatru, założyć cumę na biegowo, a następnie zrzucić grot",
+      "zrzucić grot, podchodzić na foku z wiatrem, założyć cumę na boję, zrzucić fok",
+      "podchodzić pod pełnymi żaglami, po założeniu cumy na boję zrzucić żagle"
+    ],
+    "correct_answer": "zrzucić fok przed podejściem, dochodzić w linii wiatru, założyć cumę na biegowo, a następnie zrzucić grot"
+  },
+  {
+    "id": 596,
+    "question": "Jacht (kolor zielony) stoi przy nabrzeżu na cumie dziobowej obok drugiego jachtu jak na rysunku. Jak odejść bezpiecznie pod żaglami przy wietrze odpychającym (czerwona strzałka) i na który hals? Podano tylko pierwsze komendy.",
+    "answers": [
+      "na prawy hals, fok prawo na wiatr, ster prawo, cumę oddaj",
+      "na lewy hals, grot prawo na wiatr, ster lewo, cumę oddaj",
+      "na prawy hals, żagle w łopocie, ster lewo, cumę oddaj"
+    ],
+    "correct_answer": "na prawy hals, fok prawo na wiatr, ster prawo, cumę oddaj",
+    "image_url": "page_009.png"
+  },
+  {
+    "id": 597,
+    "question": "Jacht (kolor zielony) stoi na boi przy nabrzeżu obok drugiego jachtu jak na rysunku. Jak odejść bezpiecznie przy wietrze dociskającym (niebieska strzałka)?",
+    "answers": [
+      "na silniku, cumę dziobową wybierać z lewej burty, ster prawo, silnik wolno naprzód, cumę oddać",
+      "na silniku, cumę dziobową wybierać z prawej burty, ster lewo, wolno naprzód, cumę oddać",
+      "na silniku, ster prawo, wolno naprzód, cumę oddaj"
+    ],
+    "correct_answer": "na silniku, cumę dziobową wybierać z prawej burty, ster lewo, wolno naprzód, cumę oddać",
+    "image_url": "page_010.png"
+  },
+  {
+    "id": 598,
+    "question": "Jeżeli człowiek wypadł za burtę na kursie pełny baksztag, to który z opisanych poniżej manewrów będzie najprostszy i najszybszy?",
+    "answers": [
+      "odpłynąć bez zmiany kursu kilkadziesiąt metrów, szybko wykonać zwrot przez sztag i halsując podchodzić do człowieka",
+      "natychmiast wykonać zwrot przez rufę, wyostrzyć, wykonać zwrot przez sztag i halsując podchodzić do człowieka",
+      "wyostrzyć, odejść nie za daleko, wykonać zwrot przez sztag i podejść bajdewindem"
+    ],
+    "correct_answer": "wyostrzyć, odejść nie za daleko, wykonać zwrot przez sztag i podejść bajdewindem"
+  },
+  {
+    "id": 599,
+    "question": "Kąt martwy dla danego jachtu wynosi 120 stopni. W jakim momencie podczas halsowania należy wykonać zwrot przez sztag, aby mieć pewność, że jednym halsem dopłyniemy do żądanego punktu (np. boi)?",
+    "answers": [
+      "kiedy płynąc ostrym bajdewindem zaobserwujemy ten obiekt w kierunku ok. 60 stopni od kursu",
+      "kiedy płynąc ostrym bajdewindem zaobserwujemy ten obiekt w kierunku ok. 120 stopni od kursu",
+      "kiedy płynąc ostrym bajdewindem zaobserwujemy ten obiekt w kierunku ok. 90 stopni od kursu"
+    ],
+    "correct_answer": "kiedy płynąc ostrym bajdewindem zaobserwujemy ten obiekt w kierunku ok. 120 stopni od kursu"
+  },
+  {
+    "id": 600,
+    "question": "Chcemy wykonać zwrot przez sztag o jak najmniejszym promieniu skrętu. Który z manewrów opisanych poniżej będzie najefektywniejszy?",
+    "answers": [
+      "luzujemy całkowicie fok, wybieramy maksymalnie grot, dajemy ster na burtę",
+      "wybieramy maksymalnie fok i grot, dajemy ster na burtę, kiedy oba żagle wejdą w łopot luzujemy szot foka",
+      "dajemy ster na burtę, w momencie kiedy jacht będzie w linii wiatru luzujemy szot grota, nawietrzny szot foka luzujemy dopiero po odpadnięciu jachtu na nowy hals, a następnie wybieramy zawietrzny szot foka"
+    ],
+    "correct_answer": "dajemy ster na burtę, w momencie kiedy jacht będzie w linii wiatru luzujemy szot grota, nawietrzny szot foka luzujemy dopiero po odpadnięciu jachtu na nowy hals, a następnie wybieramy zawietrzny szot foka"
+  },
+  {
+    "id": 601,
+    "question": "Jak należy przygotować cumę dziobową przy odejściu od boi, aby manewr odejścia przeprowadzić sprawnie i bezpiecznie?",
+    "answers": [
+      "zawiązując cumę na boi węzłem cumowy żeglarski i dopiero potem odchodzić",
+      "założyć cumę na biegowo i odejść na żądany hals",
+      "założyć możliwie najmocniejszą cumę z posiadanych na jachcie, węzeł nie ma znaczenia"
+    ],
+    "correct_answer": "założyć cumę na biegowo i odejść na żądany hals"
+  },
+  {
+    "id": 602,
+    "question": "Jacht zacumowany jest jak na rysunku. Zamierzamy odejść wstecz na silniku. Wiatr dociskający niezbyt silny. Jaka powinna być kolejność oddawania cum i manewry silnikiem dla sprawnego i bezpiecznego odejścia?",
+    "answers": [
+      "oddać cumy i szpringi, wolno wstecz, ster prawo",
+      "szpring dziobowy na biegowo, odbijacz na dziób, pozostałe cumy oddaj, ster lewo, bardzo wolno naprzód, stop silnik, ster zero, bardzo wolno wstecz, oddać szpring",
+      "cumy i szpringi oddaj, ster lewo, bardzo wolno wstecz"
+    ],
+    "correct_answer": "szpring dziobowy na biegowo, odbijacz na dziób, pozostałe cumy oddaj, ster lewo, bardzo wolno naprzód, stop silnik, ster zero, bardzo wolno wstecz, oddać szpring",
+    "image_url": "page_015.png"
+  },
+  {
+    "id": 603,
+    "question": "Jacht (zielony) zacumowany jest jak na rysunku, kierunek wiatru pokazuje strzałka (niebieska). Jak należy najbezpieczniej odejść pod żaglami?",
+    "answers": [
+      "przygotować cumy do oddania, postawić fok, oddać cumy i odejść odpowiednio sterując",
+      "nie da się odejść pod żaglami",
+      "obrócić jacht dziobem do wiatru na cumach, postawić żagle i odejść z użyciem szpringu rufowego założonego na biegowo"
+    ],
+    "correct_answer": "obrócić jacht dziobem do wiatru na cumach, postawić żagle i odejść z użyciem szpringu rufowego założonego na biegowo",
+    "image_url": "page_016.png"
+  },
+  {
+    "id": 604,
+    "question": "Jacht (czerwony) jest zacumowany jak na rysunku. Jak najbezpieczniej powinien odejść od pomostu pod żaglami (wiatr niebieska strzałka)?",
+    "answers": [
+      "przecumować jacht do wolnej części pomostu rufą do wiatru. postawić żagle i odejść z wiatrem",
+      "przecumować jacht do wolnej części pomostu dziobem do wiatru. postawić żagle i odejść lewym halsem",
+      "nie da się odejść, konieczna jest pomoc dla wywiezienia kotwicy lub odholowania jachtu"
+    ],
+    "correct_answer": "przecumować jacht do wolnej części pomostu dziobem do wiatru. postawić żagle i odejść lewym halsem",
+    "image_url": "page_017.png"
+  },
+  {
+    "id": 605,
+    "question": "Na jachcie z instalacją elektryczną 12 V czuć zapach tlącej się izolacji. Jak należy postąpić?",
+    "answers": [
+      "zlokalizować miejsce przegrzane i wyłączyć odpowiedni odbiornik energii",
+      "natychmiast zdjąć klemy z akumulatorów, a jeśli akumulatory są niedostępne to natychmiast wyłączyć główny wyłącznik",
+      "sprawdzić odbiorniki energii o dużej mocy i ewentualnie je wyłączyć"
+    ],
+    "correct_answer": "natychmiast zdjąć klemy z akumulatorów, a jeśli akumulatory są niedostępne to natychmiast wyłączyć główny wyłącznik"
+  },
+  {
+    "id": 606,
+    "question": "W porcie jachtowym przyjęty jest system cumowania dziobem do pomostu, a rufą do boi. Jak przeprowadzić manewr cumowania w takim porcie manewrując na silniku?",
+    "answers": [
+      "przygotować cumę dziobową i rufową, wchodzić powoli i podczas mijania boi założyć cumę rufową, zatrzymać jacht przed nabrzeżem i założyć cumę dziobową",
+      "podejść do nabrzeża dziobem, założyć cumę dziobową, luzować cumę dziobową i cofać jacht na biegu wstecznym, założyć cumę rufowa na boję, ustawić jacht pracując cumami",
+      "podejść do boi dziobem, zatrzymać jacht i założyć cumę rufową rozciągniętą z rufy na dziób, na biegu naprzód podchodzić dalej do nabrzeża i założyć cumę dziobową"
+    ],
+    "correct_answer": "przygotować cumę dziobową i rufową, wchodzić powoli i podczas mijania boi założyć cumę rufową, zatrzymać jacht przed nabrzeżem i założyć cumę dziobową"
+  },
+  {
+    "id": 607,
+    "question": "Jacht stoi na boi. Cuma dziobowa założona jest na biegowo. Jest silny wiatr. Za rufą jachtu jest mało miejsca. Jak NAJBEZPIECZNIEJ odejść pod żaglami?",
+    "answers": [
+      "założyć na biegowo drugą cumę z rufy, postawić żagle, oddać cumę dziobową, a po odpadnięciu jachtu i wybraniu żagli oddać cumę rufową",
+      "postawić żagle, wyluzować na ile to możliwe cumę dziobową, wybierając ją nadać jachtowi pewną szybkość, oddać cumę i odpowiednio sterując odejść",
+      "postawić żagle, oddać cumę dziobową, ustawić fok na wiatr, po odpadnięciu jachtu, wybrać żagle i odpowiednio sterując odejść"
+    ],
+    "correct_answer": "założyć na biegowo drugą cumę z rufy, postawić żagle, oddać cumę dziobową, a po odpadnięciu jachtu i wybraniu żagli oddać cumę rufową"
+  },
+  {
+    "id": 608,
+    "question": "Zamierzamy wyposażyć jacht w nowe cumy. Chcemy aby były nietonące. Jaki rodzaj wybrać?",
+    "answers": [
+      "poliamidowe (nylonowe)",
+      "poliestrowe (np. elana)",
+      "polipropylenowe"
+    ],
+    "correct_answer": "polipropylenowe"
+  },
+  {
+    "id": 609,
+    "question": "Jacht morski balastowy (długość 8 m). Ile cum i jakiej długości powinno być na pokładzie zgodnie z dobrą praktyką żeglarską?",
+    "answers": [
+      "2 cumy po ok. 8 m",
+      "4 cumy po ok. 12 m",
+      "2 cumy po ok. 4 m"
+    ],
+    "correct_answer": "4 cumy po ok. 12 m"
+  },
+  {
+    "id": 610,
+    "question": "Jacht balastowo mieczowy (długość 7 m) eksploatowany jest na jeź. Mazurskich. Jaka powinna być orientacyjna długość liny kotwicznej dla tego jachtu?",
+    "answers": [
+      "10 m",
+      "25 m",
+      "100 m"
+    ],
+    "correct_answer": "25 m"
+  },
+  {
+    "id": 611,
+    "question": "Czarterujemy jacht na jeziorach Mazurskich. Jakie informacje dot. właściwości jachtu z punktu widzenia BEZPIECZEŃSTWA żeglugi będą dla nas NAJWAŻNIEJSZE?",
+    "answers": [
+      "jaka jest pojemność i rodzaj akumulatorów",
+      "czy jacht jest wyposażony w toaletę chemiczną i zbiorniki na wodę",
+      "czy jacht jest niezatapialny i jaką ma stateczność (wywracalny-niewywracalny)"
+    ],
+    "correct_answer": "czy jacht jest niezatapialny i jaką ma stateczność (wywracalny-niewywracalny)"
+  },
+  {
+    "id": 612,
+    "question": "Przygotowując mieszankę paliwa i oleju do silnika dwusuwowego należy kierować się:",
+    "answers": [
+      "liczbą oktanową używanego paliwa",
+      "instrukcją obsługi danego silnika",
+      "nie ma to znaczenia, zawsze stosuje się stosunek 1:50"
+    ],
+    "correct_answer": "instrukcją obsługi danego silnika"
+  },
+  {
+    "id": 613,
+    "question": "Jakie niebezpieczeństwo stwarza ulatnianie się gazu (propan-butan) z butli we wnętrzu jachtu.",
+    "answers": [
+      "zatrucie załogi, gdyż gaz jest trujący",
+      "tylko utratę pewnej ilości gazu",
+      "niebezpieczeństwo wybuchu, gdyż gaz z powietrzem tworzy mieszaninę wybuchową"
+    ],
+    "correct_answer": "niebezpieczeństwo wybuchu, gdyż gaz z powietrzem tworzy mieszaninę wybuchową"
+  },
+  {
+    "id": 614,
+    "question": "Na małym jachcie mieczowym (np. OMEGA) zerwał się fał foka. Jak bezpiecznie przeprowadzić naprawę?",
+    "answers": [
+      "wciągnąć na maszt członka załogi przy użyciu fału grota i wymienić fał",
+      "położyć maszt i wymienić fał",
+      "przy pomoście przechylić jacht używając fału grota i wymienić fał"
+    ],
+    "correct_answer": "położyć maszt i wymienić fał"
+  },
+  {
+    "id": 615,
+    "question": "Do człowieka za burtą lekkim jachtem mieczowym podchodzimy:",
+    "answers": [
+      "kursem ostry bajdewind i burtą zawietrzną",
+      "kursem ostry bajdewind i burtą nawietrzną",
+      "kursem półwiatrem i burtą zawietrzną"
+    ],
+    "correct_answer": "kursem ostry bajdewind i burtą nawietrzną"
+  },
+  {
+    "id": 616,
+    "question": "Przy ładowaniu akumulatora przenośnym prostownikiem zaciski prostownika podłączamy do akumulatora:",
+    "answers": [
+      "plus prostownika – plus akumulatora, minus prostownika – minus akumulatora",
+      "plus prostownika – minus akumulatora, minus prostownika – plus akumulatora",
+      "plus prostownika – plus akumulatora, minus prostownika do uziemienia"
+    ],
+    "correct_answer": "plus prostownika – plus akumulatora, minus prostownika – minus akumulatora"
+  },
+  {
+    "id": 617,
+    "question": "Jacht żegluje na silniku przyczepnym, w pewnym momencie obroty silnika wzrosły, ale jacht zwalnia i zatrzymuje się. Co może być najbardziej prawdopodobną przyczyną takiej awarii?",
+    "answers": [
+      "rozłączenie śruby z wałkiem śruby (ścięcie sworznia lub innego zabezpieczenia śruby)",
+      "uszkodzenie jednego ze skrzydeł śruby",
+      "nakręcenie wodorostów na śrubę"
+    ],
+    "correct_answer": "rozłączenie śruby z wałkiem śruby (ścięcie sworznia lub innego zabezpieczenia śruby)"
+  },
+  {
+    "id": 618,
+    "question": "Jak powinno przebiegać prawidłowe zakończenie pracy silnika przyczepnego?",
+    "answers": [
+      "zmniejszyć obroty, podnieść silnik na pantografie i zgasić go wyłączeniem zapłonu.",
+      "zmniejszyć obroty, włączyć „luz”, zgasić silnik wyłącznikiem zapłonu, podnieść silnik na pantografie",
+      "zgasić silnik wyłącznikiem zapłonu, podnieść silnik na pantografie"
+    ],
+    "correct_answer": "zmniejszyć obroty, włączyć „luz”, zgasić silnik wyłącznikiem zapłonu, podnieść silnik na pantografie"
+  },
+  {
+    "id": 619,
+    "question": "Jacht (czerwony) z silnikiem przyczepnym stoi zacumowany jak na rysunku. Cuma rufowa i dziobowa założone na biegowo. Jak NAJBEZPIECZNIEJ odejść?",
+    "answers": [
+      "oddać cumę rufową, oddać cumę dziobową uruchomić silnik, silnik wstecz",
+      "uruchomić silnik, luzować cumę dziobową, wybierać cumę rufową, gdy rufa będzie przy boi oddać cumę dziobową i rufową silnik wstecz",
+      "oddać cumę dziobową, uruchomić silnik, oddać cumę rufową, silnik wstecz"
+    ],
+    "correct_answer": "uruchomić silnik, luzować cumę dziobową, wybierać cumę rufową, gdy rufa będzie przy boi oddać cumę dziobową i rufową silnik wstecz",
+    "image_url": "page_032.png"
+  },
+  {
+    "id": 620,
+    "question": "Jacht (czerwony) bez silnika stoi na przystani jak na rysunku. Wiatr strzałka niebieska. Cuma rufowa założona na boi na biegowo, dziobowa na biegowo. Jak NAJBEZPIECZNIEJ odejść pod żaglami?",
+    "answers": [
+      "luzować cumę dziobową, wybierać cumę rufową i przenieść ją na dziób na biegowo, oddać cumę dziobową, po ustawieniu się pod wiatr postawić żagle, oddać cumę dziobową i odejść na żaglach",
+      "luzować cumę dziobową, wybierać cumę rufową oddać cumę dziobową i rufową, zdryfować wstecz, postawić żagle i odejść",
+      "oddać cumę dziobową i rufową, postawić żagle i odejść wstecz"
+    ],
+    "correct_answer": "luzować cumę dziobową, wybierać cumę rufową i przenieść ją na dziób na biegowo, oddać cumę dziobową, po ustawieniu się pod wiatr postawić żagle, oddać cumę dziobową i odejść na żaglach",
+    "image_url": "page_033.png"
+  },
+  {
+    "id": 621,
+    "question": "Po uruchomieniu dwusuwowy silnik przyczepny pracuje lecz dość silnie dymi. Co może być przyczyną?",
+    "answers": [
+      "zbyt dużo oleju w paliwie",
+      "zanieczyszczony gaźnik",
+      "paliwo o zbyt niskiej liczbie oktanowej"
+    ],
+    "correct_answer": "zbyt dużo oleju w paliwie"
+  },
+  {
+    "id": 622,
+    "question": "Tankując zbiornik paliwa do silnika przyczepnego dla bezpiecznego przechowania zbiornika z paliwem wykonujemy n/w czynności.",
+    "answers": [
+      "tankujemy go do pełna i zakręcamy korek wlewu",
+      "tankujemy go do pełna i zakręcamy korek wlewu i zaworek odpowietrzania",
+      "tankujemy z pozostawieniem pewnej wolnej przestrzeni w zbiorniku i zamykamy korek wlewu i zaworek odpowietrzający"
+    ],
+    "correct_answer": "tankujemy z pozostawieniem pewnej wolnej przestrzeni w zbiorniku i zamykamy korek wlewu i zaworek odpowietrzający"
+  },
+  {
+    "id": 623,
+    "question": "Na jachcie mamy kwasowe akumulatory obsługowe. Czy wymagają one czynności konserwacyjnych?",
+    "answers": [
+      "tak, dopełniania ubytków kwasu wodą destylowaną",
+      "nie wymagają żadnej obsługi poza utrzymaniem w czystości klem i ich ochrony przed korozją",
+      "dopełniania ubytków kwasu 50% roztworem kwasu siarkowego"
+    ],
+    "correct_answer": "tak, dopełniania ubytków kwasu wodą destylowaną"
+  },
+  {
+    "id": 624,
+    "question": "Czy przy gwałtownym hamowaniu silnikiem „cała wstecz” i położeniu płetwy sterowej „ster zero” jacht:",
+    "answers": [
+      "utrzyma kurs",
+      "będzie skręcał w zależności od kierunku obrotów śruby",
+      "zawsze będzie skręcał w prawo"
+    ],
+    "correct_answer": "będzie skręcał w zależności od kierunku obrotów śruby"
+  },
+  {
+    "id": 625,
+    "question": "Komenda „prawy foka szot luz” oznacza:",
+    "answers": [
+      "natychmiastowe i całkowite zluzowanie szota",
+      "stopniowe luzowanie szota",
+      "luzowanie do momentu wejścia żagla w łopot"
+    ],
+    "correct_answer": "natychmiastowe i całkowite zluzowanie szota"
+  },
+  {
+    "id": 626,
+    "question": "Żeglując na rzece podchodzimy do pomostu wiatr, niezbyt silny. Jak należy podchodzić?",
+    "answers": [
+      "pod prąd",
+      "z prądem",
+      "nie ma to znaczenia"
+    ],
+    "correct_answer": "pod prąd"
+  },
+  {
+    "id": 627,
+    "question": "Podchodzimy do pomostu prawą burtą na silniku pod prąd. Po zahamowaniu silnikiem jacht stoi. Jaką reakcję jachtu spowoduje wychylenie steru w takiej sytuacji?",
+    "answers": [
+      "nie będzie żadnej bo jacht stoi",
+      "ster lewo – dziób będzie odchylał się od pomostu, a rufa w stronę pomostu",
+      "ster prawo – rufa będzie odchylała się w stronę pomostu"
+    ],
+    "correct_answer": "ster lewo – dziób będzie odchylał się od pomostu, a rufa w stronę pomostu"
+  },
+  {
+    "id": 628,
+    "question": "Jakie najważniejsze czynności należy wykonać przed kotwiczeniem?",
+    "answers": [
+      "przygotować kotwicę i linę kotwiczną",
+      "upewnić się jaka jest głębokość w miejscu kotwiczenia, przygotować odpowiednią długość liny kotwicznej i kotwicę, przygotować żagle do zrzucenia",
+      "przygotować żagle do zrzucenia"
+    ],
+    "correct_answer": "upewnić się jaka jest głębokość w miejscu kotwiczenia, przygotować odpowiednią długość liny kotwicznej i kotwicę, przygotować żagle do zrzucenia"
+  },
+  {
+    "id": 629,
+    "question": "Podczas holowania jachtu z brzegu (np. na kanale) linę holowniczą dla ułatwienia sterowania należy zamocować?",
+    "answers": [
+      "na dziobie jachtu",
+      "w okolicy masztu jachtu",
+      "nie ma znaczenia gdzie jest zamocowana"
+    ],
+    "correct_answer": "w okolicy masztu jachtu"
+  },
+  {
+    "id": 630,
+    "question": "Jacht wyposażony jest w linę kotwiczną i kotwicę Danfortha. Kotwiczymy na jeziorze na głębokości 2 m. Jaką minimalną długość liny kotwicznej wydać dla bezpiecznego postoju przy założeniu, że bezpieczny promień łukowania wynosi ok. 20 m?",
+    "answers": [
+      "około 6 m",
+      "około 15 m",
+      "około 30 m"
+    ],
+    "correct_answer": "około 15 m"
+  },
+  {
+    "id": 631,
+    "question": "Jakie czynności powinien wykonać członek załogi po komendzie „przygotować grot do zrzucenia?",
+    "answers": [
+      "zająć stanowisko pozwalające układać zrzucany żagiel",
+      "rozbuchtować fał i ułożyć go tak by się nie splątał, być w gotowości do luzowania fału",
+      "oczekiwać na ewentualną komendę „grot precz” i wtedy podjąć odpowiednie czynności"
+    ],
+    "correct_answer": "rozbuchtować fał i ułożyć go tak by się nie splątał, być w gotowości do luzowania fału"
+  },
+  {
+    "id": 632,
+    "question": "Czarterujemy jacht, załoga liczy 5 osób. Na jachcie przekazano nam 4 pasy/kamizelki ratunkowe i jedno koło ratunkowe. Czy jest to wyposażenie wystarczające?",
+    "answers": [
+      "tak",
+      "nie",
+      "tak, ale tylko na wodach śródlądowych"
+    ],
+    "correct_answer": "nie"
+  },
+  {
+    "id": 633,
+    "question": "Komenda „założyć cumę na biegowo” oznacza:",
+    "answers": [
+      "zamocować jeden koniec cumy na pokładzie, drugi koniec przeprowadzić przez urządzenie cumownicze na lądzie i poprowadzić z powrotem na pokład",
+      "zamocować cumę na lądzie i ułożyć wzdłuż pokładu od dziobu do rufy",
+      "przygotować cumę do szybkiego założenia na urządzenie cumownicze na lądzie"
+    ],
+    "correct_answer": "zamocować jeden koniec cumy na pokładzie, drugi koniec przeprowadzić przez urządzenie cumownicze na lądzie i poprowadzić z powrotem na pokład"
+  },
+  {
+    "id": 634,
+    "question": "Jacht z otaklowaniem żaglowym typu slup ma postawione wszystkie żagle. Zamierzamy płynąć dalej na silniku bez żagli. Jak przeprowadzić zrzucenie żagli?",
+    "answers": [
+      "w dowolnej kolejności",
+      "nie zmieniając kursu najpierw grot, a następnie fok",
+      "fok wg. oceny sternika, grot po ustawieniu jachtu w kącie martwym"
+    ],
+    "correct_answer": "fok wg. oceny sternika, grot po ustawieniu jachtu w kącie martwym"
+  },
+  {
+    "id": 635,
+    "question": "Jacht płynie na silniku. Zamierzamy dalej płynąć pod żaglami. W jaki sposób przeprowadzić postawienie żagli?",
+    "answers": [
+      "zgasić silnik, postawić fok, a następnie grot",
+      "na małej szybkości ustawić jacht dziobem do wiatru, postawić grot, a następnie fok, zgasić silnik",
+      "idąc na silniku dowolnym kursem postawić fok, a następnie grot"
+    ],
+    "correct_answer": "na małej szybkości ustawić jacht dziobem do wiatru, postawić grot, a następnie fok, zgasić silnik"
+  },
+  {
+    "id": 636,
+    "question": "Zarefowany grot ma zamocowany róg halsowy i refszkentlę oraz zawiązane refsejzingi. Jak przeprowadzić rozrefowanie?",
+    "answers": [
+      "zwolnić refszkentlę, odwiązać refsejzingi, zwolnić róg halsowy",
+      "zwolnić róg halsowy, zwolnić refszkentlę, rozwiązać refsejzingi",
+      "rozwiązać refsejzingi, zwolnić refszkentlę, zwolnić róg halsowy, wybierać fał"
+    ],
+    "correct_answer": "rozwiązać refsejzingi, zwolnić refszkentlę, zwolnić róg halsowy, wybierać fał"
+  }
+]

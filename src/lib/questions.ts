@@ -29,4 +29,25 @@ export const categoryMap = new Map<string, CategoryData>([
       data: () => import('../data/teoria_zeglowania_quiz.json'),
     },
   ],
+  [
+    'meteorology',
+    {
+      name: 'Meteorologia',
+      data: () => import('../data/meteorologia_quiz.json'),
+    },
+  ],
+  [
+    'water_rescue',
+    {
+      name: 'Ratownictwo wodne',
+      data: () => import('../data/ratownictwo_quiz.json'),
+    },
+  ],
+  [
+    'yacht_handling_principles',
+    {
+      name: 'Zasady manewrowania jachtem',
+      data: () => import('../data/zasady_eksploatacji_quiz.json'),
+    },
+  ],
 ]);
