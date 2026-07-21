@@ -32,11 +32,7 @@
   {
     "id": 126,
     "question": "Płyniesz rzeką pod prąd, którą burtą miniesz tykę z wiechą:",
-    "answers": [
-      "lewą",
-      "prawą",
-      "obojętne"
-    ],
+    "answers": ["lewą", "prawą", "obojętne"],
     "correct_answer": "lewą"
   },
   {
@@ -48,18 +44,14 @@
       "ruch w jednym kierunku pod przęsłem"
     ],
     "correct_answer": "ruch w jednym kierunku pod przęsłem",
-    "image_url": "page_005.png"
+    "image_url": "img_127.jpg"
   },
   {
     "id": 128,
     "question": "Jacht na jeziorze Niegocin płynie w kierunku północnym, na kursie zaobserwowano boję jak na rysunku (oznakowanie „w górę” Północ – Południe /Węgorzewo – Pisz). Jak ją minąć?",
-    "answers": [
-      "prawą burtą",
-      "nie wpływać – zakaz żeglugi",
-      "lewą burtą"
-    ],
+    "answers": ["prawą burtą", "nie wpływać – zakaz żeglugi", "lewą burtą"],
     "correct_answer": "prawą burtą",
-    "image_url": "page_006.png"
+    "image_url": "img_128.jpg"
   },
   {
     "id": 129,
@@ -70,7 +62,7 @@
       "nakaz żeglugi na silniku"
     ],
     "correct_answer": "dozwolone pływanie na silniku",
-    "image_url": "page_007.png"
+    "image_url": "img_129.jpg"
   },
   {
     "id": 130,
@@ -85,24 +77,16 @@
   {
     "id": 131,
     "question": "Co oznacza taki znak na kanale?",
-    "answers": [
-      "zakaz cumowania",
-      "dozwolone cumowanie",
-      "punkt poboru wody"
-    ],
+    "answers": ["zakaz cumowania", "dozwolone cumowanie", "punkt poboru wody"],
     "correct_answer": "dozwolone cumowanie",
-    "image_url": "page_009.png"
+    "image_url": "img_131.jpg"
   },
   {
     "id": 132,
     "question": "Płynąc na Mazury rzeką Pisą pod prąd zauważono na nurcie tykę jak na rysunku. Jak ją ominąć?",
-    "answers": [
-      "prawą burtą",
-      "lewą burtą",
-      "z dowolnej strony"
-    ],
+    "answers": ["prawą burtą", "lewą burtą", "z dowolnej strony"],
     "correct_answer": "prawą burtą",
-    "image_url": "page_010.png"
+    "image_url": "img_132.jpg"
   },
   {
     "id": 133,
@@ -113,7 +97,7 @@
       "zakaz żeglugi pod żaglami"
     ],
     "correct_answer": "zakaz żeglugi pod żaglami",
-    "image_url": "page_011.png"
+    "image_url": "img_133.jpg"
   },
   {
     "id": 134,
@@ -124,7 +108,7 @@
       "dozwolone cumowanie dla jachtów"
     ],
     "correct_answer": "prom na uwięzi, mijać za rufą nie za blisko",
-    "image_url": "page_012.png"
+    "image_url": "img_134.jpg"
   },
   {
     "id": 135,
@@ -145,7 +129,7 @@
       "w dowolny sposób prawą lub lewą burtą"
     ],
     "correct_answer": "w dowolny sposób prawą lub lewą burtą",
-    "image_url": "page_014.png"
+    "image_url": "img_136.jpg"
   },
   {
     "id": 137,
@@ -160,13 +144,9 @@
   {
     "id": 138,
     "question": "Żeglujemy na Zalewie Szczecińskim. W locji znaleźliśmy informację, że do portu Stepnica należy wchodzić w nabieżniku – stawa dolna z rombem, stawa górna z trójkątem. Zaobserwowano nabieżnik jak na rysunku. Jak zmienić kurs aby wejść w linię nabieżnika?",
-    "answers": [
-      "w prawo",
-      "nie należy zmieniać kursu",
-      "w lewo"
-    ],
+    "answers": ["w prawo", "nie należy zmieniać kursu", "w lewo"],
     "correct_answer": "w lewo",
-    "image_url": "page_016.png"
+    "image_url": "img_138.jpg"
   },
   {
     "id": 139,
@@ -177,7 +157,7 @@
       "dozwolone pływanie na silniku małej mocy"
     ],
     "correct_answer": "zakaz żeglugi na silniku",
-    "image_url": "page_017.png"
+    "image_url": "img_139.jpg"
   },
   {
     "id": 140,
@@ -188,7 +168,7 @@
       "zakaz zatrzymywania się"
     ],
     "correct_answer": "nakaz dawania sygnału dźwiękowego",
-    "image_url": "page_018.png"
+    "image_url": "img_140.jpg"
   },
   {
     "id": 141,
@@ -199,7 +179,7 @@
       "zakaz cumowania jachtów o długości 7,5 m"
     ],
     "correct_answer": "wysokość przejścia nad linią wody 7,5 m",
-    "image_url": "page_019.png"
+    "image_url": "img_141.jpg"
   },
   {
     "id": 142,
@@ -210,7 +190,7 @@
       "małe statki mają pierwszeństwo przejścia"
     ],
     "correct_answer": "obserwować czy nie przepływa prom i ewentualnie ustąpić z drogi",
-    "image_url": "page_020.png"
+    "image_url": "img_142.jpg"
   },
   {
     "id": 143,
@@ -221,7 +201,7 @@
       "niedozwolona żegluga pod żaglami, można płynąć na wiosłach"
     ],
     "correct_answer": "akwen zamknięty, nie wpływać",
-    "image_url": "page_021.png"
+    "image_url": "img_143.jpg"
   },
   {
     "id": 144,
@@ -232,7 +212,7 @@
       "parking tylko dla łodzi motorowych"
     ],
     "correct_answer": "dozwolone cumowanie",
-    "image_url": "page_022.png"
+    "image_url": "img_144.jpg"
   },
   {
     "id": 145,
@@ -243,7 +223,7 @@
       "akwen hodowli ryb, nie wpływać"
     ],
     "correct_answer": "rozwidlenie szlaku żeglownego",
-    "image_url": "page_023.png"
+    "image_url": "img_145.jpg"
   },
   {
     "id": 146,
@@ -254,7 +234,7 @@
       "oczekiwać na sygnał zezwalający na przejście"
     ],
     "correct_answer": "przechodzić pod mostem trzymając się prawej strony",
-    "image_url": "page_024.png"
+    "image_url": "img_146.jpg"
   },
   {
     "id": 147,
@@ -265,18 +245,14 @@
       "zakaz cumowania po prawej stronie"
     ],
     "correct_answer": "zakaz wpływania poza znak",
-    "image_url": "page_025.png"
+    "image_url": "img_147.jpg"
   },
   {
     "id": 148,
     "question": "Jacht płynie w kierunku zachodnim. Na kursie zaobserwowano pławę jak na rysunku. Po której stronie ja minąć?",
-    "answers": [
-      "po północnej",
-      "po południowej",
-      "można minąć z obu stron"
-    ],
+    "answers": ["po północnej", "po południowej", "można minąć z obu stron"],
     "correct_answer": "po północnej",
-    "image_url": "page_026.png"
+    "image_url": "img_148.jpg"
   },
   {
     "id": 149,
@@ -287,7 +263,7 @@
       "południową stronę niebezpieczeństwa, minąć w bezpiecznej odległości (sprawdzając na mapie położenie niebezpieczeństwa)"
     ],
     "correct_answer": "południową stronę niebezpieczeństwa, minąć w bezpiecznej odległości (sprawdzając na mapie położenie niebezpieczeństwa)",
-    "image_url": "page_027.png"
+    "image_url": "img_149.jpg"
   },
   {
     "id": 150,
@@ -298,7 +274,7 @@
       "zawrócić bo pława stoi na południe od niebezpieczeństwa"
     ],
     "correct_answer": "kontynuować kurs mijając pławę lewą burtą",
-    "image_url": "page_028.png"
+    "image_url": "img_150.jpg"
   },
   {
     "id": 151,
@@ -309,7 +285,7 @@
       "pława oznacza małe odosobnione niebezpieczeństwo"
     ],
     "correct_answer": "po wschodniej stronie pławy znajduje się niebezpieczeństwo",
-    "image_url": "page_029.png"
+    "image_url": "img_151.jpg"
   },
   {
     "id": 152,
@@ -320,18 +296,14 @@
       "oznacza odosobnione niebezpieczeństw, można mijać z obu stron"
     ],
     "correct_answer": "lewą burtą",
-    "image_url": "page_030.png"
+    "image_url": "img_152.jpg"
   },
   {
     "id": 153,
     "question": "Jacht na jeziorze płynie w kierunku zachodnim (oznakowanie „w górę” z zachodu na wschód) , na kursie zaobserwowano tykę jak na rysunku. Jak ją minąć?",
-    "answers": [
-      "prawą burtą",
-      "nie wpływać – rezerwat ptaków",
-      "lewą burtą"
-    ],
+    "answers": ["prawą burtą", "nie wpływać – rezerwat ptaków", "lewą burtą"],
     "correct_answer": "lewą burtą",
-    "image_url": "page_031.png"
+    "image_url": "img_153.jpg"
   },
   {
     "id": 154,
@@ -342,7 +314,7 @@
       "nie da się przejść jacht jest za długi"
     ],
     "correct_answer": "położyć maszt i płynąć dalej",
-    "image_url": "page_032.png"
+    "image_url": "img_154.jpg"
   },
   {
     "id": 155,
@@ -373,26 +345,18 @@
       "przystań można zacumować przy nabrzeżu"
     ],
     "correct_answer": "jaz, niebezpieczeństwo, może być silny prąd, upewnić się czy można przepływać",
-    "image_url": "page_035.png"
+    "image_url": "img_157.jpg"
   },
   {
     "id": 158,
     "question": "Tama spiętrzająca wodę lecz nie zawsze pozwalająca na przepływanie jednostek pływających to:",
-    "answers": [
-      "śluza",
-      "jaz",
-      "ostroga"
-    ],
+    "answers": ["śluza", "jaz", "ostroga"],
     "correct_answer": "jaz"
   },
   {
     "id": 159,
     "question": "Budowla hydrotechniczna pozwalająca na przechodzenie jednostek z akwenu o wyższym poziomie wody do akwenu o niższym poziomie lub odwrotnie to:",
-    "answers": [
-      "śluza komorowa",
-      "jaz",
-      "zapora"
-    ],
+    "answers": ["śluza komorowa", "jaz", "zapora"],
     "correct_answer": "śluza komorowa"
   },
   {
@@ -404,7 +368,7 @@
       "dopuszczalny postój po prawej stronie szlaku żeglownego"
     ],
     "correct_answer": "przeszkoda na szlaku, można minąć z obu stron",
-    "image_url": "page_038.png"
+    "image_url": "img_160.jpg"
   },
   {
     "id": 161,
@@ -415,7 +379,7 @@
       "głębokość przy nabrzeżu przeznaczonym do cumowania"
     ],
     "correct_answer": "odległość w m określająca długość odcinka do cumowania",
-    "image_url": "page_039.png"
+    "image_url": "img_161.jpg"
   },
   {
     "id": 162,
@@ -426,7 +390,7 @@
       "pławę zieloną (1) prawą burtą, pławę (2) też prawą burtą"
     ],
     "correct_answer": "pławę zieloną (1) prawą burtą, pławę (2) też prawą burtą",
-    "image_url": "page_040.png"
+    "image_url": "img_162.jpg"
   },
   {
     "id": 163,
@@ -447,7 +411,7 @@
       "zmienić kurs w prawo i minąć obie pławy ( rys.1 i 2 ) lewą burtą. 2 1"
     ],
     "correct_answer": "zmienić kurs w prawo i minąć obie pławy ( rys.1 i 2 ) lewą burtą. 2 1",
-    "image_url": "page_042.png"
+    "image_url": "img_164.jpg"
   },
   {
     "id": 165,
@@ -458,7 +422,7 @@
       "wejście do kanału – po prawej stronie znaku"
     ],
     "correct_answer": "wejście do kanału – po lewej stronie znaku",
-    "image_url": "page_043.png"
+    "image_url": "img_165.jpg"
   },
   {
     "id": 166,
@@ -469,7 +433,7 @@
       "wejście do kanału – po prawej stronie znaku"
     ],
     "correct_answer": "wejście do kanału – po prawej stronie znaku",
-    "image_url": "page_044.png"
+    "image_url": "img_166.jpg"
   },
   {
     "id": 167,
@@ -500,7 +464,7 @@
       "nierówna linia brzegowa, spłycenia, zachować ostrożność"
     ],
     "correct_answer": "zmniejszyć szybkość, aby nie wytwarzać fali",
-    "image_url": "page_047.png"
+    "image_url": "img_169.jpg"
   },
   {
     "id": 170,
@@ -521,7 +485,7 @@
       "przygotować się do przejścia, wkrótce nastąpi otwarcie mostu"
     ],
     "correct_answer": "przygotować się do przejścia, wkrótce nastąpi otwarcie mostu",
-    "image_url": "page_049.png"
+    "image_url": "img_171.jpg"
   },
   {
     "id": 172,
@@ -532,7 +496,7 @@
       "można przejść nie ma przeszkód"
     ],
     "correct_answer": "można przejść po położeniu masztu",
-    "image_url": "page_050.png"
+    "image_url": "img_172.jpg"
   },
   {
     "id": 173,
@@ -543,7 +507,7 @@
       "miejsce niebezpieczne przy prawym brzegu, ominąć w bezpiecznej odległości"
     ],
     "correct_answer": "miejsce niebezpieczne przy prawym brzegu, ominąć w bezpiecznej odległości",
-    "image_url": "page_051.png"
+    "image_url": "img_173.jpg"
   },
   {
     "id": 174,
@@ -554,7 +518,7 @@
       "statek dryfuje, mijać po stronie nawietrznej"
     ],
     "correct_answer": "na akwenie odbywają się zawody sportowe (np. regaty) nie wpływać oddalić się od tego akwenu.",
-    "image_url": "page_052.png"
+    "image_url": "img_174.jpg"
   },
   {
     "id": 175,
@@ -565,7 +529,7 @@
       "dozwolony postój tylko dla statków wiozących ładunki ciekłe."
     ],
     "correct_answer": "dozwolony postój w stronę wskazaną białym trójkątem – punkt tankowania wody pitnej",
-    "image_url": "page_053.png"
+    "image_url": "img_175.jpg"
   },
   {
     "id": 176,
@@ -576,7 +540,7 @@
       "każdy znak oznacza odosobnione niebezpieczeństwo. mijać dowolnie"
     ],
     "correct_answer": "zalecone przejście pomiędzy znakami (między zielonymi trójkątami)",
-    "image_url": "page_054.png"
+    "image_url": "img_176.jpg"
   },
   {
     "id": 177,
@@ -587,7 +551,7 @@
       "miejsce niebezpieczne przy lewym brzegu. ominąć w bezpiecznej odległości"
     ],
     "correct_answer": "miejsce niebezpieczne przy lewym brzegu. ominąć w bezpiecznej odległości",
-    "image_url": "page_055.png"
+    "image_url": "img_177.jpg"
   },
   {
     "id": 178,
@@ -598,7 +562,7 @@
       "nie, te jachty zacumowały nieprawidłowo, niedozwolone jest cumowanie burta w burtę"
     ],
     "correct_answer": "tak, jest to dozwolone",
-    "image_url": "page_056.png"
+    "image_url": "img_178.jpg"
   },
   {
     "id": 179,
@@ -679,7 +643,7 @@
       "nakaz bezwzględnego zatrzymania statku"
     ],
     "correct_answer": "inne ograniczenia w ruchu żeglownym statków",
-    "image_url": "page_064.png"
+    "image_url": "img_186.jpg"
   },
   {
     "id": 187,
@@ -690,7 +654,7 @@
       "postoju na szerokości 40 m od znaku"
     ],
     "correct_answer": "postoju na szerokości 40 m od znaku",
-    "image_url": "page_065.png"
+    "image_url": "img_187.jpg"
   },
   {
     "id": 188,
@@ -701,7 +665,7 @@
       "nakaz nie przekraczania prędkości 12 km/h, dostosować szybkość"
     ],
     "correct_answer": "nakaz nie przekraczania prędkości 12 km/h, dostosować szybkość",
-    "image_url": "page_066.png"
+    "image_url": "img_188.jpg"
   },
   {
     "id": 189,
@@ -712,7 +676,7 @@
       "nakaz nadania sygnału dźwiękowego"
     ],
     "correct_answer": "nakaz zachowania szczególnej ostrożności",
-    "image_url": "page_067.png"
+    "image_url": "img_189.jpg"
   },
   {
     "id": 190,
@@ -733,7 +697,7 @@
       "miejsce niebezpieczne przy prawym brzegu"
     ],
     "correct_answer": "spodziewać się przejścia szlaku żeglownego na lewy brzeg i odpowiednio zmienić kurs",
-    "image_url": "page_069.png"
+    "image_url": "img_191.jpg"
   },
   {
     "id": 192,
@@ -744,7 +708,7 @@
       "że szlak żeglowny przebiega przy lewym brzegu"
     ],
     "correct_answer": "spodziewać się przejścia szlaku żeglownego na prawy brzeg, odpowiednio zmienić kurs",
-    "image_url": "page_070.png"
+    "image_url": "img_192.jpg"
   },
   {
     "id": 193,
@@ -755,7 +719,7 @@
       "miejsce niebezpieczne na lewym brzegu"
     ],
     "correct_answer": "przebieg szlaku wzdłuż prawego brzegu",
-    "image_url": "page_071.png"
+    "image_url": "img_193.jpg"
   },
   {
     "id": 194,
@@ -780,11 +744,7 @@
   {
     "id": 196,
     "question": "Określenie kierunku „w górę szlaku” na szlaku Wielkich Jezior Mazurskich oznacza ruch w kierunku miejscowości:",
-    "answers": [
-      "Pisz (na południe)",
-      "Węgorzewo (na północ)",
-      "Giżycko"
-    ],
+    "answers": ["Pisz (na południe)", "Węgorzewo (na północ)", "Giżycko"],
     "correct_answer": "Pisz (na południe)"
   },
   {
@@ -800,21 +760,13 @@
   {
     "id": 198,
     "question": "Płyniesz rzeką z prądem, którą burtą miniesz tykę:",
-    "answers": [
-      "lewą",
-      "prawą",
-      "obojętne"
-    ],
+    "answers": ["lewą", "prawą", "obojętne"],
     "correct_answer": "lewą"
   },
   {
     "id": 199,
     "question": "Płycizna między plosami to:",
-    "answers": [
-      "rynna",
-      "przemiał",
-      "kępa"
-    ],
+    "answers": ["rynna", "przemiał", "kępa"],
     "correct_answer": "przemiał"
   },
   {
@@ -826,7 +778,7 @@
       "przebieg szlaku wzdłuż lewego brzegu"
     ],
     "correct_answer": "przebieg szlaku wzdłuż lewego brzegu",
-    "image_url": "page_078.png"
+    "image_url": "img_200.jpg"
   },
   {
     "id": 201,
@@ -837,18 +789,14 @@
       "oś lub początek toru wodnego (tzw. znak bezpiecznej wody), obserwować dalsze znaki toru wodnego i płynąć według nich"
     ],
     "correct_answer": "oś lub początek toru wodnego (tzw. znak bezpiecznej wody), obserwować dalsze znaki toru wodnego i płynąć według nich",
-    "image_url": "page_079.png"
+    "image_url": "img_201.jpg"
   },
   {
     "id": 202,
     "question": "Jakim znakiem oznaczony jest slip (pochylnia) przeznaczony do wyciągania jachtów z wody?",
-    "answers": [
-      "znakiem nr 1",
-      "znakiem nr 2",
-      "znakiem nr 3"
-    ],
+    "answers": ["znakiem nr 1", "znakiem nr 2", "znakiem nr 3"],
     "correct_answer": "znakiem nr 1",
-    "image_url": "page_080.png"
+    "image_url": "img_202.jpg"
   },
   {
     "id": 203,
@@ -859,7 +807,7 @@
       "koniec strefy, w której małe statki używane wyłącznie do uprawiania sportu lub rekreacji mogły rozwijać duże prędkości"
     ],
     "correct_answer": "zakaz ruchu statków używanych wyłącznie do uprawiania sportu i rekreacji",
-    "image_url": "page_081.png"
+    "image_url": "img_203.jpg"
   },
   {
     "id": 204,
@@ -870,7 +818,7 @@
       "nie, oznacza akwen hodowli ryb – nie można wpływać"
     ],
     "correct_answer": "tak, oznacza zezwolenie przejścia",
-    "image_url": "page_082.png"
+    "image_url": "img_204.jpg"
   },
   {
     "id": 205,
@@ -881,7 +829,7 @@
       "głębokości odpowiednio 2 sążnie i 5 stóp, 3 sążnie 4 stopy"
     ],
     "correct_answer": "głębokości odpowiednio 2,5m i 3,4 m",
-    "image_url": "page_083.png"
+    "image_url": "img_205.jpg"
   },
   {
     "id": 206,
@@ -922,7 +870,7 @@
       "nadać sygnał dźwiękowy (1 długi uwaga)"
     ],
     "correct_answer": "zatrzymać się w warunkach określonych przepisami",
-    "image_url": "page_087.png"
+    "image_url": "img_209.jpg"
   },
   {
     "id": 210,
@@ -963,7 +911,7 @@
       "2-znak ustawiany po lewej stronie wyjścia, 1- po prawej 1 2"
     ],
     "correct_answer": "1-znak ustawiany po lewej stronie wyjścia, 2- po prawej",
-    "image_url": "page_091.png"
+    "image_url": "img_213.jpg"
   },
   {
     "id": 214,
@@ -984,7 +932,7 @@
       "zakaz zawracania"
     ],
     "correct_answer": "zakaz wszelkiego wyprzedzania",
-    "image_url": "page_093.png"
+    "image_url": "img_215.jpg"
   },
   {
     "id": 216,
@@ -995,7 +943,7 @@
       "zakaz zawracania"
     ],
     "correct_answer": "zakaz mijania i wyprzedzania",
-    "image_url": "page_094.png"
+    "image_url": "img_216.jpg"
   },
   {
     "id": 217,
@@ -1006,7 +954,7 @@
       "prom przemieszczający się swobodnie"
     ],
     "correct_answer": "jaz w bliskiej odległości",
-    "image_url": "page_095.png"
+    "image_url": "img_217.jpg"
   },
   {
     "id": 218,
@@ -1017,7 +965,7 @@
       "koniec obowiązywania zakazu/nakazu ograniczenia"
     ],
     "correct_answer": "połączenie z drogą uznaną za główną drogę wodną",
-    "image_url": "page_096.png"
+    "image_url": "img_218.jpg"
   },
   {
     "id": 219,
@@ -1032,23 +980,15 @@
   {
     "id": 220,
     "question": "Zachodni znak kardynalny ma charakterystykę świetlną:",
-    "answers": [
-      "dziewięć błysków",
-      "sześć błysków",
-      "trzy błyski"
-    ],
+    "answers": ["dziewięć błysków", "sześć błysków", "trzy błyski"],
     "correct_answer": "dziewięć błysków"
   },
   {
     "id": 221,
     "question": "Płynąc na Zalewie Szczecińskim na północ zaobserwowano na kursie tykę, kolor trudno określić ale widać znak szczytowy jak na rysunku. Jak ja wyminąć?",
-    "answers": [
-      "prawą burtą",
-      "lewą burtą",
-      "zawrócić"
-    ],
+    "answers": ["prawą burtą", "lewą burtą", "zawrócić"],
     "correct_answer": "prawą burtą",
-    "image_url": "page_099.png"
+    "image_url": "img_221.jpg"
   },
   {
     "id": 222,
@@ -1059,7 +999,7 @@
       "można minąć z obu stron nie za blisko"
     ],
     "correct_answer": "prawą burtą",
-    "image_url": "page_100.png"
+    "image_url": "img_222.jpg"
   },
   {
     "id": 223,
@@ -1070,7 +1010,7 @@
       "koniec obowiązywania zakazu, nakazu, ograniczenia"
     ],
     "correct_answer": "koniec obowiązywania zakazu, nakazu, ograniczenia",
-    "image_url": "page_101.png"
+    "image_url": "img_223.jpg"
   },
   {
     "id": 224,
@@ -1081,7 +1021,7 @@
       "zakaz rozwijania dużych prędkości"
     ],
     "correct_answer": "zakaz ruchu statków o napędzie mechanicznym",
-    "image_url": "page_102.png"
+    "image_url": "img_224.jpg"
   },
   {
     "id": 225,
@@ -1096,11 +1036,7 @@
   {
     "id": 226,
     "question": "Płynąc na wschód jacht napotkał na swej drodze tykę ze znakiem szczytowym w postaci dwóch stożków skierowanych wierzchołkami do góry, którą burtą powinien minąć znak:",
-    "answers": [
-      "prawą",
-      "lewą",
-      "obojętnie którą"
-    ],
+    "answers": ["prawą", "lewą", "obojętnie którą"],
     "correct_answer": "prawą"
   },
   {
@@ -1112,26 +1048,18 @@
       "znak bezpiecznej wody"
     ],
     "correct_answer": "znak bezpiecznej wody",
-    "image_url": "page_105.png"
+    "image_url": "img_227.jpg"
   },
   {
     "id": 228,
     "question": "Wschodni znak kardynalny ma charakterystykę świetlną:",
-    "answers": [
-      "dziewięć błysków",
-      "sześć błysków",
-      "trzy błyski"
-    ],
+    "answers": ["dziewięć błysków", "sześć błysków", "trzy błyski"],
     "correct_answer": "trzy błyski"
   },
   {
     "id": 229,
     "question": "Płynąc na południe jacht napotkał na swej drodze tykę ze znakiem szczytowym w postaci dwóch stożków skierowanych wierzchołkami do siebie, którą burtą powinien minąć znak:",
-    "answers": [
-      "prawą",
-      "lewą",
-      "obojętnie którą"
-    ],
+    "answers": ["prawą", "lewą", "obojętnie którą"],
     "correct_answer": "lewą"
   },
   {

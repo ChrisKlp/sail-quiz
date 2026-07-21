@@ -237,7 +237,8 @@
     "id": 30,
     "question": "Jacht posiada osprzęt typu:",
     "answers": ["ket", "slup", "sluter"],
-    "correct_answer": "slup"
+    "correct_answer": "slup",
+    "image_url": "img_030.jpg"
   },
   {
     "id": 31,
@@ -292,7 +293,7 @@
     "question": "Przedstawiony na rysunku typ ożaglowania nazywamy:",
     "answers": ["keczem", "jol", "szkuner"],
     "correct_answer": "jol",
-    "image_url": "page_037.png"
+    "image_url": "img_037.jpg"
   },
   {
     "id": 38,
@@ -325,7 +326,7 @@
     "question": "Przedstawiony na rysunku typ ożaglowania nazywamy:",
     "answers": ["kecz", "jol", "szkuner"],
     "correct_answer": "szkuner",
-    "image_url": "page_041.png"
+    "image_url": "img_041.jpg"
   },
   {
     "id": 42,
@@ -358,21 +359,21 @@
     "question": "Pokazany na szkicu żagiel to:",
     "answers": ["grot", "genua", "bezan"],
     "correct_answer": "bezan",
-    "image_url": "page_045.jpg"
+    "image_url": "img_045.jpg"
   },
   {
     "id": 46,
     "question": "Pokazany na szkicu żagiel to:",
     "answers": ["grot", "fok", "bezan"],
     "correct_answer": "fok",
-    "image_url": "page_046.jpg"
+    "image_url": "img_046.jpg"
   },
   {
     "id": 47,
     "question": "Jak nazywają się pokazane na szkicu kolorem czerwonym elementy rozpierające wanty?",
     "answers": ["rakskloty", "szandeki", "salingi"],
     "correct_answer": "salingi",
-    "image_url": "page_047.jpg"
+    "image_url": "img_047.jpg"
   },
   {
     "id": 48,
@@ -611,49 +612,49 @@
     "question": "Na rysunku obok pokazano element takielunku jachtu. Jest to:",
     "answers": ["luwers", "kausza", "szekla"],
     "correct_answer": "szekla",
-    "image_url": "page_076.jpg"
+    "image_url": "img_076.jpg"
   },
   {
     "id": 77,
     "question": "Na rysunku pokazano schematycznie konstrukcję urządzenia sterowego. Element zaznaczony kolorem czerwonym to:",
     "answers": ["rumpel", "jarzmo", "płetwa steru"],
     "correct_answer": "płetwa steru",
-    "image_url": "page_077.jpg"
+    "image_url": "img_077.jpg"
   },
   {
     "id": 78,
     "question": "Na rysunku pokazano schematycznie konstrukcję urządzenia sterowego. Element zaznaczony kolorem czerwonym to:",
     "answers": ["rumpel", "drążek sterowy", "trzon"],
     "correct_answer": "rumpel",
-    "image_url": "page_078.jpg"
+    "image_url": "img_078.jpg"
   },
   {
     "id": 79,
     "question": "Na rysunku pokazano schematycznie olinowanie masztu. Jak nazywa się lina oznaczona kolorem czerwonym?",
     "answers": ["sztag", "achterszag", "topwanta"],
     "correct_answer": "achterszag",
-    "image_url": "page_079.jpg"
+    "image_url": "img_079.jpg"
   },
   {
     "id": 80,
     "question": "Na rysunku pokazano schematycznie olinowanie masztu. Jak nazywa się lina oznaczona kolorem czerwonym?",
     "answers": ["sztag", "achterszag", "wanta"],
     "correct_answer": "sztag",
-    "image_url": "page_080.jpg"
+    "image_url": "img_080.jpg"
   },
   {
     "id": 81,
     "question": "Pokazana na rysunku kotwica to kotwica:",
     "answers": ["patentowa Danfortha", "admiralicji", "delta"],
     "correct_answer": "admiralicji",
-    "image_url": "page_081.jpg"
+    "image_url": "img_081.jpg"
   },
   {
     "id": 82,
     "question": "Pokazana na rysunku kotwica to kotwica:",
     "answers": ["admiralicji", "delta", "patentowa Danfortha"],
     "correct_answer": "patentowa Danfortha",
-    "image_url": "page_082.jpg"
+    "image_url": "img_082.jpg"
   },
   {
     "id": 83,
@@ -714,7 +715,7 @@
     "question": "Pokazany na rysunku element olinowania to:",
     "answers": ["szakla", "kausza", "luwers"],
     "correct_answer": "kausza",
-    "image_url": "page_090.jpg"
+    "image_url": "img_090.jpg"
   },
   {
     "id": 91,
@@ -975,20 +976,20 @@
       "urządzenie do mocowania silnika"
     ],
     "correct_answer": "ściągacz do napinania olinowania",
-    "image_url": "page_120.jpg"
+    "image_url": "img_120.jpg"
   },
   {
     "id": 121,
     "question": "Na rysunku pokazano schematycznie miecz jachtu. Jaki to rodzaj miecza?",
     "answers": ["szybrowy", "obrotowy", "balastowy"],
     "correct_answer": "obrotowy",
-    "image_url": "page_121.jpg"
+    "image_url": "img_121.jpg"
   },
   {
     "id": 122,
     "question": "Na rysunku pokazano schematycznie miecz jachtu. Jaki to rodzaj miecza ?",
     "answers": ["szybrowy", "obrotowy", "balastowy"],
     "correct_answer": "szybrowy",
-    "image_url": "page_122.jpg"
+    "image_url": "img_122.jpg"
   }
 ]

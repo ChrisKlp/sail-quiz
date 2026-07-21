@@ -24,7 +24,7 @@ export function Quiz() {
       {question.image_url && !brokenImage && (
         <Card className='mt-4 overflow-hidden'>
           <img
-            src={question.image_url}
+            src={`/assets/${question.image_url}`}
             alt=''
             onError={() => setBrokenImage(true)}
             className='block max-h-64 w-full object-contain bg-secondary/30'
