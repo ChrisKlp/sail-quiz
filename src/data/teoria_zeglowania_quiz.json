@@ -1,0 +1,809 @@
+[
+  {
+    "id": 349,
+    "question": "Co to jest siła aerodynamiczna?",
+    "answers": [
+      "siła nośna która działa na kadłub jachtu",
+      "siła powstająca na żaglu wskutek oddziaływania wiatru",
+      "opor jaki stawia wiatr płynącemu łodzi"
+    ],
+    "correct_answer": "siła powstająca na żaglu wskutek oddziaływania wiatru"
+  },
+  {
+    "id": 350,
+    "question": "Wiatr pozorny jest to:",
+    "answers": [
+      "wypadkowa wiatru rzeczywistego i wiatru własnego",
+      "wiatr powstający wskutek dyszowego działania foka",
+      "wiatr spływający z żagla"
+    ],
+    "correct_answer": "wypadkowa wiatru rzeczywistego i wiatru własnego"
+  },
+  {
+    "id": 351,
+    "question": "Siła pochodząca od wiatru i rozpędzająca jacht żaglowy to:",
+    "answers": ["siła hydrodynamiczna", "siła aerodynamiczna", "siła dryfu"],
+    "correct_answer": "siła aerodynamiczna"
+  },
+  {
+    "id": 352,
+    "question": "Miecz na jachtach mieczowych z lekkim mieczem służy do:",
+    "answers": [
+      "zwiększenia oporu bocznego",
+      "wspomagania sterowania",
+      "poprawy stateczności jachtu"
+    ],
+    "correct_answer": "zwiększenia oporu bocznego"
+  },
+  {
+    "id": 353,
+    "question": "Promień skrętu jachtu zależy od:",
+    "answers": [
+      "umiejscowienia masztu i jego pochylenia",
+      "materiału z jakiego wykonana jest płetwa sterowa",
+      "odległości pomiędzy płetwą mieczową a płetwą sterową"
+    ],
+    "correct_answer": "odległości pomiędzy płetwą mieczową a płetwą sterową"
+  },
+  {
+    "id": 354,
+    "question": "Przesunięcie środka ożaglowania w kierunku dziobu na jachcie typu slup, uzyskamy przez:",
+    "answers": [
+      "zmniejszenie powierzchni żagla przedniego",
+      "wyluzowanie żagla tylnego",
+      "pochylenie masztu do tyłu"
+    ],
+    "correct_answer": "wyluzowanie żagla tylnego"
+  },
+  {
+    "id": 355,
+    "question": "Podniesienie płetwy mieczowej w kursie bajdewind, spowoduje przede wszystkim:",
+    "answers": [
+      "zwiększenie przechyłu bocznego jachtu i zwiększenie jego prędkości",
+      "wyostrzenie jachtu do wiatru",
+      "zmniejszenie przechyłu bocznego i zwiększenie dryfu jachtu"
+    ],
+    "correct_answer": "zmniejszenie przechyłu bocznego i zwiększenie dryfu jachtu"
+  },
+  {
+    "id": 356,
+    "question": "Dla kursów ostrych prędkość wiatru pozornego jest:",
+    "answers": [
+      "większa niż wiatru rzeczywistego",
+      "mniejsza niż wiatru rzeczywistego",
+      "taka sama jak wiatru rzeczywistego"
+    ],
+    "correct_answer": "większa niż wiatru rzeczywistego"
+  },
+  {
+    "id": 357,
+    "question": "Aby odpaść należy:",
+    "answers": [
+      "wychylić płetwę steru na burtę nawietrzną",
+      "wybrać grota i jednocześnie wyluzować foka",
+      "wychylić płetwę steru na burtę zawietrzna, jednocześnie luzować tylny żagiel"
+    ],
+    "correct_answer": "wychylić płetwę steru na burtę zawietrzna, jednocześnie luzować tylny żagiel"
+  },
+  {
+    "id": 358,
+    "question": "Jacht płynie fordewindem „na motyla”, o tym jakim płynie halsem decyduje:",
+    "answers": [
+      "położenie foka",
+      "położenie grota",
+      "burta, na której siedzi sternik"
+    ],
+    "correct_answer": "położenie grota"
+  },
+  {
+    "id": 359,
+    "question": "W miarę odpadania jachtu od linii wiatru żagle:",
+    "answers": ["luzujemy", "wybieramy", "nie zmieniamy pozycji żagli"],
+    "correct_answer": "luzujemy"
+  },
+  {
+    "id": 360,
+    "question": "Nawietrzność jest to:",
+    "answers": [
+      "tendencja jachtu do odpadania z wiatrem",
+      "tendencja jachtu do ostrzenia na wiatr",
+      "umiejętność prowadzenia jachtu przy silnych wiatrach"
+    ],
+    "correct_answer": "tendencja jachtu do ostrzenia na wiatr"
+  },
+  {
+    "id": 361,
+    "question": "Obniżenie środka ożaglowania jachtu (np. zarefowanie) ma wpływ na:",
+    "answers": [
+      "zwiększenie stateczności jachtu",
+      "zmniejszenie stateczności jachtu",
+      "nie ma wpływu na stateczność"
+    ],
+    "correct_answer": "zwiększenie stateczności jachtu"
+  },
+  {
+    "id": 362,
+    "question": "Przejście z kursu pełnego do ostrego powoduje:",
+    "answers": [
+      "wyraźny spadek siły wiatru pozornego",
+      "zmianę kierunku wiatru rzeczywistego",
+      "wyraźny wzrost siły wiatru pozornego"
+    ],
+    "correct_answer": "wyraźny wzrost siły wiatru pozornego"
+  },
+  {
+    "id": 363,
+    "question": "Wyluzowanie żagli przednich spowoduje:",
+    "answers": [
+      "wzrost nawietrzności",
+      "wzrost zawietrzności",
+      "nie wpłynie na stateczność kursową"
+    ],
+    "correct_answer": "wzrost nawietrzności"
+  },
+  {
+    "id": 364,
+    "question": "Jacht płynie bajdewindem z pewną prędkością, przy wietrze rzeczywistym o prędkości większej od zera. Największą prędkość z wymienionych poniżej ma zawsze:",
+    "answers": ["wiatr pozorny", "wiatr rzeczywisty", "wiatr ruchu własnego"],
+    "correct_answer": "wiatr pozorny"
+  },
+  {
+    "id": 365,
+    "question": "Zwiększenie nawietrzności mieczowego jachtu żaglowego typu slup, uzyskamy przez:",
+    "answers": [
+      "podniesienie płetwy mieczowej",
+      "zmniejszenie powierzchni grota",
+      "zrzucenie foka"
+    ],
+    "correct_answer": "zrzucenie foka"
+  },
+  {
+    "id": 366,
+    "question": "Refowanie żagla jest to:",
+    "answers": [
+      "zwiększenie powierzchni żagla",
+      "zmniejszenie powierzchni żagla i obniżenie jego środka ożaglowania",
+      "najczęściej obniżenie środka ożaglowania"
+    ],
+    "correct_answer": "zmniejszenie powierzchni żagla i obniżenie jego środka ożaglowania"
+  },
+  {
+    "id": 367,
+    "question": "Aby zmienić kurs jachtu wzg. wiatru z bajdewindu prawego halsu na baksztag lewego halsu, należy:",
+    "answers": [
+      "odpaść nie robiąc zwrotu",
+      "zrobić zwrot przez sztag i zatrzymać cyrkulację jachtu tuż po zwrocie",
+      "odpaść, zrobić zwrot przez rufę i zatrzymać cyrkulację jachtu tuż po zwrocie"
+    ],
+    "correct_answer": "odpaść, zrobić zwrot przez rufę i zatrzymać cyrkulację jachtu tuż po zwrocie"
+  },
+  {
+    "id": 368,
+    "question": "Jacht płynie pod wiatr z wyluzowanymi żaglami. Od czego zależy długość drogi hamowania?",
+    "answers": [
+      "od rozmieszczenia załogi na jachcie",
+      "od wzajemnego położenia środka wyporu i środka ożaglowania",
+      "od masy jachtu i jego prędkości w momencie ustawienia w linii wiatru"
+    ],
+    "correct_answer": "od masy jachtu i jego prędkości w momencie ustawienia w linii wiatru"
+  },
+  {
+    "id": 369,
+    "question": "Płyniesz prawym halsem w bajdewindzie i zrywa się nawietrzna wanta. Co zrobisz?",
+    "answers": [
+      "płyniesz do pomostu i usuniesz usterkę",
+      "wyluzujesz żagle i czekasz na pomoc",
+      "natychmiast przechodzisz na lewy hals i usuwasz usterkę"
+    ],
+    "correct_answer": "natychmiast przechodzisz na lewy hals i usuwasz usterkę"
+  },
+  {
+    "id": 370,
+    "question": "Przy znacznym wychyleniu płetwy sterowej w prawo (65-75 stopni), jacht płynący do przodu będzie:",
+    "answers": [
+      "skręcał w lewo i hamował",
+      "utrzymywał kurs i mocno hamował",
+      "skręcał w prawo i hamował"
+    ],
+    "correct_answer": "skręcał w prawo i hamował"
+  },
+  {
+    "id": 371,
+    "question": "Balastowanie załogantów na jachcie podczas żeglugi na wiatr powoduje:",
+    "answers": [
+      "zwiększenie momentu prostującego jacht",
+      "poprawę bezpieczeństwa sternika",
+      "zwiększenie stateczności kursowej i zmniejszenie zanurzenia jachtu"
+    ],
+    "correct_answer": "zwiększenie momentu prostującego jacht"
+  },
+  {
+    "id": 372,
+    "question": "Aby wyprostować jacht podczas silnego przechyłu należy:",
+    "answers": ["wybrać żagle", "luzować żagle", "opuścić do końca miecz"],
+    "correct_answer": "luzować żagle"
+  },
+  {
+    "id": 373,
+    "question": "Pod jakim warunkiem jacht „wywracalny” (kąt krytyczny przechyłu np. ok. 50stopni) może być dopuszczony do żeglugi?",
+    "answers": [
+      "jeżeli załoga ma założone pasy lub kamizelki ratunkowe",
+      "jeżeli jest niezatapialny tj. posiada zbiorniki wypornościowe o objętości w dm3 większej od masy jachtu w kg",
+      "jeżeli jest wyposażony w dwie pompy zęzowe"
+    ],
+    "correct_answer": "jeżeli jest niezatapialny tj. posiada zbiorniki wypornościowe o objętości w dm3 większej od masy jachtu w kg"
+  },
+  {
+    "id": 374,
+    "question": "Wyporność zbiorników i/lub elementów wypornościowych jachtu „wywracalnego” w litrach powinna być w stosunku do masy jachtu w kg:",
+    "answers": ["większa", "mniejsza", "równa"],
+    "correct_answer": "większa"
+  },
+  {
+    "id": 375,
+    "question": "Jacht ma postawiony grot i fok. Przed zwrotem przez sztag zluzowano szot foka. Co to spowoduje?",
+    "answers": [
+      "zwiększenie zawietrzności jachtu, co utrudni zwrot",
+      "zwiększenie przechyłu jachtu",
+      "zwiększenie nawietrzności jachtu"
+    ],
+    "correct_answer": "zwiększenie nawietrzności jachtu"
+  },
+  {
+    "id": 376,
+    "question": "Na jakich kursach względem wiatru najbardziej przydatny jest obciągacz bomu?",
+    "answers": [
+      "na bajdewindzie",
+      "tylko w półwietrze",
+      "na fordewindzie i baksztagu"
+    ],
+    "correct_answer": "na fordewindzie i baksztagu"
+  },
+  {
+    "id": 378,
+    "question": "Podniesienie miecza na kursie bajdewind spowoduje:",
+    "answers": [
+      "konieczność balastowania na nawietrznej",
+      "zwiększenie dryfu",
+      "zwiększenie szybkości jachtu"
+    ],
+    "correct_answer": "zwiększenie dryfu"
+  },
+  {
+    "id": 379,
+    "question": "Jacht jest tak skonstruowany, że moment prostujący przy kącie przechyłu ok. 45 stopni jest bliski zeru. Czy jest to jacht?",
+    "answers": [
+      "wywracalny",
+      "niewywracalny",
+      "niewywracalny o ile posiada komory wypornościowe."
+    ],
+    "correct_answer": "wywracalny"
+  },
+  {
+    "id": 380,
+    "question": "Jacht idzie pod żaglami kursem półwiatr, żagle ustawione są poprawnie. Czy po włączeniu silnika naprzód, co spowoduje zwiększenie szybkości jachtu żagle będą nadal pracować poprawnie?",
+    "answers": [
+      "nadal poprawnie",
+      "będzie trzeba je bardziej wybrać",
+      "będzie trzeba je bardziej wyluzować"
+    ],
+    "correct_answer": "będzie trzeba je bardziej wybrać"
+  },
+  {
+    "id": 381,
+    "question": "Jacht jest tak skonstruowany, że moment prostujący w zakresie kątów przechyłu od 0 do 90 stopni jest dodatni. czy jest to jacht ?",
+    "answers": [
+      "wywracalny",
+      "niewywracalny",
+      "niewywracalny o ile posiada komory wypornościowe"
+    ],
+    "correct_answer": "niewywracalny"
+  },
+  {
+    "id": 382,
+    "question": "Jaki wpływ na wielkość momentu przechylającego ma obniżenie środka ożaglowania jachtu (np. przez refowanie żagli)?",
+    "answers": [
+      "zwiększa moment przechylający",
+      "zmniejsza moment przechylający",
+      "nie ma wpływu na moment przechylający"
+    ],
+    "correct_answer": "zmniejsza moment przechylający"
+  },
+  {
+    "id": 383,
+    "question": "Czy podniesienie miecza na kursie pełny baksztag spowoduje zwiększenie dryfu jachtu:",
+    "answers": [
+      "tak, bo zmniejszy się siła bocznego oporu",
+      "nie, bo siła aerodynamiczna jest skierowana w kierunku ruchu jachtu",
+      "podniesienie miecza nie ma wpływu na dryf jachtu niezależnie od kursu wzgl. wiatru"
+    ],
+    "correct_answer": "nie, bo siła aerodynamiczna jest skierowana w kierunku ruchu jachtu"
+  },
+  {
+    "id": 384,
+    "question": "Półwiatr to kurs jachtu przy wietrze rzeczywistym wiejącym w stosunku do kursu jachtu pod kątem:",
+    "answers": ["ok. 90 stopni", "ok. 60 stopni", "ok. 150 stopni"],
+    "correct_answer": "ok. 90 stopni"
+  },
+  {
+    "id": 385,
+    "question": "Jacht żegluje w stosunku do wiatru rzeczywistego pod kątem 60 stopni. Jak nazywamy taki kurs względem wiatru:",
+    "answers": ["baksztag", "bajdewind", "półwiatr"],
+    "correct_answer": "bajdewind"
+  },
+  {
+    "id": 386,
+    "question": "Jacht płynący kursem bejdewind może najostrzej płynąć w stosunku do wiatru rzeczywistego pod kątem 40°. Jaki będzie kąt martwy dla takiego jachtu?",
+    "answers": ["40°", "120°", "80°"],
+    "correct_answer": "80°"
+  },
+  {
+    "id": 387,
+    "question": "Baksztag to kurs jachtu przy wietrze rzeczywistym wiejącym w stosunku do kursu jachtu pod kątem:",
+    "answers": ["90 stopni", "ok. 60 do 70 stopni", "ok. 100 do 170 stopni"],
+    "correct_answer": "ok. 100 do 170 stopni"
+  },
+  {
+    "id": 388,
+    "question": "Fordewind to kurs jachtu przy wietrze wiejący w stosunku do kursu jachtu:",
+    "answers": [
+      "od dziobu pod kątem mniejszym od 90 stopni",
+      "dokładnie pod kątem 90 stopni",
+      "wiejący dokładnie od strony rufy jachtu"
+    ],
+    "correct_answer": "wiejący dokładnie od strony rufy jachtu"
+  },
+  {
+    "id": 389,
+    "question": "Na szkicu obok pokazano jacht i kierunek wiatru rzeczywistego (strzałka niebieska). Jakim halsem i kursem względem wiatru płynie ten jacht?",
+    "answers": [
+      "półwiatrem lewego halsu",
+      "baksztagiem lewego halsu",
+      "półwiatrem prawego halsu"
+    ],
+    "correct_answer": "półwiatrem lewego halsu",
+    "image_url": "page_041.png"
+  },
+  {
+    "id": 390,
+    "question": "Na szkicu obok pokazano jacht i kierunek wiatru (strzałka niebieska) Jakim halsem i kursem względem wiatru płynie ten jacht?",
+    "answers": [
+      "baksztagiem lewego halsu",
+      "fordewindem lewego halsu",
+      "fordewindem prawego halsu"
+    ],
+    "correct_answer": "fordewindem lewego halsu",
+    "image_url": "page_042.png"
+  },
+  {
+    "id": 391,
+    "question": "Jacht typu slup ( postawiony grot i fok) płynie lewym halsem jeżeli:",
+    "answers": [
+      "ma wiatr z lewej burty (grot wybrany po prawej burcie)",
+      "ma wiatr z tyłu, a grota wybrany po lewej burcie",
+      "ma wiatr z prawej burty (grot wybrany po lewej burcie)"
+    ],
+    "correct_answer": "ma wiatr z lewej burty (grot wybrany po prawej burcie)"
+  },
+  {
+    "id": 392,
+    "question": "Czy na wszystkich kursach wzgl. wiatru wiatr pozorny jest ostrzejszy od wiatru rzeczywistego?",
+    "answers": [
+      "nie, tylko na kursie bajdewind",
+      "tak, na wszystkich kursach",
+      "tak, z wyjątkiem fordewindu, kiedy wiatr pozorny ma taki sam kierunek jak wiatr rzeczywisty"
+    ],
+    "correct_answer": "tak, z wyjątkiem fordewindu, kiedy wiatr pozorny ma taki sam kierunek jak wiatr rzeczywisty"
+  },
+  {
+    "id": 393,
+    "question": "Jacht stoi zacumowany do boi, jaki wiatr odczuwamy na jachcie",
+    "answers": ["pozorny", "rzeczywisty", "własny (ruchu własnego)"],
+    "correct_answer": "rzeczywisty"
+  },
+  {
+    "id": 394,
+    "question": "Wskaźnik wiatru jachtu zacumowanego nieruchomo wskazuje wiatr:",
+    "answers": ["pozorny", "własny (ruchu własnego)", "rzeczywisty"],
+    "correct_answer": "rzeczywisty"
+  },
+  {
+    "id": 395,
+    "question": "Wskaźnik wiatru jachtu płynącego pod żaglami wskazuje wiatr:",
+    "answers": ["rzeczywisty", "własny (ruchu własnego)", "pozorny"],
+    "correct_answer": "pozorny"
+  },
+  {
+    "id": 396,
+    "question": "Przy ruchu jachtu do przodu wychylenie płetwy steru w stronę lewej burty spowoduje skręt jachtu i odchylenie dziobu i rufy:",
+    "answers": [
+      "skręt w lewo, dziób w lewo, rufa w prawo",
+      "skręt w lewo, dziób w lewo , rufa w lewo",
+      "skręt w prawo, dziób w prawo rufa w lewo"
+    ],
+    "correct_answer": "skręt w lewo, dziób w lewo, rufa w prawo"
+  },
+  {
+    "id": 397,
+    "question": "Przy ruchu jachtu wstecz wychylenie płetwy steru w stronę prawej burty spowoduje skręt jachtu i odchylenie dziobu i rufy:",
+    "answers": [
+      "dziób w lewo, rufa w prawo",
+      "dziób w lewo, rufa w lewo",
+      "dziób w prawo, rufa w lewo"
+    ],
+    "correct_answer": "dziób w lewo, rufa w lewo"
+  },
+  {
+    "id": 398,
+    "question": "Na płetwę sterową jachtu działa siła hydrodynamiczna, wielkość tej siły zależy od?",
+    "answers": [
+      "kąta wychylenia płetwy sterowej i jej powierzchni",
+      "kąta wychylenia płetwy sterowej, jej powierzchni i szybkości jachtu",
+      "tylko od powierzchni płetwy sterowej i szybkości jachtu"
+    ],
+    "correct_answer": "kąta wychylenia płetwy sterowej, jej powierzchni i szybkości jachtu"
+  },
+  {
+    "id": 399,
+    "question": "Zrzucenie foka na jachcie typu slup żeglującym przy postawionym grocie i foku spowoduje:",
+    "answers": [
+      "zwiększenie nawietrzności jachtu",
+      "zmniejszenie nawietrzności jachtu",
+      "tylko zmniejszenie przechyłu jachtu"
+    ],
+    "correct_answer": "zwiększenie nawietrzności jachtu"
+  },
+  {
+    "id": 400,
+    "question": "Znaczne zarefowanie grota na jachcie zrównoważonym żaglowo o osprzęcie żaglowym typu slup przy postawionym pełnym foku spowoduje:",
+    "answers": [
+      "zwiększenie zawietrzności jachtu",
+      "zwiększenie nawietrzności jachtu",
+      "tylko zmniejszenie sił działających na żagle"
+    ],
+    "correct_answer": "zwiększenie zawietrzności jachtu"
+  },
+  {
+    "id": 401,
+    "question": "Nadmierne wybieranie żagli ustawionych prawidłowo – pod optymalnym kątem natarcia (np. maksymalne wybranie żagli przy żegludze kursem półwiatr czy baksztag) spowoduje:",
+    "answers": [
+      "zwiększenie siły ciągu",
+      "zmniejszenie siły ciągu i na pewnych kursach zwiększenie dryfu",
+      "takie ustawienie nie zmienia siły ciągu, ale może mieć wpływ na dryf"
+    ],
+    "correct_answer": "zmniejszenie siły ciągu i na pewnych kursach zwiększenie dryfu"
+  },
+  {
+    "id": 402,
+    "question": "Największa siła aerodynamiczna na żaglu przy żegludze kursami ostrymi, powstaje przy kącie natarcia dla wiatru pozornego równym około:",
+    "answers": [
+      "15 – 25 stopni",
+      "45 stopni",
+      "90 stopni Optymalny kąt natarcia przy żegludze od bajdewindu do ostrego baksztagu to 10-20 stopni i w miarę odpadania zwiększa się aby w fordewindzie osiągnąć 90 stopni."
+    ],
+    "correct_answer": "15 – 25 stopni"
+  },
+  {
+    "id": 403,
+    "question": "Przy konieczności halsowania pod wiatr przy silnym wietrze na jachcie typu slup (żegluga turystyczna) najbezpieczniej/najkorzystniej jest:",
+    "answers": [
+      "zrzucić fok i żeglować na samym grocie",
+      "zarefować grot i postawić mniejszy fok (lub go zarefować, o ile jest to możliwe, np. roler)",
+      "maksymalnie zarefować grot i pozostawić postawiony normalny fok"
+    ],
+    "correct_answer": "zarefować grot i postawić mniejszy fok (lub go zarefować, o ile jest to możliwe, np. roler)"
+  },
+  {
+    "id": 404,
+    "question": "Przy konieczności żeglugi z wiatrem przy bardzo silnym wietrze na jachcie typu slup NAJBEZPIECZNIEJ/NAJKORZYSTNIEJ jest:",
+    "answers": [
+      "zrzucić grot i postawić mniejszy fok",
+      "zarefować grot i pozostawić normalny fok",
+      "żeglować pod pełnymi żaglami, gdyż wiatr pozorny przy dużej szybkości będzie słabszy od rzeczywistego"
+    ],
+    "correct_answer": "zrzucić grot i postawić mniejszy fok"
+  },
+  {
+    "id": 405,
+    "question": "Jacht mieczowy wyposażony jest w miecz o znacznym ciężarze (np. pewne jachty „TANGO”) Czy podniesienie takiego miecza wpłynie na stateczność poprzeczną jachtu?",
+    "answers": [
+      "stateczność polepszy się",
+      "stateczność pogorszy się",
+      "nie wpłynie na stateczność poprzeczna jachtu"
+    ],
+    "correct_answer": "stateczność pogorszy się"
+  },
+  {
+    "id": 406,
+    "question": "Przy odbiorze jachtu od firmy czarterowej NAJWAŻNIEJSZE Z PUNKTU WIDZENIA STATECZNOŚCI JACHTU - BEZPIECZNEJ ŻEGLUGI będzie uzyskanie poniższych informacji:",
+    "answers": [
+      "stateczność jachtu ( wymagający balastowania, o stateczności dodatniej przy dużych kątach przechyłu itp.), zatapialność (zatapialny - niezatapialny)",
+      "wymiary jachtu, powierzchnia ożaglowania",
+      "rodzaj silnika, rodzaj urządzeń sanitarnych"
+    ],
+    "correct_answer": "stateczność jachtu ( wymagający balastowania, o stateczności dodatniej przy dużych kątach przechyłu itp.), zatapialność (zatapialny - niezatapialny)"
+  },
+  {
+    "id": 407,
+    "question": "Wielkość siły aerodynamicznej na żaglu przy tej samej sile wiatru zależy od:",
+    "answers": [
+      "tylko od kąta natarcia (kąt pomiędzy cięciwą żagla, a kierunkiem przepływu wiatru)",
+      "kąta natarcia, powierzchni żagla i kształtu (profilu) żagla",
+      "tylko od powierzchni żagla i materiału z jakiego jest wykonany"
+    ],
+    "correct_answer": "kąta natarcia, powierzchni żagla i kształtu (profilu) żagla"
+  },
+  {
+    "id": 408,
+    "question": "Jacht przy pewnej sile wiatru płynie kursem ostry bajdewind ze stałą szybkością, szkwał spowodował wzrost wiatru rzeczywistego, czy jacht może w tej sytuacji:",
+    "answers": [
+      "popłynąć ostrzej do wiatru",
+      "musi odpadać",
+      "musi luzować żagle, aby utrzymać kurs"
+    ],
+    "correct_answer": "popłynąć ostrzej do wiatru"
+  },
+  {
+    "id": 409,
+    "question": "Chwilowy spadek szybkości wiatru rzeczywistego spowoduje odczuwanie wiatru pozornego jako:",
+    "answers": [
+      "ostrzejszego",
+      "pełniejszego",
+      "znacznie słabszego bez zmiany kierunku"
+    ],
+    "correct_answer": "ostrzejszego"
+  },
+  {
+    "id": 410,
+    "question": "Aby ułatwić szybkie odpadanie jachtu o osprzęcie żaglowym typu slup idącego półwiatrem przy postawionym foku i grocie należy (poza sterowaniem)",
+    "answers": [
+      "luzować szoty grota",
+      "luzować szoty foka",
+      "wybierać szoty grota"
+    ],
+    "correct_answer": "luzować szoty grota"
+  },
+  {
+    "id": 411,
+    "question": "Aby zwiększyć zawietrzność jachtu o ożaglowaniu typu slup należy:",
+    "answers": [
+      "wyluzować szoty foka i wybrać szoty grota",
+      "wybrać szoty foka i wyluzować szoty grota",
+      "przesunąć załogę na dziób"
+    ],
+    "correct_answer": "wybrać szoty foka i wyluzować szoty grota"
+  },
+  {
+    "id": 412,
+    "question": "Na jachcie typu slup postawiony jest grot i fok. Refowanie tylko foka przez nawijanie go na sztag (roler foka) spowoduje:",
+    "answers": [
+      "przesunięcie środka ożaglowania do tyłu",
+      "przesunięcie środka ożaglowania do przodu",
+      "nie zmieni położenia środka ożaglowania"
+    ],
+    "correct_answer": "przesunięcie środka ożaglowania do tyłu"
+  },
+  {
+    "id": 413,
+    "question": "Refowanie grota do bomu na jachcie typu slup spowoduje zmianę położenia środka ożaglowania:",
+    "answers": [
+      "tylko obniżenie położenia środka ożaglowania",
+      "obniżenie i przesunięcie do przodu środka ożaglowania",
+      "położenie środka ożaglowania nie zmieni się"
+    ],
+    "correct_answer": "obniżenie i przesunięcie do przodu środka ożaglowania"
+  },
+  {
+    "id": 414,
+    "question": "Jacht pod pełnymi żaglami jest zrównoważony żaglowo. Jak zarefowanie grota i pozostawienie pełnego foka na jachcie typu slup wpłynie na położenie środka ożaglowania i zrównoważenie (nawietrzność/zawietrzność) jachtu?",
+    "answers": [
+      "środek ożaglowania obniży się i przesunie się do przodu, jacht będzie zawietrzny",
+      "środek ożaglowania przesunie się do tyłu, jacht będzie nawietrzny",
+      "środek ożaglowania tylko obniży się"
+    ],
+    "correct_answer": "środek ożaglowania obniży się i przesunie się do przodu, jacht będzie zawietrzny"
+  },
+  {
+    "id": 415,
+    "question": "Jacht typu slup pod pełnymi żaglami jest zrównoważony żaglowo. Równoczesne znaczne zarefowanie grota przez rolowanie do masztu i foka przez nawijanie na sztag (roler foka) spowoduje:",
+    "answers": [
+      "zwiększenie zawietrzności",
+      "nie wpłynie na zrównoważenie żaglowe jachtu",
+      "zmniejszenie zawietrzności"
+    ],
+    "correct_answer": "zwiększenie zawietrzności"
+  },
+  {
+    "id": 416,
+    "question": "Czy znaczna liczba osób na pokładzie jachtu przy równomiernym ich rozmieszczeniu ( bez balastowania) wpłynie na stateczność jachtu mieczowego bezbalastowego? Jaki to będzie wpływ?",
+    "answers": [
+      "stateczność poprawi się, bo siła ciężkości będzie większa",
+      "stateczność pogorszy się bo środek ciężkości przesunie się do góry",
+      "nie wpłynie to na stateczność jachtu"
+    ],
+    "correct_answer": "stateczność pogorszy się bo środek ciężkości przesunie się do góry"
+  },
+  {
+    "id": 417,
+    "question": "Jaki wpływ na dryf jachtu przy kursach na wiatr (bejdewind, półwiatr) ma jego szybkość ?",
+    "answers": [
+      "przy większej szybkości dryf jest mniejszy, bo siła hydrodynamiczna na mieczu czy falszkilu będzie większa",
+      "przy mniejszej szybkości dryf jest mniejszy, bo opory na mieczu czy falszkilu będą mniejsze",
+      "nie ma wpływu bo zależy tylko od kształtu miecza czy falszkilu"
+    ],
+    "correct_answer": "przy większej szybkości dryf jest mniejszy, bo siła hydrodynamiczna na mieczu czy falszkilu będzie większa"
+  },
+  {
+    "id": 418,
+    "question": "Jakim kursem względem wiatru rzeczywistego płynie pokazany na rysunku jacht (wiatr strzałka niebieska)?",
+    "answers": ["bajdewindem", "baksztagiem", "półwiatrem"],
+    "correct_answer": "bajdewindem",
+    "image_url": "page_070.png"
+  },
+  {
+    "id": 419,
+    "question": "Jakim kursem względem wiatru rzeczywistego płynie pokazany na rysunku jacht (wiatr rzeczywisty strzałka niebieska)",
+    "answers": ["bajdewindem", "baksztagiem", "półwiatrem"],
+    "correct_answer": "baksztagiem",
+    "image_url": "page_071.png"
+  },
+  {
+    "id": 420,
+    "question": "Przesunięcie środka bocznego oporu jachtu mieczowego można uzyskać przez:",
+    "answers": [
+      "odpowiednie balastowanie wzdłużne (większe obciążanie dziobu lub rufy) i/lub ustawienie miecza",
+      "odpowiednie ustawianie żagli i/lub ich refowanie",
+      "zmianę kursu jachtu względem wiatru"
+    ],
+    "correct_answer": "odpowiednie balastowanie wzdłużne (większe obciążanie dziobu lub rufy) i/lub ustawienie miecza"
+  },
+  {
+    "id": 421,
+    "question": "Ciśnienie powietrza przepływającego po obu stronach żagla:",
+    "answers": [
+      "spada po stronie zawietrznej",
+      "rośnie po stronie zawietrznej",
+      "spada po stronie nawietrznej"
+    ],
+    "correct_answer": "spada po stronie zawietrznej"
+  },
+  {
+    "id": 422,
+    "question": "Wskaźnik wiatru jachtu płynącego na silniku podczas ciszy wskazuje wiatr:",
+    "answers": ["rzeczywisty", "własny (ruchu własnego)", "pozorny"],
+    "correct_answer": "własny (ruchu własnego)"
+  },
+  {
+    "id": 423,
+    "question": "Jacht zmienia kurs względem wiatru z kursu bajdewind do kursu baksztag odpowiednio ustawiając żagle:",
+    "answers": [
+      "siła przechylająca nie ulega zmianie",
+      "siła przechylająca rośnie",
+      "siła przechylająca maleje"
+    ],
+    "correct_answer": "siła przechylająca maleje"
+  },
+  {
+    "id": 424,
+    "question": "Jacht typu slup jest zrównoważony żaglowo i płynie stałym kursem. Zerwał się szot grota i grot nie pracuje. Jaką tendencję wykaże jacht?",
+    "answers": ["wyostrzy", "odpadnie", "utrzyma kurs"],
+    "correct_answer": "odpadnie"
+  },
+  {
+    "id": 425,
+    "question": "Co się stanie z jachtem, gdy na kursie półwiatr podniesiemy miecz?",
+    "answers": [
+      "prawdopodobnie się przewróci",
+      "zwiększy się przechył jachtu i zmniejszy się dryf",
+      "zmniejszy się przechył jachtu i zwiększy się dryf."
+    ],
+    "correct_answer": "zmniejszy się przechył jachtu i zwiększy się dryf."
+  },
+  {
+    "id": 426,
+    "question": "Jacht płynie kursem pełnym (np. baksztagiem). Czy po wyostrzeniu (np. do bajdewindu) odczuwalny wiatr pozorny ulegnie zmianie?",
+    "answers": [
+      "nie ulegnie zmianie",
+      "jego szybkość zmaleje",
+      "jego szybkość wzrośnie"
+    ],
+    "correct_answer": "jego szybkość wzrośnie"
+  },
+  {
+    "id": 427,
+    "question": "Na kursie bajdewind siła powodująca dryf:",
+    "answers": [
+      "jest taka sama jak dla innych kursów względem wiatru",
+      "osiąga wartość minimalną",
+      "osiąga wartość maksymalną"
+    ],
+    "correct_answer": "osiąga wartość maksymalną"
+  },
+  {
+    "id": 428,
+    "question": "Na kursie baksztag siła powodująca dryf:",
+    "answers": [
+      "jest taka sama jak dla pozostałych kursów względem wiatru",
+      "jest największa",
+      "jest najmniejsza"
+    ],
+    "correct_answer": "jest najmniejsza"
+  },
+  {
+    "id": 429,
+    "question": "Prawidłowo wykonany zwrot przez sztag to:",
+    "answers": [
+      "przejście dziobem linii wiatru od kursu baksztag jednego halsu do kursu baksztag przeciwnego halsu",
+      "przejście dziobem linii wiatru od półwiatru jednego halsu do półwiatru przeciwnego halsu",
+      "przejście dziobem linii wiatru od kursu bajdewind jednego halsu do kursu bajdewind przeciwnego halsu"
+    ],
+    "correct_answer": "przejście dziobem linii wiatru od kursu bajdewind jednego halsu do kursu bajdewind przeciwnego halsu"
+  },
+  {
+    "id": 430,
+    "question": "Dla jakiego kursu względem wiatru kierunek wiatru rzeczywistego i pozornego jest taki sam?",
+    "answers": ["fordewindu", "baksztagu", "półwiatru"],
+    "correct_answer": "fordewindu"
+  },
+  {
+    "id": 431,
+    "question": "Przegłębienie dziobu jachtu powoduje:",
+    "answers": [
+      "zmniejszenie nawietrzności",
+      "zwiększenie nawietrzności",
+      "zwiększenie zawietrzności"
+    ],
+    "correct_answer": "zwiększenie nawietrzności"
+  },
+  {
+    "id": 432,
+    "question": "Jacht z silnikiem stacjonarnym płynie wstecz na silniku. Wychylono płetwę sterowa w lewo. Jak zachowa się jacht?",
+    "answers": [
+      "rufa będzie skręcać w kierunku wychylenia steru",
+      "rufa będzie skręcać przeciwnie do kierunku wychylenia steru",
+      "będzie płynął prosto wstecz"
+    ],
+    "correct_answer": "rufa będzie skręcać w kierunku wychylenia steru"
+  },
+  {
+    "id": 433,
+    "question": "Siła ciągu działająca na żagiel to:",
+    "answers": [
+      "składowa wypadkowej siły aerodynamicznej działającej na żagiel skierowana do tyłu równolegle do osi wzdłużnej jachtu",
+      "składowa wpadkowej siły aerodynamicznej działającej na żagiel skierowana prostopadle do osi wzdłużnej jachtu",
+      "składowa wypadkowej siły aerodynamicznej działającej na żagiel skierowana do przodu równolegle do osi wzdłużnej jachtu"
+    ],
+    "correct_answer": "składowa wypadkowej siły aerodynamicznej działającej na żagiel skierowana do przodu równolegle do osi wzdłużnej jachtu"
+  },
+  {
+    "id": 434,
+    "question": "Siła działająca na żagiel, powodująca dryf jachtu to:",
+    "answers": [
+      "składowa siły aerodynamicznej działającej na żagiel skierowana do przodu równolegle do osi wzdłużnej jachtu",
+      "składowa siły aerodynamicznej działającej na żagiel skierowana do tyłu równolegle do osi wzdłużnej jachtu",
+      "składowa siły aerodynamicznej działającej na żagiel skierowana prostopadle do osi wzdłużnej jachtu"
+    ],
+    "correct_answer": "składowa siły aerodynamicznej działającej na żagiel skierowana prostopadle do osi wzdłużnej jachtu"
+  },
+  {
+    "id": 435,
+    "question": "Na rysunku pokazano schematycznie kadłub jachtu w przechyle oraz położenie środka ciężkości (SC) i środka wyporu (SW), oraz siły działające w tych punktach. Po zwiększeniu przechyłu taki jacht:",
+    "answers": [
+      "przewróci się",
+      "nie przewróci się",
+      "nadal pozostanie w równowadze przy nowym kącie przechyłu"
+    ],
+    "correct_answer": "przewróci się",
+    "image_url": "page_087.png"
+  },
+  {
+    "id": 436,
+    "question": "W jakim celu stosuje się na jachtach zbiorniki lub inne elementy wypornościowe?",
+    "answers": [
+      "dla wzmocnienia konstrukcji jachtu",
+      "dla zapewnienia pływalności po napełnieniu kadłuba wodą na skutek przewrócenia lub awarii kadłuba",
+      "dla polepszenia stateczności jachtu"
+    ],
+    "correct_answer": "dla zapewnienia pływalności po napełnieniu kadłuba wodą na skutek przewrócenia lub awarii kadłuba"
+  }
+]

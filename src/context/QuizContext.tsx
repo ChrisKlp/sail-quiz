@@ -1,94 +1,123 @@
 import {
   createContext,
   useContext,
-  useEffect,
   useMemo,
   useState,
   type ReactNode,
 } from 'react';
-import questions_01 from '@/data/budowa_jachtow_quiz.json';
+import { shuffle } from 'remeda';
 import type { Question } from '@/types';
+import { getAllQuestions, getQuestionsByCategory } from '@/lib/api';
 
 const LETTERS = ['A', 'B', 'C', 'D', 'E', 'F'] as const;
 
-function shuffle<T>(array: T[]): T[] {
-  const arr = [...array];
-  for (let i = arr.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [arr[i], arr[j]] = [arr[j], arr[i]];
-  }
-  return arr;
-}
-
-function newCycle(excludeFirstIndex: number): number[] {
-  const cycle = shuffle(questions_01.map((_, i) => i));
-  if (cycle.length > 1 && cycle[0] === excludeFirstIndex) {
-    [cycle[0], cycle[1]] = [cycle[1], cycle[0]];
-  }
-  return cycle;
-}
+type QuizStatus = 'idle' | 'loading' | 'active' | 'finished';
 
 interface QuizContextValue {
-  question: Question;
+  status: QuizStatus;
+  question: Question | null;
   letters: string[];
   selected: string | null;
   hasAnswered: boolean;
+  canGoPrev: boolean;
+
   isCorrect: (answer: string) => boolean;
   handleSelect: (answer: string) => void;
   handleNext: () => void;
   handlePrev: () => void;
-  canGoPrev: boolean;
+
+  startCategory: (categoryKey: string) => Promise<void>;
+  startExam: () => Promise<void>;
+  startRandomAll: () => Promise<void>;
+  resetToMenu: () => void;
 }
 
 const QuizContext = createContext<QuizContextValue | null>(null);
 
 export function QuizProvider({ children }: { children: ReactNode }) {
-  const [order, setOrder] = useState<number[]>(() =>
-    shuffle(questions_01.map((_, i) => i)),
-  );
+  const [status, setStatus] = useState<QuizStatus>('idle');
+  const [questions, setQuestions] = useState<Question[]>([]);
   const [pos, setPos] = useState(0);
-  const [selected, setSelected] = useState<string | null>(null);
 
-  const question = questions_01[order[pos]];
-  const letters = useMemo(
-    () => question.answers.map((_, i) => LETTERS[i] ?? '?'),
-    [question],
-  );
+  const [answersMap, setAnswersMap] = useState<Record<number, string>>({});
 
-  useEffect(() => {
-    setSelected(null);
-  }, [pos, order]);
+  const question = questions[pos] || null;
+  const selected = answersMap[pos] || null;
+
+  const letters = useMemo(() => {
+    if (!question) return [];
+    return question.answers.map((_, i) => LETTERS[i] ?? '?');
+  }, [question]);
+
+  const initQuiz = (loadedQuestions: Question[]) => {
+    setQuestions(shuffle(loadedQuestions));
+    setPos(0);
+    setAnswersMap({});
+    setStatus('active');
+  };
+
+  const startCategory = async (categoryKey: string) => {
+    setStatus('loading');
+    const data = await getQuestionsByCategory(categoryKey);
+    initQuiz(data);
+  };
+
+  const startExam = async () => {
+    setStatus('loading');
+    const data = await getAllQuestions();
+    initQuiz(shuffle(data).slice(0, 75));
+  };
+
+  const startRandomAll = async () => {
+    setStatus('loading');
+    const data = await getAllQuestions();
+    initQuiz(data);
+  };
+
+  const resetToMenu = () => {
+    setStatus('idle');
+    setQuestions([]);
+    setAnswersMap({});
+    setPos(0);
+  };
 
   function handleSelect(answer: string) {
     if (selected) return;
-    setSelected(answer);
+    setAnswersMap((prev) => ({ ...prev, [pos]: answer }));
   }
 
   function handleNext() {
-    if (pos + 1 >= order.length) {
-      setOrder((prev) => [...prev, ...newCycle(prev[prev.length - 1])]);
+    if (pos + 1 >= questions.length) {
+      setStatus('finished');
+    } else {
+      setPos((p) => p + 1);
     }
-    setPos((p) => p + 1);
   }
 
   function handlePrev() {
     if (pos > 0) setPos((p) => p - 1);
   }
 
-  const isCorrect = (answer: string) =>
-    answer.trim() === question.correct_answer.trim();
-  const hasAnswered = selected !== null;
+  const isCorrect = (answer: string) => {
+    if (!question) return false;
+    return answer.trim() === question.correct_answer.trim();
+  };
 
   const value: QuizContextValue = {
+    status,
     question,
     letters,
     selected,
-    hasAnswered,
+    hasAnswered: selected !== null,
+    canGoPrev: pos > 0,
     isCorrect,
     handleSelect,
     handleNext,
     handlePrev,
-    canGoPrev: pos > 0,
+    startCategory,
+    startExam,
+    startRandomAll,
+    resetToMenu,
   };
 
   return <QuizContext.Provider value={value}>{children}</QuizContext.Provider>;

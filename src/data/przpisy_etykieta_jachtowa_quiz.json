@@ -1,0 +1,1176 @@
+[
+  {
+    "id": 233,
+    "question": "Gdy dwa jachty żeglują pod żaglami różnymi halsami i kursami przecinającymi się tak, że powoduje to ryzyko zderzenia to prawo drogi posiada jacht?",
+    "answers": [
+      "idący lewym halsem",
+      "idący ostrzejszym kursem",
+      "idący prawym halsem"
+    ],
+    "correct_answer": "idący prawym halsem"
+  },
+  {
+    "id": 234,
+    "question": "Gdy dwa jachty żeglują pod żaglami jednakowymi halsami i kursami przecinającymi się tak, że powoduje to ryzyko zderzenia to ustąpić powinien?",
+    "answers": [
+      "jacht nawietrzny",
+      "jacht idący ostrzejszym kursem",
+      "żaden, oba jachty zmieniają kurs w prawo"
+    ],
+    "correct_answer": "jacht nawietrzny"
+  },
+  {
+    "id": 235,
+    "question": "Gdy mały statek idący pod żaglami prawym halsem idzie kursem przecinającym się z kursem małego statku idącego pod żaglami lewym halsem tak, że istnieje ryzyko zderzenia to powinien:",
+    "answers": [
+      "zachować kurs i szybkość",
+      "ustąpić z drogi",
+      "zmniejszyć szybkość do pewnego momentu"
+    ],
+    "correct_answer": "zachować kurs i szybkość"
+  },
+  {
+    "id": 236,
+    "question": "Jacht żaglowy idzie do wejścia do kanału odległego ok. 300 m. Statek pasażerski wychodzący z kanału na wprost jachtu dał sygnał dźwiękowy dwa krótkie. Co powinien zrobić jacht?",
+    "answers": [
+      "kontynuować swój kurs",
+      "zmienić swój kurs w prawo",
+      "zatrzymać się i rzucić kotwicę"
+    ],
+    "correct_answer": "kontynuować swój kurs"
+  },
+  {
+    "id": 237,
+    "question": "Jacht żaglowy idący pod żaglami i na silniku jest traktowany w myśl przepisów jako:",
+    "answers": [
+      "statek o napędzie mechanicznym",
+      "statek żaglowy",
+      "statek żaglowo - motorowy"
+    ],
+    "correct_answer": "statek o napędzie mechanicznym"
+  },
+  {
+    "id": 238,
+    "question": "Jacht pod żaglami na zatoce Gdańskiej płynie kursem przecinającym się z kursem niewielkiego statku o napędzie mechanicznym, tak, że powoduje to ryzyko zderzenia. Statek ten niesie sygnał dwa czarne stożki wierzchołkami do siebie. Jakie działanie powinien podjąć jacht?",
+    "answers": [
+      "utrzymać kurs i szybkość",
+      "przejść mu blisko za rufą",
+      "ominąć go z daleka"
+    ],
+    "correct_answer": "ominąć go z daleka"
+  },
+  {
+    "id": 239,
+    "question": "Statek żaglowy o długości 8 m, idący pod żaglami na wodach śródlądowych powinien ustąpić:",
+    "answers": [
+      "statkowi pasażerskiemu o napędzie mechanicznym",
+      "motorówce o długości ok. 10 m",
+      "łodzi wiosłowej w ruchu"
+    ],
+    "correct_answer": "statkowi pasażerskiemu o napędzie mechanicznym"
+  },
+  {
+    "id": 240,
+    "question": "Jacht żaglowy o długości mniejszej niż 7 m w myśl obowiązujących przepisów jest uważany za:",
+    "answers": [
+      "statek żaglowy",
+      "mały statek żaglowy",
+      "statek bez napędu"
+    ],
+    "correct_answer": "mały statek żaglowy"
+  },
+  {
+    "id": 241,
+    "question": "Wody śródlądowe. Statek pasażerski o długości mniejszej niż 20 m z podniesionym znakiem jak na rysunku (żółty podwójny stożek) jest uważany w myśl przepisów za:",
+    "answers": [
+      "statek, nie będący małym statkiem",
+      "mały statek",
+      "prom"
+    ],
+    "correct_answer": "statek, nie będący małym statkiem",
+    "image_url": "page_009.png"
+  },
+  {
+    "id": 242,
+    "question": "Osoba prowadząca jacht żaglowy o długości 8 m po śródlądowych drogach wodnych powinna posiadać:",
+    "answers": [
+      "książeczkę żeglarska",
+      "patent co najmniej żeglarza jachtowego",
+      "zaświadczenie o ukończeniu kursu żeglarskiego"
+    ],
+    "correct_answer": "patent co najmniej żeglarza jachtowego"
+  },
+  {
+    "id": 243,
+    "question": "Na wodach Zatoki Gdańskiej na kursie zaobserwowano statek który podniósł sygnał jak na rysunku. Co należy zrobić?",
+    "answers": [
+      "nie zbliżać się bliżej niż 2 mm",
+      "minąć go daleko przed dziobem",
+      "minąć go z dowolnej strony w bezpiecznej odległości"
+    ],
+    "correct_answer": "minąć go z dowolnej strony w bezpiecznej odległości",
+    "image_url": "page_011.png"
+  },
+  {
+    "id": 244,
+    "question": "Które z odpadów są najbardziej szkodliwe dla środowiska?",
+    "answers": [
+      "odpady organiczne (resztki żywności itp.)",
+      "opakowania papierowe",
+      "odpady (opakowania itp.) z tworzyw sztucznych"
+    ],
+    "correct_answer": "odpady (opakowania itp.) z tworzyw sztucznych"
+  },
+  {
+    "id": 245,
+    "question": "Poza torem wodnym na otwartych wodach Zatoki Gdańskiej jacht pod żaglami idzie kursem przecinającym się z kursem małego statku pasażerskiego, tak że powoduje to ryzyko zderzenia. Jaki manewr powinien podjąć?",
+    "answers": [
+      "przejść mu za rufą",
+      "zmniejszyć szybkość i przepuścić go przed dziobem",
+      "utrzymać kurs i prędkość"
+    ],
+    "correct_answer": "utrzymać kurs i prędkość"
+  },
+  {
+    "id": 246,
+    "question": "Na podejściu do portu Gdańsk jacht zaobserwował statek, który podniósł sygnały jak na rysunku. Jak go wyminąć?",
+    "answers": [
+      "z dowolnej strony",
+      "od strony wystawionych kul",
+      "od strony wystawionych rombów"
+    ],
+    "correct_answer": "od strony wystawionych rombów",
+    "image_url": "page_014.png"
+  },
+  {
+    "id": 247,
+    "question": "Wody śródlądowe. Statek pasażerski nadał serię podwójnych krótkich dźwięków. Co to oznacza?",
+    "answers": [
+      "nie mogę manewrować",
+      "niebezpieczeństwo zderzenia",
+      "człowiek za burtą"
+    ],
+    "correct_answer": "człowiek za burtą"
+  },
+  {
+    "id": 248,
+    "question": "Piętnastoletnia osoba posiadająca stopień żeglarza jachtowego jest uprawniona do prowadzenia jachtów na wodach śródlądowych o powierzchni ożaglowania:",
+    "answers": [
+      "do 10 m2 żagla",
+      "dowolnej",
+      "do 20 m2 żagla, pod nadzorem"
+    ],
+    "correct_answer": "dowolnej"
+  },
+  {
+    "id": 249,
+    "question": "Na wodach śródlądowych jacht płynie pod żaglami kursem przecinającym się z kursem niewielkiego statku (długość oceniana na 15 m) o napędzie mechanicznym tak, że istnieje ryzyko zderzenia. Na tym statku podniesiony jest sygnał jak na rysunku. Jaki manewr należy podjąć?",
+    "answers": [
+      "zachować swój kurs i prędkość",
+      "ustąpić, najlepiej przejść za rufą",
+      "zatrzymać się, nawiązać łączność i upewnić się czy ten statek potrzebuje pomocy"
+    ],
+    "correct_answer": "ustąpić, najlepiej przejść za rufą",
+    "image_url": "page_017.png"
+  },
+  {
+    "id": 250,
+    "question": "Na wodach śródlądowych przy spotkaniu statku pasażerskiego i jachtu płynącego pod żaglami na kursach kolizyjnych tak, że istnieje ryzyko zderzenia:",
+    "answers": [
+      "statek pasażerski ustępuje pierwszeństwa jachtowi",
+      "jacht utrzymuje swój kurs",
+      "jacht żaglowy ustępuje z drogi statkowi"
+    ],
+    "correct_answer": "jacht żaglowy ustępuje z drogi statkowi"
+  },
+  {
+    "id": 251,
+    "question": "Wody śródlądowe. Jeżeli istnieje ryzyko zderzenia to małemu statkowi płynącemu pod żaglami ustępuje:",
+    "answers": [
+      "statek żaglowy nie będący małym statkiem",
+      "statek pasażerski",
+      "mały statek o napędzie mechanicznym"
+    ],
+    "correct_answer": "mały statek o napędzie mechanicznym"
+  },
+  {
+    "id": 252,
+    "question": "Wody śródlądowe. Mały statek płynący pod żaglami powinien ustąpić:",
+    "answers": [
+      "statkowi pasażerskiemu o napędzie mechanicznym",
+      "małemu statkowi o napędzie mechanicznym",
+      "wodolotowi płynącemu z duża prędkością"
+    ],
+    "correct_answer": "statkowi pasażerskiemu o napędzie mechanicznym"
+  },
+  {
+    "id": 253,
+    "question": "Jacht płynie na silniku, kursem przeciwnym na wprost zbliża się jacht pod żaglami niosący sygnał jak na rysunku. Jak należy postąpić?",
+    "answers": [
+      "utrzymać kurs",
+      "zmienić kurs w prawo",
+      "zmienić kurs w lewo"
+    ],
+    "correct_answer": "zmienić kurs w prawo",
+    "image_url": "page_021.png"
+  },
+  {
+    "id": 254,
+    "question": "Wody śródlądowe. W czasie manewru wyprzedzania jachtu żaglowego, jacht który wyprzedza powinien z zasady wyprzedzać:",
+    "answers": [
+      "jacht wyprzedzany po jego stronie zawietrznej w bezpiecznej odległości",
+      "w sposób uzgodniony z prowadzącym jacht wyprzedzany",
+      "jacht wyprzedzany po jego stronie nawietrznej w bezpiecznej odległości"
+    ],
+    "correct_answer": "jacht wyprzedzany po jego stronie nawietrznej w bezpiecznej odległości"
+  },
+  {
+    "id": 255,
+    "question": "Wody śródlądowe. Na burcie stojącego statku wywieszono sygnał jak na rysunku. Z której strony należy minąć ten statek?",
+    "answers": [
+      "nie wolno mijać takiego statku",
+      "można minąć z obu stron, ostrożnie, nie wytwarzając fali",
+      "tylko od strony flagi czerwono-białej"
+    ],
+    "correct_answer": "tylko od strony flagi czerwono-białej",
+    "image_url": "page_023.png"
+  },
+  {
+    "id": 256,
+    "question": "Wody śródlądowe. Na burcie stojącego statku wywieszono sygnały jak na rysunku. Z której strony należy minąć ten statek?",
+    "answers": [
+      "nie wolno mijać takiego statku",
+      "od strony flagi czerwonej",
+      "od strony flagi czerwono-białej"
+    ],
+    "correct_answer": "od strony flagi czerwono-białej",
+    "image_url": "page_024.png"
+  },
+  {
+    "id": 257,
+    "question": "Prowadzący jacht w celu uniknięcia bezpośrednio grożącego niebezpieczeństwa zderzenia (szczególnie kiedy niezbędna jest szybka reakcja):",
+    "answers": [
+      "może odstąpić od przestrzegania przepisów po uzgodnieniu z druga jednostką",
+      "nigdy nie może naruszać przepisów",
+      "może odstąpić od przestrzegania obowiązujących przepisów żeglugowych"
+    ],
+    "correct_answer": "może odstąpić od przestrzegania obowiązujących przepisów żeglugowych"
+  },
+  {
+    "id": 258,
+    "question": "Na wodach morskich jacht żaglowy wyprzedzający inny jacht żaglowy:",
+    "answers": [
+      "ma prawo drogi względem jachtu, który wyprzedza",
+      "może go wyprzedzić tylko po uzyskaniu jego zgody",
+      "ustępuje jachtowi wyprzedzanemu omijając go w bezpiecznej odległości"
+    ],
+    "correct_answer": "ustępuje jachtowi wyprzedzanemu omijając go w bezpiecznej odległości"
+  },
+  {
+    "id": 259,
+    "question": "Statek żaglowy płynący prawym halsem po otwartych wodach morskich ustępuje:",
+    "answers": [
+      "handlowemu o napędzie mechanicznym",
+      "statkowi rybackiemu zajętemu połowem",
+      "statkowi żaglowemu płynącemu lewym halsem"
+    ],
+    "correct_answer": "statkowi rybackiemu zajętemu połowem"
+  },
+  {
+    "id": 260,
+    "question": "Jacht płynący pod żaglami po otwartych wodach morskich ustępuje:",
+    "answers": [
+      "jachtowi żaglowemu płynącemu na silniku",
+      "statkowi o ograniczonej zdolności manewrowej",
+      "statkowi o napędzie mechanicznym w drodze"
+    ],
+    "correct_answer": "statkowi o ograniczonej zdolności manewrowej"
+  },
+  {
+    "id": 261,
+    "question": "Jacht płynący pod żaglami po otwartych wodach morskich idzie kursem przecinającym się z kursem statku o napędzie mechanicznym tak, że istnieje ryzyko zderzenia. Statek podniósł sygnał jak na rysunku. Jak należy postąpić?",
+    "answers": [
+      "utrzymać kurs i szybkość",
+      "ustąpić temu statkowi mijając go w bezpiecznej odległości",
+      "to statek łowiący okrężnicą ominąć go w znacznej odległości"
+    ],
+    "correct_answer": "ustąpić temu statkowi mijając go w bezpiecznej odległości",
+    "image_url": "page_029.png"
+  },
+  {
+    "id": 262,
+    "question": "Jacht idzie kursem przecinającym się z kursem małej jednostki tak, że istnieje ryzyko zderzenia (Jednostka niesie sygnał jak na rysunku). Jak należy postąpić?",
+    "answers": [
+      "utrzymać kurs i szybkość",
+      "przejść mu blisko za rufą",
+      "ominąć go z daleka"
+    ],
+    "correct_answer": "ominąć go z daleka",
+    "image_url": "page_030.png"
+  },
+  {
+    "id": 263,
+    "question": "Na kursie jachtu jest jednostka, która podniosła sygnał jak na rysunku. Jak ją wyminąć?",
+    "answers": [
+      "nie zbliżać się bliżej niż 2 mm",
+      "minąć go daleko przed dziobem",
+      "minąć go z dowolnej strony w bezpiecznej odległości"
+    ],
+    "correct_answer": "minąć go z dowolnej strony w bezpiecznej odległości",
+    "image_url": "page_031.png"
+  },
+  {
+    "id": 264,
+    "question": "Żeglarz jachtowy uprawniony jest do:",
+    "answers": [
+      "prowadzenia po wodach morskich jachtu o długości do 12 m w odległości do 2 Mm od linii brzegowej w porze dziennej",
+      "prowadzenia jachtów o długości do 10 m w odległości do 10 Mm od linii brzegowej",
+      "prowadzenia jachtów o długości do 24 m po wodach morskich w porze dziennej"
+    ],
+    "correct_answer": "prowadzenia po wodach morskich jachtu o długości do 12 m w odległości do 2 Mm od linii brzegowej w porze dziennej"
+  },
+  {
+    "id": 265,
+    "question": "Jacht żaglowy płynący na żaglach i na silniku w dzień powinien nosić:",
+    "answers": [
+      "czarną kulę",
+      "czarny stożek skierowany wierzchołkiem w dół",
+      "czerwona kulę"
+    ],
+    "correct_answer": "czarny stożek skierowany wierzchołkiem w dół"
+  },
+  {
+    "id": 266,
+    "question": "Jeden krótki dźwięk nadany przez statek o napędzie mechanicznym oznacza:",
+    "answers": [
+      "zmieniam kurs w prawo",
+      "zmieniam kurs w lewo",
+      "uwaga"
+    ],
+    "correct_answer": "zmieniam kurs w prawo"
+  },
+  {
+    "id": 267,
+    "question": "Ile powinien trwać krótki sygnał dźwiękowy?",
+    "answers": [
+      "2s",
+      "1s",
+      "0,5s"
+    ],
+    "correct_answer": "1s"
+  },
+  {
+    "id": 268,
+    "question": "._.. Słysząc sygnał krótki, długi, dwa krótkie ()należy:",
+    "answers": [
+      "bezwzględnie zatrzymać swój statek",
+      "zejść do prawej strony szlaku żeglownego",
+      "ustąpić pierwszeństwa dla statku nadającego sygnał"
+    ],
+    "correct_answer": "bezwzględnie zatrzymać swój statek"
+  },
+  {
+    "id": 269,
+    "question": "Dwa krótkie dźwięki nadane przez statek oznaczają:",
+    "answers": [
+      "zmieniam kurs w prawo",
+      "zmieniam kurs w lewo",
+      "uwaga"
+    ],
+    "correct_answer": "zmieniam kurs w lewo"
+  },
+  {
+    "id": 270,
+    "question": "…. Cztery krótkie dźwięki () nadane przez statek oznaczają:",
+    "answers": [
+      "bezwzględnie zatrzymać swój statek",
+      "moje maszyny pracują wstecz",
+      "nie mogę manewrować"
+    ],
+    "correct_answer": "nie mogę manewrować"
+  },
+  {
+    "id": 271,
+    "question": "Trzy krótkie dźwięki przez statek oznaczają:",
+    "answers": [
+      "zmieniam mój kurs w prawo",
+      "zmieniam mój kurs w lewo",
+      "moje maszyny pracują wstecz"
+    ],
+    "correct_answer": "moje maszyny pracują wstecz"
+  },
+  {
+    "id": 272,
+    "question": "Jacht idzie pod żaglami w morzu, nadeszła mgła. Jaki sygnał należy nadawać:",
+    "answers": [
+      "jeden długi dźwięk co 2 minuty",
+      "dwa długie dźwięki co 2 minuty",
+      "jeden dźwięk długi i dwa krótkie co dwie minuty (gwizdek)"
+    ],
+    "correct_answer": "jeden dźwięk długi i dwa krótkie co dwie minuty (gwizdek)"
+  },
+  {
+    "id": 273,
+    "question": "Seria krótkich dźwięków (więcej niż pięć) nadana przez statek na drodze śródlądowej oznacza:",
+    "answers": [
+      "człowiek za burtą",
+      "niebezpieczeństwo zderzenia",
+      "zatrzymajcie natychmiast swój statek"
+    ],
+    "correct_answer": "niebezpieczeństwo zderzenia"
+  },
+  {
+    "id": 274,
+    "question": "Aby nadać sygnał dźwiękowy – „WZYWAM POMOCY” - należy:",
+    "answers": [
+      "nadać sygnał – seria podwójnych krótkich dźwięków",
+      "nadać sygnał – seria powtarzających się długich dźwięków",
+      "nadać sygnał – seria krótkich dźwięków"
+    ],
+    "correct_answer": "nadać sygnał – seria powtarzających się długich dźwięków"
+  },
+  {
+    "id": 275,
+    "question": "Jeden długi dźwięk trwa:",
+    "answers": [
+      "ok 2 sekund",
+      "ok 3 sekund",
+      "ok 4 sekund"
+    ],
+    "correct_answer": "ok 4 sekund"
+  },
+  {
+    "id": 276,
+    "question": "Pierwszeństwo na rzece ma statek:",
+    "answers": [
+      "większy",
+      "płynący zgodnie z prądem, w dół rzeki",
+      "płynący w górę rzeki, pod prąd"
+    ],
+    "correct_answer": "płynący zgodnie z prądem, w dół rzeki"
+  },
+  {
+    "id": 277,
+    "question": "Dwa statki o napędzie mechanicznym płyną kursem na wprost siebie, kto ma prawo drogi:",
+    "answers": [
+      "statek większy",
+      "nikt nie ma prawa drogi, oba statki muszą skręcić w lewo",
+      "nikt nie ma prawa drogi, oba statki muszą skręcić w prawo"
+    ],
+    "correct_answer": "nikt nie ma prawa drogi, oba statki muszą skręcić w prawo"
+  },
+  {
+    "id": 278,
+    "question": "Statek żaglowy o długości mniejszej niż 7 m powinien pokazywać następujące światła:",
+    "answers": [
+      "światła burtowe rufowe i masztowe",
+      "zwykłe białe światło widziane ze wszystkich stron",
+      "zwolniony jest od pokazywania świateł"
+    ],
+    "correct_answer": "zwykłe białe światło widziane ze wszystkich stron"
+  },
+  {
+    "id": 279,
+    "question": "Mały statek to statek którego długość jest mniejsza niż….metrów oraz może przewozić nie więcej niż … osób:",
+    "answers": [
+      "15 m / 10 osób",
+      "15 m / 12 osób",
+      "20 m / 12 osób"
+    ],
+    "correct_answer": "20 m / 12 osób"
+  },
+  {
+    "id": 280,
+    "question": "Kolor światła statku stojącego na kotwicy to :",
+    "answers": [
+      "czerwony",
+      "biały",
+      "żółty"
+    ],
+    "correct_answer": "biały"
+  },
+  {
+    "id": 281,
+    "question": "Za bezpieczeństwo żeglugi odpowiada:",
+    "answers": [
+      "mechanik",
+      "kierownik statku",
+      "armator"
+    ],
+    "correct_answer": "kierownik statku"
+  },
+  {
+    "id": 282,
+    "question": "Sektor świecenia światła rufowego wynosi:",
+    "answers": [
+      "150 stopni",
+      "145 stopni",
+      "135 stopni"
+    ],
+    "correct_answer": "135 stopni"
+  },
+  {
+    "id": 283,
+    "question": "Sektor świecenia światła rufowego wynosi:",
+    "answers": [
+      "150 stopni",
+      "145 stopni",
+      "135 stopni"
+    ],
+    "correct_answer": "135 stopni"
+  },
+  {
+    "id": 284,
+    "question": "Sektor świecenia światła masztowego wynosi:",
+    "answers": [
+      "205 stopni",
+      "215 stopni",
+      "225 stopni"
+    ],
+    "correct_answer": "225 stopni"
+  },
+  {
+    "id": 285,
+    "question": "Jaki kolor światła ma lewa burta:",
+    "answers": [
+      "czerwony",
+      "zielony",
+      "żółty"
+    ],
+    "correct_answer": "czerwony"
+  },
+  {
+    "id": 286,
+    "question": "Jaki kolor światła ma prawa burta:",
+    "answers": [
+      "czerwony",
+      "zielony",
+      "żółty"
+    ],
+    "correct_answer": "zielony"
+  },
+  {
+    "id": 287,
+    "question": "Jaki kolor światła ma światło masztowe:",
+    "answers": [
+      "czerwony",
+      "biały",
+      "żółty"
+    ],
+    "correct_answer": "biały"
+  },
+  {
+    "id": 288,
+    "question": "..  ..  .. Seria podwójnych krótkich dźwięków  ( )nadawana przez statek oznacza:",
+    "answers": [
+      "nie mogę manewrować",
+      "człowiek za burtą",
+      "uwaga"
+    ],
+    "correct_answer": "człowiek za burtą"
+  },
+  {
+    "id": 289,
+    "question": "Osoba bez patentu żeglarskiego może prowadzić na śródlądziu jachty o długości:",
+    "answers": [
+      "do 7,5m",
+      "do 8,5m",
+      "do 12m"
+    ],
+    "correct_answer": "do 7,5m"
+  },
+  {
+    "id": 290,
+    "question": "Widzisz w nocy statek niosący dodatkowo trzy światła w pionie: czerwone, białe, czerwone, jest to:",
+    "answers": [
+      "statek ograniczony swoim zanurzeniem",
+      "statek o ograniczonej zdolności manewrowej",
+      "statek trałujący"
+    ],
+    "correct_answer": "statek o ograniczonej zdolności manewrowej"
+  },
+  {
+    "id": 291,
+    "question": "Widzisz w nocy statek niosący dodatkowo trzy czerwone światła w pionie jest to:",
+    "answers": [
+      "statek ograniczony swoim zanurzeniem",
+      "statek holujący",
+      "statek trałujący"
+    ],
+    "correct_answer": "statek ograniczony swoim zanurzeniem"
+  },
+  {
+    "id": 292,
+    "question": "Na drodze wodnej widzisz w nocy statek pokazujący na prawej burcie czerwone światło a na lewej dwa zielone światła w pionie. Z której strony przepłyniesz:",
+    "answers": [
+      "z prawej",
+      "z lewej",
+      "możesz z obu"
+    ],
+    "correct_answer": "z lewej"
+  },
+  {
+    "id": 293,
+    "question": "Widzisz w nocy na rzece światło zielone nad białym widoczne ze wszystkich stron jest to:",
+    "answers": [
+      "statek poławiający",
+      "prom na uwięzi",
+      "na drodze śluza"
+    ],
+    "correct_answer": "prom na uwięzi"
+  },
+  {
+    "id": 294,
+    "question": "Widzisz w dzień statek niosący pod salingiem czarny walec jest to:",
+    "answers": [
+      "statek ograniczony swoim zanurzeniem",
+      "statek holujący",
+      "statek trałujący"
+    ],
+    "correct_answer": "statek ograniczony swoim zanurzeniem"
+  },
+  {
+    "id": 295,
+    "question": "Statek ma wywieszony sygnał jak na rysunku. Co oznacza i jak postępować?",
+    "answers": [
+      "wzywam pomocy, podejść i nawiązać łączność",
+      "mam nurka pod wodą, trzymajcie się z daleka, idźcie powoli",
+      "stoję na mieliźnie, mijać daleko"
+    ],
+    "correct_answer": "mam nurka pod wodą, trzymajcie się z daleka, idźcie powoli",
+    "image_url": "page_063.png"
+  },
+  {
+    "id": 296,
+    "question": "Statek, który utracił sterowność pokazuje w nocy dodatkowo światła widoczne ze wszystkich stron:",
+    "answers": [
+      "dwa czerwone jedno nad drugim",
+      "dwa czerwone obok siebie",
+      "trzy czerwone jedno nad drugim"
+    ],
+    "correct_answer": "dwa czerwone jedno nad drugim"
+  },
+  {
+    "id": 297,
+    "question": "Jeden długi dźwięk nadany przez statek na drodze śródlądowej oznacza:",
+    "answers": [
+      "uwaga",
+      "skręcam w prawo",
+      "skręcam w lewo"
+    ],
+    "correct_answer": "uwaga"
+  },
+  {
+    "id": 298,
+    "question": "Statek zbliżający się do jachtu nadał sygnał jeden krótki, jeden długi i dwa krótkie dźwięki oraz wywiesił sygnał jak na rysunku. Co to oznacza i jak postępować?",
+    "answers": [
+      "zatrzymajcie natychmiast swój statek, zatrzymać się",
+      "mam zamiar wyprzedzić was po waszej lewej burcie, utrzymać kurs",
+      "mam zamiar zawrócić w lewo, obserwować ruchy statku"
+    ],
+    "correct_answer": "zatrzymajcie natychmiast swój statek, zatrzymać się",
+    "image_url": "page_066.png"
+  },
+  {
+    "id": 299,
+    "question": "Sygnał świetlny lub dźwiękowy składający się z grupy trzech krótkich, trzech długich i trzech krótkich świateł i/lub dźwięków oznacza:",
+    "answers": [
+      "jeden z sygnałów manewrowych",
+      "sygnał na postoju we mgle",
+      "jeden z sygnałów wzywania pomocy"
+    ],
+    "correct_answer": "jeden z sygnałów wzywania pomocy"
+  },
+  {
+    "id": 300,
+    "question": "Który z poniższych sygnałów NIE JEST sygnałem wzywania pomocy na wodach śródlądowych:",
+    "answers": [
+      "zataczanie kręgów flagą lub innym podobnym przedmiotem",
+      "żółty romb widoczny ze wszystkich stron",
+      "flaga i umieszczona nad nią lub pod nią kula"
+    ],
+    "correct_answer": "żółty romb widoczny ze wszystkich stron"
+  },
+  {
+    "id": 301,
+    "question": "Na podejściu do portu podczas ciszy nastąpiła awaria silnika. Jest dość duży ruch. Jaki sygnał powinien podnieść jacht.",
+    "answers": [
+      "jedną czarną kulę",
+      "dwie czarne kule",
+      "czarny stożek"
+    ],
+    "correct_answer": "dwie czarne kule"
+  },
+  {
+    "id": 302,
+    "question": "Takie oznakowanie płynącego statku to:",
+    "answers": [
+      "ostrzeżenie o ograniczonej manewrowości",
+      "statek ratowniczy",
+      "statek z pierwszeństwem przejścia"
+    ],
+    "correct_answer": "statek z pierwszeństwem przejścia",
+    "image_url": "page_070.png"
+  },
+  {
+    "id": 303,
+    "question": "Jacht żaglowy A płynie lewym halsem na wiatr, drugi jacht żaglowy B idzie prawym halsem i na sztagu ma wywieszony czarny stożek. Kursy jachtów przecinają się tak, że istnieje ryzyko zderzenia. Ustąpić powinien:",
+    "answers": [
+      "jacht A",
+      "jacht B",
+      "ten który ma drugi jacht po lewej ręce"
+    ],
+    "correct_answer": "jacht B"
+  },
+  {
+    "id": 304,
+    "question": "Na jachcie jednomasztowym z ożaglowaniem trójkątnym banderę nosimy:",
+    "answers": [
+      "na topie masztu",
+      "pod prawym salingiem",
+      "na flagsztoku na rufie"
+    ],
+    "correct_answer": "na flagsztoku na rufie"
+  },
+  {
+    "id": 305,
+    "question": "Powtarzalna seria uderzeń w dzwon oznacza:",
+    "answers": [
+      "człowiek za burtą",
+      "uwaga",
+      "wzywam pomocy"
+    ],
+    "correct_answer": "wzywam pomocy"
+  },
+  {
+    "id": 306,
+    "question": "Widzisz w nocy statek niosący dodatkowo dwa światła: białe nad czerwonym. Jaki to statek:",
+    "answers": [
+      "statek zajęty połowem",
+      "statek pełniący służbę pilotową",
+      "na mieliźnie"
+    ],
+    "correct_answer": "statek pełniący służbę pilotową"
+  },
+  {
+    "id": 307,
+    "question": "Statek na wodach śródlądowych niesie drugie światło masztowe gdy jego długość wynosi:",
+    "answers": [
+      "więcej niż 50m",
+      "więcej niż 110m",
+      "więcej niż 100m"
+    ],
+    "correct_answer": "więcej niż 110m"
+  },
+  {
+    "id": 308,
+    "question": "Odstąpienie od przepisów żeglugowych dozwolone jest gdy:",
+    "answers": [
+      "statek płynie poza torem wodnym",
+      "statek płynie rzeką",
+      "zaistnieje bezpośrednie niebezpieczeństwo"
+    ],
+    "correct_answer": "zaistnieje bezpośrednie niebezpieczeństwo"
+  },
+  {
+    "id": 309,
+    "question": "Czy holowanie „banana” za jachtem o napędzie mechanicznym wymaga dodatkowych uprawnień:",
+    "answers": [
+      "tak",
+      "nie",
+      "wymaga jedynie patentu jachtowego sternika morskiego"
+    ],
+    "correct_answer": "tak"
+  },
+  {
+    "id": 310,
+    "question": "Jacht płynący na żaglach i na silniku traktowany jest jako:",
+    "answers": [
+      "statek o napędzie mechanicznym",
+      "statek żaglowy",
+      "przepisy nie określają kwalifikacji"
+    ],
+    "correct_answer": "statek o napędzie mechanicznym"
+  },
+  {
+    "id": 311,
+    "question": "Jacht motorowy spotyka ze swojej lewej strony jacht żaglowy z wywieszonym na sztagu czarnym stożkiem skierowanym wierzchołkiem w dół, w takiej sytuacji powinien:",
+    "answers": [
+      "zachować kurs i prędkość (ma pierwszeństwo)",
+      "zwolnić i przejść za jego rufą",
+      "ustąpić z drogi"
+    ],
+    "correct_answer": "zachować kurs i prędkość (ma pierwszeństwo)"
+  },
+  {
+    "id": 312,
+    "question": "Jednostka na drodze śródlądowej pokazuje światła jak na rysunku, określ rodzaj statku i stronę",
+    "answers": [
+      "mały jacht żaglowy widoczny od dziobu",
+      "statek o napędzie mechanicznym o długości do 110m widoczny od dziobu",
+      "statek o napędzie mechanicznym o długości większej niż 110m widoczny od dziobu"
+    ],
+    "correct_answer": "statek o napędzie mechanicznym o długości do 110m widoczny od dziobu",
+    "image_url": "page_080.png"
+  },
+  {
+    "id": 313,
+    "question": "Kto oprócz policji może kontrolować dokumenty statku na śródlądowych drogach wodnych:",
+    "answers": [
+      "bosman portu do którego wpływa statek",
+      "inspektor Urzędu Żeglugi Śródlądowej",
+      "WOPR"
+    ],
+    "correct_answer": "inspektor Urzędu Żeglugi Śródlądowej"
+  },
+  {
+    "id": 314,
+    "question": "Na drodze wodnej widzisz w nocy statek pokazujący po prawej burcie czerwone światło a na lewej burcie dwa światła zielone w pionie. Z której strony przepłyniesz:",
+    "answers": [
+      "z prawej burty",
+      "z lewej bury",
+      "zatrzymam się do kontroli"
+    ],
+    "correct_answer": "z lewej bury"
+  },
+  {
+    "id": 315,
+    "question": "Czy jacht płynący lewym halsem ustępuje drogi jachtowi płynącemu prawym halsem",
+    "answers": [
+      "tak",
+      "nie",
+      "zawsze ustępuje jacht mniejszy"
+    ],
+    "correct_answer": "tak"
+  },
+  {
+    "id": 316,
+    "question": "Czy jacht znajdujący się od strony zawietrznej ma pierwszeństwo przed jachtem znajdującym się od strony nawietrznej?",
+    "answers": [
+      "tak",
+      "nie",
+      "zawsze ustępuje jacht mniejszy"
+    ],
+    "correct_answer": "tak"
+  },
+  {
+    "id": 317,
+    "question": "Płynąc lewym halsem widzimy statek znajdujący się od strony nawietrznej i nie możemy ustalić jakim halsem on płynie to powinniśmy:",
+    "answers": [
+      "zachować kurs i prędkość, mamy pierwszeństwo",
+      "ustąpić mu drogi",
+      "wyostrzyć"
+    ],
+    "correct_answer": "ustąpić mu drogi"
+  },
+  {
+    "id": 318,
+    "question": "W myśl przepisów żeglugowych noc jest to:",
+    "answers": [
+      "okres pomiędzy zachodem a wschodem słońca",
+      "okres pomiędzy godz. 22.00, a godz. 06.00",
+      "okres od godziny po zachodzie słońca do godziny przed wschodem"
+    ],
+    "correct_answer": "okres pomiędzy zachodem a wschodem słońca"
+  },
+  {
+    "id": 319,
+    "question": "Jakie oznakowanie musi nosić za dnia statek stojący na kotwicy?",
+    "answers": [
+      "czarną kulę w dobrze widocznym miejscu",
+      "czerwoną kulę w dobrze widocznym miejscu",
+      "czarny stożek w dobrze widocznym miejscu"
+    ],
+    "correct_answer": "czarną kulę w dobrze widocznym miejscu"
+  },
+  {
+    "id": 320,
+    "question": "Żeglarz jachtowy uprawniony jest do prowadzenia jachtów żaglowych na wodach śródlądowych:",
+    "answers": [
+      "bez ograniczeń",
+      "o długości kadłuba do 7,5 m",
+      "o długości kadłuba do 8,5 m"
+    ],
+    "correct_answer": "bez ograniczeń"
+  },
+  {
+    "id": 321,
+    "question": "Przy mijaniu na rzece statki idące w górę:",
+    "answers": [
+      "mają zakaz mijania",
+      "mają pierwszeństwo przed statkami idącymi w dół",
+      "ustępują statkom idącym w dół"
+    ],
+    "correct_answer": "ustępują statkom idącym w dół"
+  },
+  {
+    "id": 322,
+    "question": "Sygnał składający się z flagi i umieszczonej nad nią lub pod nią kuli oznacza:",
+    "answers": [
+      "potrzebuję pomocy lekarskiej",
+      "wzywam pomocy",
+      "statek zajęty trałowaniem min"
+    ],
+    "correct_answer": "wzywam pomocy"
+  },
+  {
+    "id": 323,
+    "question": "Jacht żaglowy płynie na przecięcie kursu jachtu motorowego, kto ma pierwszeństwo:",
+    "answers": [
+      "jacht motorowy",
+      "oba muszą zmienić kurs",
+      "jacht żaglowy"
+    ],
+    "correct_answer": "jacht żaglowy"
+  },
+  {
+    "id": 324,
+    "question": "Dwa statki o napędzie mechanicznym płyną na przecięcie kursu, który ustępuje z drogi:",
+    "answers": [
+      "ten, który ma drugi statek z lewej strony",
+      "mniejszy",
+      "ten, który ma drugi statek z prawej strony"
+    ],
+    "correct_answer": "ten, który ma drugi statek z prawej strony"
+  },
+  {
+    "id": 325,
+    "question": "Na drodze wodnej widzisz podczas dnia statek pokazujący na jednej burcie czerwoną kulę a na drugiej dwa zielone romby złączone wierzchołkami. Z której strony możesz przepłynąć:",
+    "answers": [
+      "po stronie rombów",
+      "po stronie kuli",
+      "z każdej strony"
+    ],
+    "correct_answer": "po stronie rombów"
+  },
+  {
+    "id": 326,
+    "question": "Żółta kula na statku oznacza:",
+    "answers": [
+      "statek zajęty pogłębianiem",
+      "statek holowany",
+      "statek na kotwicy"
+    ],
+    "correct_answer": "statek holowany"
+  },
+  {
+    "id": 327,
+    "question": "Słyszysz we mgle sygnał nadawany dzwonem (ok 5 sekund) w odstępie jednej minuty, jest to:",
+    "answers": [
+      "statek na mieliźnie",
+      "statek na kotwicy",
+      "statek holowany"
+    ],
+    "correct_answer": "statek na kotwicy"
+  },
+  {
+    "id": 328,
+    "question": "Morza terytorialne RP to pas wód o szerokości:",
+    "answers": [
+      "3 mile morskie",
+      "6 mil morskich",
+      "12 mil morskich"
+    ],
+    "correct_answer": "12 mil morskich"
+  },
+  {
+    "id": 329,
+    "question": "Etykieta jachtowa to:",
+    "answers": [
+      "ustalony i obowiązujący sposób zachowywania się żeglarzy",
+      "zbiór przepisów regulujący zachowanie żeglarzy",
+      "wkładka do patentu motorowodnego"
+    ],
+    "correct_answer": "ustalony i obowiązujący sposób zachowywania się żeglarzy"
+  },
+  {
+    "id": 330,
+    "question": "Na jachcie płynącym na silniku z opuszczonymi żaglami banderę nosimy:",
+    "answers": [
+      "na topie tylnego masztu",
+      "pod prawym salingiem",
+      "na flagsztoku na rufie"
+    ],
+    "correct_answer": "na flagsztoku na rufie"
+  },
+  {
+    "id": 331,
+    "question": "Gdzie nosi się banderę na jachtach dwumasztowych o ożaglowaniu gaflowym?",
+    "answers": [
+      "na topie tylnego masztu",
+      "na flagsztoku na rufie",
+      "pod pikiem gafla tylnego żagla"
+    ],
+    "correct_answer": "pod pikiem gafla tylnego żagla"
+  },
+  {
+    "id": 332,
+    "question": "O jakiej porze podnosi się banderę na jachcie stojącym w porcie?",
+    "answers": [
+      "o wschodzie słońca",
+      "o godzinie 0800",
+      "jak kapitan wejdzie na pokład"
+    ],
+    "correct_answer": "o godzinie 0800"
+  },
+  {
+    "id": 333,
+    "question": "Co mówią zasady etykiety na temat trzymania rąk i nóg poza burtą jachtu?",
+    "answers": [
+      "nie określają żadnych zasad",
+      "zdecydowanie zabraniają",
+      "zezwalają, ale tylko podczas żeglugi"
+    ],
+    "correct_answer": "zdecydowanie zabraniają"
+  },
+  {
+    "id": 334,
+    "question": "Co mówi etykieta jachtowa o noszeniu odbijaczy poza burtą podczas żeglugi?",
+    "answers": [
+      "wyraźnie neguje tego typu praktykę, odbijacze wykłada się bezpośrednio przed cumowaniem",
+      "nie wspomina nic o tym",
+      "jest to dopuszczalne na wodach śródlądowych"
+    ],
+    "correct_answer": "wyraźnie neguje tego typu praktykę, odbijacze wykłada się bezpośrednio przed cumowaniem"
+  },
+  {
+    "id": 335,
+    "question": "Co mówią zasady bezpieczeństwa i etykiety na temat trzymania rąk i nóg poza burtą jachtu?",
+    "answers": [
+      "zdecydowanie zabraniają",
+      "nie określają żadnych zasad",
+      "zezwalają, ale tylko podczas żeglugi"
+    ],
+    "correct_answer": "zdecydowanie zabraniają"
+  },
+  {
+    "id": 336,
+    "question": "Przed wejściem na obcy jacht należy:",
+    "answers": [
+      "zapytać o pozwolenie wejścia i nie przeszkadzać w czasie posiłku",
+      "zagwizdać trzy razy",
+      "nic nie trzeba robić, można wejść, bo stanowimy brać żeglarską"
+    ],
+    "correct_answer": "zapytać o pozwolenie wejścia i nie przeszkadzać w czasie posiłku"
+  },
+  {
+    "id": 337,
+    "question": "Dwa jachty zacumowane są burta w burtę. Schodząc z jachtu zewnętrznego należy:",
+    "answers": [
+      "przechodzić cicho po jego części dziobowej",
+      "przechodzić przez jego część rufową",
+      "nie ma to znaczenia, bo mamy zgodę na takie cumowanie"
+    ],
+    "correct_answer": "przechodzić cicho po jego części dziobowej"
+  },
+  {
+    "id": 338,
+    "question": "Czy wchodząc do portu państwa innej bandery niż nasza należy?",
+    "answers": [
+      "podnieść banderę tego państwa na topie grotmasztu",
+      "podnieść banderę tego państwa pod prawym salingiem",
+      "podnieść tylko banderę naszego państwa dla identyfikacji"
+    ],
+    "correct_answer": "podnieść banderę tego państwa pod prawym salingiem"
+  },
+  {
+    "id": 339,
+    "question": "Na jachcie w porcie podniesiona była duża gala flagowa z okazji uroczystości. Jak postępujemy po odejściu i dalszej żegludze pod żaglami?",
+    "answers": [
+      "pozostawiamy galę flagową",
+      "zamieniamy ją na małą galę flagową",
+      "zdejmujemy galę, pod żaglami nie nosi się gali"
+    ],
+    "correct_answer": "zdejmujemy galę, pod żaglami nie nosi się gali"
+  },
+  {
+    "id": 340,
+    "question": "Jak wygląda duża gala flagowa?",
+    "answers": [
+      "to flagi kodu międzynarodowego podniesione wzdłuż want w dowolnej kolejności",
+      "to flagi kodu międzynarodowego podniesione pod salingami masztów",
+      "to flagi kodu międzynarodowego podniesione od dziobu przez topy masztów do rufy ( w Polsce przyjęty układ ab1 cd2 itd. )"
+    ],
+    "correct_answer": "to flagi kodu międzynarodowego podniesione od dziobu przez topy masztów do rufy ( w Polsce przyjęty układ ab1 cd2 itd. )"
+  },
+  {
+    "id": 341,
+    "question": "Jacht idzie pod żaglami, nadeszła mgła. Jaki sygnał należy nadawać?",
+    "answers": [
+      "jeden dźwięk długi co 2 minuty",
+      "dwa dźwięki długie co 2 minuty",
+      "jeden dźwięk długi i dwa krótkie co 2 minuty"
+    ],
+    "correct_answer": "jeden dźwięk długi i dwa krótkie co 2 minuty"
+  },
+  {
+    "id": 342,
+    "question": "Idąc we mgle po wodach morskich usłyszano na jachcie dwa dźwięki długie przed dziobem. Jak należy postąpić?",
+    "answers": [
+      "zmniejszyć prędkość, zmienić kurs w prawo, być w gotowości do manewrów",
+      "nie zmieniać kursu, nasłuchiwać w którą stronę przemieszcza się statek nadający sygnał",
+      "najlepiej zatrzymać się i poczekać, aż statek nadający sygnał oddali się"
+    ],
+    "correct_answer": "zmniejszyć prędkość, zmienić kurs w prawo, być w gotowości do manewrów"
+  },
+  {
+    "id": 343,
+    "question": "Czy do wody na jeziorach i morskich wodach przybrzeżnych można wyrzucać śmieci",
+    "answers": [
+      "tak, z wyjątkiem odpadów z tworzyw sztucznych",
+      "tak ale tylko daleko od brzegu",
+      "nie wolno wyrzucać żadnych"
+    ],
+    "correct_answer": "nie wolno wyrzucać żadnych"
+  },
+  {
+    "id": 344,
+    "question": "Na jachcie jest WC. Czy można go używać w portach i podczas żeglugi?",
+    "answers": [
+      "tak, jeżeli WC jachtu połączony jest ze zbiornikiem lub WC „chemiczny” (zamknięty odpływ za burtę)",
+      "tak, ale tylko co najmniej 1000 m od brzegu",
+      "tak, byle poza portami"
+    ],
+    "correct_answer": "tak, jeżeli WC jachtu połączony jest ze zbiornikiem lub WC „chemiczny” (zamknięty odpływ za burtę)"
+  },
+  {
+    "id": 345,
+    "question": "Podczas żeglugi zobaczyliśmy na wodzie dużą plamę oleju. Co należy zrobić?",
+    "answers": [
+      "szybko oddalić się od tego miejsca.",
+      "próbować ją zlikwidować używając detergentów",
+      "powiadomić właściwe służby (na śródlądziu straż pożarna, na morzu służbę ruchu/kapitanat)"
+    ],
+    "correct_answer": "powiadomić właściwe służby (na śródlądziu straż pożarna, na morzu służbę ruchu/kapitanat)"
+  },
+  {
+    "id": 346,
+    "question": "Czy przy zmywaniu naczyń na jachcie wskazane jest użycie detergentów?",
+    "answers": [
+      "tak, jak najwięcej bo dobrze emulgują tłuszcze",
+      "jak najmniej, bo są szkodliwe dla środowiska",
+      "nie ma to znaczenia, bo są obojętne dla środowiska"
+    ],
+    "correct_answer": "jak najmniej, bo są szkodliwe dla środowiska"
+  },
+  {
+    "id": 347,
+    "question": "Do jakiego znaku żeglugowego pływającego lub brzegowego może zacumować statek żaglowy:",
+    "answers": [
+      "znaku zezwolenia na postój",
+      "znaku zezwolenia na ruch statków żaglowych",
+      "zabrania się cumowania do znaków żeglugowych"
+    ],
+    "correct_answer": "zabrania się cumowania do znaków żeglugowych"
+  },
+  {
+    "id": 348,
+    "question": "Wody śródlądowe. Światło zielone nad białym pokazane na statku oznacza:",
+    "answers": [
+      "statek stojący na kotwicy",
+      "prom na uwięzi w ruchu",
+      "statek, który utracił zdolność do manewrowania"
+    ],
+    "correct_answer": "prom na uwięzi w ruchu"
+  }
+]

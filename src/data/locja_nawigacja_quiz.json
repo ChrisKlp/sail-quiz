@@ -1,0 +1,1167 @@
+[
+  {
+    "id": 123,
+    "question": "Locja to:",
+    "answers": [
+      "przyrząd do określania prędkości statku",
+      "dział wiedzy zajmujący się określaniem bieżącego położenia oraz drogi do celu dla statków",
+      "dział wiedzy zajmujący się opisem wód żeglownych, ich wybrzeży, oznakowaniem nawigacyjnym oraz wskazówkami wybierania bezpiecznej drogi żeglugi, sposobu omijania miejsc niebezpiecznych."
+    ],
+    "correct_answer": "dział wiedzy zajmujący się opisem wód żeglownych, ich wybrzeży, oznakowaniem nawigacyjnym oraz wskazówkami wybierania bezpiecznej drogi żeglugi, sposobu omijania miejsc niebezpiecznych."
+  },
+  {
+    "id": 124,
+    "question": "Znak zakazujący wejścia do śluzy to:",
+    "answers": [
+      "jedno zielone światło",
+      "dwa światła czerwone",
+      "światło czerwone i zielone obok siebie"
+    ],
+    "correct_answer": "dwa światła czerwone"
+  },
+  {
+    "id": 125,
+    "question": "Śluza jest budowlą wodną służącą do:",
+    "answers": [
+      "wyrównania poziomów wody w zbiornikach połączonych",
+      "spiętrzania wody",
+      "połączenia szlaku żeglownego o różnych poziomach wód"
+    ],
+    "correct_answer": "połączenia szlaku żeglownego o różnych poziomach wód"
+  },
+  {
+    "id": 126,
+    "question": "Płyniesz rzeką pod prąd, którą burtą miniesz tykę z wiechą:",
+    "answers": [
+      "lewą",
+      "prawą",
+      "obojętne"
+    ],
+    "correct_answer": "lewą"
+  },
+  {
+    "id": 127,
+    "question": "Co oznacza taki znak na moście?",
+    "answers": [
+      "zakaz przepływania pod przęsłem",
+      "ruch w obu kierunkach pod przęsłem",
+      "ruch w jednym kierunku pod przęsłem"
+    ],
+    "correct_answer": "ruch w jednym kierunku pod przęsłem",
+    "image_url": "page_005.png"
+  },
+  {
+    "id": 128,
+    "question": "Jacht na jeziorze Niegocin płynie w kierunku północnym, na kursie zaobserwowano boję jak na rysunku (oznakowanie „w górę” Północ – Południe /Węgorzewo – Pisz). Jak ją minąć?",
+    "answers": [
+      "prawą burtą",
+      "nie wpływać – zakaz żeglugi",
+      "lewą burtą"
+    ],
+    "correct_answer": "prawą burtą",
+    "image_url": "page_006.png"
+  },
+  {
+    "id": 129,
+    "question": "Co oznacza pokazana tablica?",
+    "answers": [
+      "zakaz żeglugi na silniku",
+      "dozwolone pływanie na silniku",
+      "nakaz żeglugi na silniku"
+    ],
+    "correct_answer": "dozwolone pływanie na silniku",
+    "image_url": "page_007.png"
+  },
+  {
+    "id": 130,
+    "question": "Jakie minimum pomocy nawigacyjnych należy mieć na jachcie żeglującym na Zatoce Gdańskiej ?",
+    "answers": [
+      "mapę, locję akwenu i kompas",
+      "sekstant i rocznik astronomiczny",
+      "spis radiostacji i locję Bałtyku"
+    ],
+    "correct_answer": "mapę, locję akwenu i kompas"
+  },
+  {
+    "id": 131,
+    "question": "Co oznacza taki znak na kanale?",
+    "answers": [
+      "zakaz cumowania",
+      "dozwolone cumowanie",
+      "punkt poboru wody"
+    ],
+    "correct_answer": "dozwolone cumowanie",
+    "image_url": "page_009.png"
+  },
+  {
+    "id": 132,
+    "question": "Płynąc na Mazury rzeką Pisą pod prąd zauważono na nurcie tykę jak na rysunku. Jak ją ominąć?",
+    "answers": [
+      "prawą burtą",
+      "lewą burtą",
+      "z dowolnej strony"
+    ],
+    "correct_answer": "prawą burtą",
+    "image_url": "page_010.png"
+  },
+  {
+    "id": 133,
+    "question": "Co oznacza ten znak?",
+    "answers": [
+      "nakaz żeglugi tylko z jednym żaglem",
+      "pierwszeństwo przejścia dla jachtów żaglowych",
+      "zakaz żeglugi pod żaglami"
+    ],
+    "correct_answer": "zakaz żeglugi pod żaglami",
+    "image_url": "page_011.png"
+  },
+  {
+    "id": 134,
+    "question": "Co oznacza ten znak i jak się zachować?",
+    "answers": [
+      "przystań statków pasażerskich, mijać daleko",
+      "prom na uwięzi, mijać za rufą nie za blisko",
+      "dozwolone cumowanie dla jachtów"
+    ],
+    "correct_answer": "prom na uwięzi, mijać za rufą nie za blisko",
+    "image_url": "page_012.png"
+  },
+  {
+    "id": 135,
+    "question": "Wchodząc do śluzy najważniejsze jest przygotowanie:",
+    "answers": [
+      "kotwicy do rzucenia",
+      "dwóch długich cum",
+      "koła ratunkowego z rzutką"
+    ],
+    "correct_answer": "dwóch długich cum"
+  },
+  {
+    "id": 136,
+    "question": "Na kursie jachtu zaobserwowano jeden z pokazanych znaków. Jak go można minąć?",
+    "answers": [
+      "tylko lewą burtą",
+      "tylko prawą burtą",
+      "w dowolny sposób prawą lub lewą burtą"
+    ],
+    "correct_answer": "w dowolny sposób prawą lub lewą burtą",
+    "image_url": "page_014.png"
+  },
+  {
+    "id": 137,
+    "question": "Nabieżnik to:",
+    "answers": [
+      "para wbitych w dno pali służących do cumowania",
+      "para staw lub innych stałych obiektów wyznaczająca kierunek",
+      "zakończenie pirsu w porcie"
+    ],
+    "correct_answer": "para staw lub innych stałych obiektów wyznaczająca kierunek"
+  },
+  {
+    "id": 138,
+    "question": "Żeglujemy na Zalewie Szczecińskim. W locji znaleźliśmy informację, że do portu Stepnica należy wchodzić w nabieżniku – stawa dolna z rombem, stawa górna z trójkątem. Zaobserwowano nabieżnik jak na rysunku. Jak zmienić kurs aby wejść w linię nabieżnika?",
+    "answers": [
+      "w prawo",
+      "nie należy zmieniać kursu",
+      "w lewo"
+    ],
+    "correct_answer": "w lewo",
+    "image_url": "page_016.png"
+  },
+  {
+    "id": 139,
+    "question": "Przy wyjściu z kanału zaobserwowano taki znak. Co oznacza?",
+    "answers": [
+      "nakaz żeglugi na silniku",
+      "zakaz żeglugi na silniku",
+      "dozwolone pływanie na silniku małej mocy"
+    ],
+    "correct_answer": "zakaz żeglugi na silniku",
+    "image_url": "page_017.png"
+  },
+  {
+    "id": 140,
+    "question": "Płynąc kanałem zaobserwowano taki znak. Co oznacza?",
+    "answers": [
+      "uwaga przeszkoda podwodna",
+      "nakaz dawania sygnału dźwiękowego",
+      "zakaz zatrzymywania się"
+    ],
+    "correct_answer": "nakaz dawania sygnału dźwiękowego",
+    "image_url": "page_018.png"
+  },
+  {
+    "id": 141,
+    "question": "Zbliżając się do mostu na kanale zaobserwowano taki znak. Co on oznacza?",
+    "answers": [
+      "zakaz przejścia jachtów o długości powyżej 7,5 m",
+      "wysokość przejścia nad linią wody 7,5 m",
+      "zakaz cumowania jachtów o długości 7,5 m"
+    ],
+    "correct_answer": "wysokość przejścia nad linią wody 7,5 m",
+    "image_url": "page_019.png"
+  },
+  {
+    "id": 142,
+    "question": "Płynąc kanałem zaobserwowano taki znak. Jak postępować?",
+    "answers": [
+      "obserwować czy nie przepływa prom i ewentualnie ustąpić z drogi",
+      "znak oznacza przystań – można ewentualnie cumować",
+      "małe statki mają pierwszeństwo przejścia"
+    ],
+    "correct_answer": "obserwować czy nie przepływa prom i ewentualnie ustąpić z drogi",
+    "image_url": "page_020.png"
+  },
+  {
+    "id": 143,
+    "question": "W pobliżu brzegu zaobserwowano kilka boi jak na rysunku. Co one oznaczają i jak się zachować?",
+    "answers": [
+      "akwen dozwolony do żeglugi tylko z małą prędkością",
+      "akwen zamknięty, nie wpływać",
+      "niedozwolona żegluga pod żaglami, można płynąć na wiosłach"
+    ],
+    "correct_answer": "akwen zamknięty, nie wpływać",
+    "image_url": "page_021.png"
+  },
+  {
+    "id": 144,
+    "question": "Jacht płynąc kanałem na pewnym odcinku zauważył znak jak na rysunku. Co on oznacza?",
+    "answers": [
+      "dozwolone cumowanie",
+      "zakaz cumowania",
+      "parking tylko dla łodzi motorowych"
+    ],
+    "correct_answer": "dozwolone cumowanie",
+    "image_url": "page_022.png"
+  },
+  {
+    "id": 145,
+    "question": "Jacht po wypłynięciu z przesmyku między jeziorami zaobserwował pławę jak na rysunku. Co ona oznacza?",
+    "answers": [
+      "płyciznę, którą można mijać z obu stron",
+      "rozwidlenie szlaku żeglownego",
+      "akwen hodowli ryb, nie wpływać"
+    ],
+    "correct_answer": "rozwidlenie szlaku żeglownego",
+    "image_url": "page_023.png"
+  },
+  {
+    "id": 146,
+    "question": "Na moście stałym zaobserwowano znak jak na rysunku. Jak przechodzić pod mostem?",
+    "answers": [
+      "przechodzić pod mostem trzymając się prawej strony",
+      "przechodzić w dowolny sposób bo to przejście jednokierunkowe",
+      "oczekiwać na sygnał zezwalający na przejście"
+    ],
+    "correct_answer": "przechodzić pod mostem trzymając się prawej strony",
+    "image_url": "page_024.png"
+  },
+  {
+    "id": 147,
+    "question": "Na wejściu do kanału zaobserwowano znak jak na rysunku. Co on oznacza?",
+    "answers": [
+      "zakaz wpływania poza znak",
+      "nakaz zrzucenia żagli",
+      "zakaz cumowania po prawej stronie"
+    ],
+    "correct_answer": "zakaz wpływania poza znak",
+    "image_url": "page_025.png"
+  },
+  {
+    "id": 148,
+    "question": "Jacht płynie w kierunku zachodnim. Na kursie zaobserwowano pławę jak na rysunku. Po której stronie ja minąć?",
+    "answers": [
+      "po północnej",
+      "po południowej",
+      "można minąć z obu stron"
+    ],
+    "correct_answer": "po północnej",
+    "image_url": "page_026.png"
+  },
+  {
+    "id": 149,
+    "question": "Na kursie jachtu płynącego na północ zaobserwowano pławę jak na rysunku. Co ona oznacza i jak postąpić?",
+    "answers": [
+      "zachodnią stronę niebezpieczeństwa, minąć lewą burtą",
+      "wschodnią stronę niebezpieczeństwa, minąć prawą burtą",
+      "południową stronę niebezpieczeństwa, minąć w bezpiecznej odległości (sprawdzając na mapie położenie niebezpieczeństwa)"
+    ],
+    "correct_answer": "południową stronę niebezpieczeństwa, minąć w bezpiecznej odległości (sprawdzając na mapie położenie niebezpieczeństwa)",
+    "image_url": "page_027.png"
+  },
+  {
+    "id": 150,
+    "question": "Jacht płynący na północ zaobserwował z lewej burty przed dziobem pławę jak na rysunku. Jak bezpiecznie ominąć niebezpieczeństwo?",
+    "answers": [
+      "kontynuować kurs mijając pławę lewą burtą",
+      "zmienić kurs w lewo i minąć pławę prawą burtą",
+      "zawrócić bo pława stoi na południe od niebezpieczeństwa"
+    ],
+    "correct_answer": "kontynuować kurs mijając pławę lewą burtą",
+    "image_url": "page_028.png"
+  },
+  {
+    "id": 151,
+    "question": "Na kursie jachtu zaobserwowano pławę jak na rysunku. Co ona oznacza?",
+    "answers": [
+      "po zachodniej stronie pławy znajduje się niebezpieczeństwo",
+      "po wschodniej stronie pławy znajduje się niebezpieczeństwo",
+      "pława oznacza małe odosobnione niebezpieczeństwo"
+    ],
+    "correct_answer": "po wschodniej stronie pławy znajduje się niebezpieczeństwo",
+    "image_url": "page_029.png"
+  },
+  {
+    "id": 152,
+    "question": "Jacht płynący rzeką Pisą pod prąd zaobserwował znak jak na rysunku. Jak należy bezpiecznie go minąć?",
+    "answers": [
+      "prawa burtą",
+      "lewą burtą",
+      "oznacza odosobnione niebezpieczeństw, można mijać z obu stron"
+    ],
+    "correct_answer": "lewą burtą",
+    "image_url": "page_030.png"
+  },
+  {
+    "id": 153,
+    "question": "Jacht na jeziorze płynie w kierunku zachodnim (oznakowanie „w górę” z zachodu na wschód) , na kursie zaobserwowano tykę jak na rysunku. Jak ją minąć?",
+    "answers": [
+      "prawą burtą",
+      "nie wpływać – rezerwat ptaków",
+      "lewą burtą"
+    ],
+    "correct_answer": "lewą burtą",
+    "image_url": "page_031.png"
+  },
+  {
+    "id": 154,
+    "question": "Jacht o długości 8 m i wysokości masztu 14 m wpływa do kanału. Na brzegu ustawione są znaki jak na rysunku. Co należy zrobić?",
+    "answers": [
+      "nie ma przeszkód, płynąć dalej",
+      "położyć maszt i płynąć dalej",
+      "nie da się przejść jacht jest za długi"
+    ],
+    "correct_answer": "położyć maszt i płynąć dalej",
+    "image_url": "page_032.png"
+  },
+  {
+    "id": 155,
+    "question": "W systemie kardynalnym pławy ustawia się w stosunku do niebezpieczeństwa",
+    "answers": [
+      "zawsze 4 pławy: na n, na s, na w i na e od niebezpieczeństwa",
+      "w zależności od położenia i wielkości niebezpieczeństwa jedną lub więcej pław odpowiednio na n, s, w czy e od niebezpieczeństwa",
+      "tylko dwie pławy na n i s lub e i w od niebezpieczeństwa"
+    ],
+    "correct_answer": "w zależności od położenia i wielkości niebezpieczeństwa jedną lub więcej pław odpowiednio na n, s, w czy e od niebezpieczeństwa"
+  },
+  {
+    "id": 156,
+    "question": "Gdzie można znaleźć informacje o kierunkach oznakowania nawigacyjnego na śródlądowych drogach wodnych?",
+    "answers": [
+      "na mapach turystycznych",
+      "w załączniku nr 9 do przepisów żeglugowych na śródlądowych drogach wodnych (Rozporządzenie ministra infrastruktury z 28.04.2003 r)",
+      "w rozporządzeniu ministra sportu i turystyki w sprawie uprawiania turystyki wodnej"
+    ],
+    "correct_answer": "w załączniku nr 9 do przepisów żeglugowych na śródlądowych drogach wodnych (Rozporządzenie ministra infrastruktury z 28.04.2003 r)"
+  },
+  {
+    "id": 157,
+    "question": "Na odnodze kanału żeglownego zaobserwowano znak jak na rysunku. Co oznacza i jak się zachować?",
+    "answers": [
+      "śluza, płynąć i obserwować sygnały",
+      "jaz, niebezpieczeństwo, może być silny prąd, upewnić się czy można przepływać",
+      "przystań można zacumować przy nabrzeżu"
+    ],
+    "correct_answer": "jaz, niebezpieczeństwo, może być silny prąd, upewnić się czy można przepływać",
+    "image_url": "page_035.png"
+  },
+  {
+    "id": 158,
+    "question": "Tama spiętrzająca wodę lecz nie zawsze pozwalająca na przepływanie jednostek pływających to:",
+    "answers": [
+      "śluza",
+      "jaz",
+      "ostroga"
+    ],
+    "correct_answer": "jaz"
+  },
+  {
+    "id": 159,
+    "question": "Budowla hydrotechniczna pozwalająca na przechodzenie jednostek z akwenu o wyższym poziomie wody do akwenu o niższym poziomie lub odwrotnie to:",
+    "answers": [
+      "śluza komorowa",
+      "jaz",
+      "zapora"
+    ],
+    "correct_answer": "śluza komorowa"
+  },
+  {
+    "id": 160,
+    "question": "Jacht płynący rzeką z prądem zaobserwował na kursie znak jak na rysunku. Co on oznacza i co należy zrobić?",
+    "answers": [
+      "przeszkoda na szlaku, można minąć z obu stron",
+      "rozwidlenie szlaku żeglownego, sprawdzić na mapie gdzie płynąć.",
+      "dopuszczalny postój po prawej stronie szlaku żeglownego"
+    ],
+    "correct_answer": "przeszkoda na szlaku, można minąć z obu stron",
+    "image_url": "page_038.png"
+  },
+  {
+    "id": 161,
+    "question": "Płynąc kanałem zaobserwowano znak jak na rysunku. Jeżeli na trójkącie z prawej strony znaku znajduje się liczba  to co ona oznacza?",
+    "answers": [
+      "liczbę jednostek które mogą tu cumować",
+      "odległość w m określająca długość odcinka do cumowania",
+      "głębokość przy nabrzeżu przeznaczonym do cumowania"
+    ],
+    "correct_answer": "odległość w m określająca długość odcinka do cumowania",
+    "image_url": "page_039.png"
+  },
+  {
+    "id": 162,
+    "question": "Jacht na jeziorze Śniardwy płynie na południe w kierunku miejscowości Pisz. Na kursie zaobserwowano stożkową pławę (1) a kilkadziesiąt metrów dalej pławę jak na rysunku (2). Jak mijać te znaki?",
+    "answers": [
+      "pławę zieloną (1) lewą burtą, pławę (2) też lewą burtą",
+      "pławę zieloną (1) prawą burtą, pławę (2) lewą burtą",
+      "pławę zieloną (1) prawą burtą, pławę (2) też prawą burtą"
+    ],
+    "correct_answer": "pławę zieloną (1) prawą burtą, pławę (2) też prawą burtą",
+    "image_url": "page_040.png"
+  },
+  {
+    "id": 163,
+    "question": "W systemie kardynalnym pławy ustawia się w stosunku do niebezpieczeństwa:",
+    "answers": [
+      "zawsze 4 pławy: na n, na s, na w i na e od niebezpieczeństwa",
+      "w zależności od położenia i wielkości niebezpieczeństwa jedną lub więcej pław odpowiednio na n, s, w czy e od niebezpieczeństwa",
+      "tylko dwie pławy na n i s lub e i w od niebezpieczeństwa"
+    ],
+    "correct_answer": "w zależności od położenia i wielkości niebezpieczeństwa jedną lub więcej pław odpowiednio na n, s, w czy e od niebezpieczeństwa"
+  },
+  {
+    "id": 164,
+    "question": "Jacht płynący na południe zaobserwował na kursie najpierw pierwszą pławę, a dalej w prawo od kursu drugą pławę. Jak płynąć aby ominąć niebezpieczeństwo?",
+    "answers": [
+      "zmienić kurs w lewo i minąć obie pławy prawą burtą",
+      "zmienić kurs w lewo i minąć pławę (rys.1) prawą burtą, a pławę (rys. 2) lewą burtą",
+      "zmienić kurs w prawo i minąć obie pławy ( rys.1 i 2 ) lewą burtą. 2 1"
+    ],
+    "correct_answer": "zmienić kurs w prawo i minąć obie pławy ( rys.1 i 2 ) lewą burtą. 2 1",
+    "image_url": "page_042.png"
+  },
+  {
+    "id": 165,
+    "question": "Płynąc wzdłuż brzegu jeziora zaobserwowano na brzegu znak jak na rysunku. Co on oznacza?",
+    "answers": [
+      "punkt nadawania ostrzeżeń meteorologicznych",
+      "wejście do kanału – po lewej stronie znaku",
+      "wejście do kanału – po prawej stronie znaku"
+    ],
+    "correct_answer": "wejście do kanału – po lewej stronie znaku",
+    "image_url": "page_043.png"
+  },
+  {
+    "id": 166,
+    "question": "Płynąc wzdłuż brzegu jeziora zaobserwowano na brzegu znak jak na rysunku. Co on oznacza?",
+    "answers": [
+      "punkt nadawania ostrzeżeń meteorologicznych",
+      "wejście do kanału – po lewej stronie znaku",
+      "wejście do kanału – po prawej stronie znaku"
+    ],
+    "correct_answer": "wejście do kanału – po prawej stronie znaku",
+    "image_url": "page_044.png"
+  },
+  {
+    "id": 167,
+    "question": "Przy żegludze w górę rzeki ( pod prąd) prawą burtą należy mijać:",
+    "answers": [
+      "pławy lub tyki czerwone ze znakiem szczytowym walec",
+      "pławy lub tyki zielone ze znakiem szczytowym stożek",
+      "pławy lub tyki z wiechą"
+    ],
+    "correct_answer": "pławy lub tyki zielone ze znakiem szczytowym stożek"
+  },
+  {
+    "id": 168,
+    "question": "Znaki systemu kardynalnego N, S, E oraz W:",
+    "answers": [
+      "wskazują stronę, którą należy znak opłynąć – stronę bezpieczną określa nazwa znaku",
+      "wskazują stronę, którą należy znak opłynąć – stronę po, której mamy zostawić znak określa nazwa znaku",
+      "wskazują odpowiednio prawą i lewą stronę drogi wodnej w zależności od kierunku geograficznego drogi"
+    ],
+    "correct_answer": "wskazują stronę, którą należy znak opłynąć – stronę bezpieczną określa nazwa znaku"
+  },
+  {
+    "id": 169,
+    "question": "Na brzegu zaobserwowano znak jak na rysunku. Jak należy się zachować?",
+    "answers": [
+      "uwaga, mogą przepływać szybkie łodzie motorowe i skutery wodne",
+      "zmniejszyć szybkość, aby nie wytwarzać fali",
+      "nierówna linia brzegowa, spłycenia, zachować ostrożność"
+    ],
+    "correct_answer": "zmniejszyć szybkość, aby nie wytwarzać fali",
+    "image_url": "page_047.png"
+  },
+  {
+    "id": 170,
+    "question": "Czy pod stałymi mostami można przepływać w dowolnym miejscu?",
+    "answers": [
+      "nie, można przepływać tylko po zaobserwowaniu sygnału wolnego przejścia",
+      "tak, po upewnieniu się czy wysokość mostu jest wystarczająca i pod oznakowanym przęsłem",
+      "tak, w dowolnym miejscu jeżeli wysokość mostu jest wystarczająca"
+    ],
+    "correct_answer": "tak, po upewnieniu się czy wysokość mostu jest wystarczająca i pod oznakowanym przęsłem"
+  },
+  {
+    "id": 171,
+    "question": "Jacht zbliża się do mostu zwodzonego. Na moście zaobserwowano sygnał jak na rysunku. Jak należy się zachować?",
+    "answers": [
+      "most uszkodzony, zakaz przejścia",
+      "otwarcie mostu nastąpi za dwie godziny",
+      "przygotować się do przejścia, wkrótce nastąpi otwarcie mostu"
+    ],
+    "correct_answer": "przygotować się do przejścia, wkrótce nastąpi otwarcie mostu",
+    "image_url": "page_049.png"
+  },
+  {
+    "id": 172,
+    "question": "Jacht o wysokości masztu 8m, szerokości 4m i zanurzeniu 1m, zaobserwował przy wejściu do kanału tablice jak na rysunku. Jak należy postąpić?",
+    "answers": [
+      "nie da się przejść, należy zawrócić",
+      "można przejść po położeniu masztu",
+      "można przejść nie ma przeszkód"
+    ],
+    "correct_answer": "można przejść po położeniu masztu",
+    "image_url": "page_050.png"
+  },
+  {
+    "id": 173,
+    "question": "Żeglując prawą stroną toru wodnego zauważono blisko brzegu znak jak na rysunku. Co on oznacza i jak się zachować?",
+    "answers": [
+      "miejsce dogodne do zacumowania. można podejść blisko lub cumować",
+      "ostrzeżenie o dużym ruchu. żeglować ostrożnie",
+      "miejsce niebezpieczne przy prawym brzegu, ominąć w bezpiecznej odległości"
+    ],
+    "correct_answer": "miejsce niebezpieczne przy prawym brzegu, ominąć w bezpiecznej odległości",
+    "image_url": "page_051.png"
+  },
+  {
+    "id": 174,
+    "question": "Żeglując po jeziorze zaobserwowano statek który podniósł sygnał jak na rysunku (biała kula). Co on oznacza i jak się zachować?",
+    "answers": [
+      "statek stoi na kotwicy, mijać nie za blisko",
+      "na akwenie odbywają się zawody sportowe (np. regaty) nie wpływać oddalić się od tego akwenu.",
+      "statek dryfuje, mijać po stronie nawietrznej"
+    ],
+    "correct_answer": "na akwenie odbywają się zawody sportowe (np. regaty) nie wpływać oddalić się od tego akwenu.",
+    "image_url": "page_052.png"
+  },
+  {
+    "id": 175,
+    "question": "Na kanale zaobserwowano ustawione znaki jak na rysunku. Co one oznaczają ?",
+    "answers": [
+      "dozwolony postój – punkt zdawania ścieków",
+      "dozwolony postój w stronę wskazaną białym trójkątem – punkt tankowania wody pitnej",
+      "dozwolony postój tylko dla statków wiozących ładunki ciekłe."
+    ],
+    "correct_answer": "dozwolony postój w stronę wskazaną białym trójkątem – punkt tankowania wody pitnej",
+    "image_url": "page_053.png"
+  },
+  {
+    "id": 176,
+    "question": "W przesmyku między jeziorami zaobserwowano dwie tyki ze znakami jak na rysunku. Co one oznaczają i jak się zachować?",
+    "answers": [
+      "między znakami jest przeszkoda. omijać po stronie białych trójkątów",
+      "zalecone przejście pomiędzy znakami (między zielonymi trójkątami)",
+      "każdy znak oznacza odosobnione niebezpieczeństwo. mijać dowolnie"
+    ],
+    "correct_answer": "zalecone przejście pomiędzy znakami (między zielonymi trójkątami)",
+    "image_url": "page_054.png"
+  },
+  {
+    "id": 177,
+    "question": "Żeglując lewą stroną toru wodnego zauważono blisko brzegu znak jak na rysunku. Co on oznacza i jak się zachować?",
+    "answers": [
+      "miejsce dogodne do zacumowania. można podejść blisko lub cumować",
+      "ostrzeżenie o dużym ruchu żeglugowym. żeglować ostrożnie",
+      "miejsce niebezpieczne przy lewym brzegu. ominąć w bezpiecznej odległości"
+    ],
+    "correct_answer": "miejsce niebezpieczne przy lewym brzegu. ominąć w bezpiecznej odległości",
+    "image_url": "page_055.png"
+  },
+  {
+    "id": 178,
+    "question": "Na kanale zaobserwowano cztery jachty zacumowane po dwa burta w burtę, a na brzegu znaki jak na rysunku. Czy możemy za zgodą jednego z tych jachtów zacumować do jego burty?",
+    "answers": [
+      "tak, jest to dozwolone",
+      "nie, dozwolone jest cumowanie tylko czterech jachtów",
+      "nie, te jachty zacumowały nieprawidłowo, niedozwolone jest cumowanie burta w burtę"
+    ],
+    "correct_answer": "tak, jest to dozwolone",
+    "image_url": "page_056.png"
+  },
+  {
+    "id": 179,
+    "question": "Jednym z elementów regulacji rzeki jest ostroga, jest ona budowlą:",
+    "answers": [
+      "usytuowaną poprzecznie do przepływu rzeki",
+      "usytuowaną równolegle do przepływu rzeki",
+      "położoną w środku koryta rzeki."
+    ],
+    "correct_answer": "usytuowaną poprzecznie do przepływu rzeki"
+  },
+  {
+    "id": 180,
+    "question": "Kierunek szlaku żeglownego (po prawej ręce strona prawa – znaki czerwone, po lewej ręce strona lewa – znaki zielone) na jeziorze jest określany:",
+    "answers": [
+      "przez właściwy urząd żeglugi śródlądowej z zasady w kierunku z południa na północ oraz ze wschodu na zachód",
+      "zawsze taki jak na rzece wpadającej do jeziora",
+      "zawsze taki jak na rzece wypływającej z jeziora"
+    ],
+    "correct_answer": "przez właściwy urząd żeglugi śródlądowej z zasady w kierunku z południa na północ oraz ze wschodu na zachód"
+  },
+  {
+    "id": 181,
+    "question": "Prawą stroną szlaku żeglownego na rzece jest strona, która znajduje się:",
+    "answers": [
+      "na prawo od statku płynącego w dół rzeki (od źródła do ujścia)",
+      "na prawo od statku płynącego w górę rzeki (od ujścia do źródła)",
+      "na północnym lub wschodnim brzegu"
+    ],
+    "correct_answer": "na prawo od statku płynącego w górę rzeki (od ujścia do źródła)"
+  },
+  {
+    "id": 182,
+    "question": "Cumując w śluzie należy:",
+    "answers": [
+      "obłożyć dokładnie cumy na urządzeniach do cumowania tak aby powstałe zawirowania wody i prąd nie porwał jachtu",
+      "w ogóle nie zakładać cum ze względu na zmiany poziomu wody lecz cały czas odpychać się bosakiem i pagajami od brzegów komory śluzy",
+      "założyć cumy na biegowo, luzować lub wybierać je w miarę podnoszenia lub obniżania lustra wody"
+    ],
+    "correct_answer": "założyć cumy na biegowo, luzować lub wybierać je w miarę podnoszenia lub obniżania lustra wody"
+  },
+  {
+    "id": 183,
+    "question": "Przed mostami zwodzonymi jedno lub więcej świateł czerwonych umieszczonych poziomo oznacza:",
+    "answers": [
+      "zakaz przejścia",
+      "przygotować się do przejścia",
+      "otwieranie mostu okresowo wstrzymane"
+    ],
+    "correct_answer": "zakaz przejścia"
+  },
+  {
+    "id": 184,
+    "question": "Płynąc Wisłą z Torunia do Warszawy na kursie widzimy pławę (kolor trudno określić) w kształcie walca:",
+    "answers": [
+      "mijam ją prawą burtą",
+      "mijam ją lewą burtą",
+      "mogę wyminąć po każdej stronie bo to stara pława nie obowiązująca obecnie"
+    ],
+    "correct_answer": "mijam ją lewą burtą"
+  },
+  {
+    "id": 185,
+    "question": "Wpływając do portu Jastarnia na Zatoce Gdańskiej kursem na północ zieloną pławę pozostawiamy:",
+    "answers": [
+      "po prawej burcie",
+      "po lewej burcie",
+      "obojętne, bo jest to pława wyznaczająca środek farwateru"
+    ],
+    "correct_answer": "po prawej burcie"
+  },
+  {
+    "id": 186,
+    "question": "Przedstawiony znak to:",
+    "answers": [
+      "zakaz wpływania",
+      "inne ograniczenia w ruchu żeglownym statków",
+      "nakaz bezwzględnego zatrzymania statku"
+    ],
+    "correct_answer": "inne ograniczenia w ruchu żeglownym statków",
+    "image_url": "page_064.png"
+  },
+  {
+    "id": 187,
+    "question": "Przedstawiony znak zakazuje:",
+    "answers": [
+      "rozwijania prędkości powyżej 40 km/h",
+      "rozwijania prędkości powyżej 40 węzłów",
+      "postoju na szerokości 40 m od znaku"
+    ],
+    "correct_answer": "postoju na szerokości 40 m od znaku",
+    "image_url": "page_065.png"
+  },
+  {
+    "id": 188,
+    "question": "Na brzegu zaobserwowano tablicę jak na rysunku obok. Co ona oznacza i jak postąpić?",
+    "answers": [
+      "uwaga - most o wysokości przęsła nad wodą podanej na znaku (12 m)",
+      "zakaz ruchu statków o mocy silnika (km) podanej na znaku",
+      "nakaz nie przekraczania prędkości 12 km/h, dostosować szybkość"
+    ],
+    "correct_answer": "nakaz nie przekraczania prędkości 12 km/h, dostosować szybkość",
+    "image_url": "page_066.png"
+  },
+  {
+    "id": 189,
+    "question": "Zaobserwowano znak przedstawiony na rysunku. Co on oznacza?",
+    "answers": [
+      "nakaz zachowania szczególnej ostrożności",
+      "zakaz ruchu statków żaglowych",
+      "nakaz nadania sygnału dźwiękowego"
+    ],
+    "correct_answer": "nakaz zachowania szczególnej ostrożności",
+    "image_url": "page_067.png"
+  },
+  {
+    "id": 190,
+    "question": "Nabieżnik jest to:",
+    "answers": [
+      "para wbitych w dno pali służących do cumowania",
+      "betonowy słup lub inny charakterystyczny znak stojący na lądzie",
+      "para staw albo innych stałych obiektów wyznaczająca kierunek"
+    ],
+    "correct_answer": "para staw albo innych stałych obiektów wyznaczająca kierunek"
+  },
+  {
+    "id": 191,
+    "question": "Jeśli płyniesz rzeką wzdłuż prawego brzegu i zobaczysz jeden ze znaków pokazanych na rysunku, to należy:",
+    "answers": [
+      "zatrzymać się przy brzegu i złożyć maszt, w pobliżu śluza",
+      "spodziewać się przejścia szlaku żeglownego na lewy brzeg i odpowiednio zmienić kurs",
+      "miejsce niebezpieczne przy prawym brzegu"
+    ],
+    "correct_answer": "spodziewać się przejścia szlaku żeglownego na lewy brzeg i odpowiednio zmienić kurs",
+    "image_url": "page_069.png"
+  },
+  {
+    "id": 192,
+    "question": "Płynąc rzeką wzdłuż lewego brzegu widzisz jeden ze znaków pokazanych na rysunku, wtedy powinieneś:",
+    "answers": [
+      "zatrzymać się przy brzegu i złożyć maszt, w pobliżu most",
+      "spodziewać się przejścia szlaku żeglownego na prawy brzeg, odpowiednio zmienić kurs",
+      "że szlak żeglowny przebiega przy lewym brzegu"
+    ],
+    "correct_answer": "spodziewać się przejścia szlaku żeglownego na prawy brzeg, odpowiednio zmienić kurs",
+    "image_url": "page_070.png"
+  },
+  {
+    "id": 193,
+    "question": "Przedstawione na rysunku znaki oznaczają:",
+    "answers": [
+      "przebieg szlaku wzdłuż lewego brzegu",
+      "przebieg szlaku wzdłuż prawego brzegu",
+      "miejsce niebezpieczne na lewym brzegu"
+    ],
+    "correct_answer": "przebieg szlaku wzdłuż prawego brzegu",
+    "image_url": "page_071.png"
+  },
+  {
+    "id": 194,
+    "question": "Ploso to:",
+    "answers": [
+      "element jazu",
+      "najgłębsze miejsce na zakolu rzeki",
+      "wypukły brzeg rzeki"
+    ],
+    "correct_answer": "najgłębsze miejsce na zakolu rzeki"
+  },
+  {
+    "id": 195,
+    "question": "Jaz jest budowlą wodną służącą do:",
+    "answers": [
+      "wyrównania poziomów wody w zbiornikach połączonych",
+      "spiętrzania wody",
+      "połączenia szlaku żeglownego o różnych poziomach wód"
+    ],
+    "correct_answer": "spiętrzania wody"
+  },
+  {
+    "id": 196,
+    "question": "Określenie kierunku „w górę szlaku” na szlaku Wielkich Jezior Mazurskich oznacza ruch w kierunku miejscowości:",
+    "answers": [
+      "Pisz (na południe)",
+      "Węgorzewo (na północ)",
+      "Giżycko"
+    ],
+    "correct_answer": "Pisz (na południe)"
+  },
+  {
+    "id": 197,
+    "question": "Farwater jest to:",
+    "answers": [
+      "próg podwodny spiętrzający wodę",
+      "szlak żeglowny",
+      "kanał spławny"
+    ],
+    "correct_answer": "szlak żeglowny"
+  },
+  {
+    "id": 198,
+    "question": "Płyniesz rzeką z prądem, którą burtą miniesz tykę:",
+    "answers": [
+      "lewą",
+      "prawą",
+      "obojętne"
+    ],
+    "correct_answer": "lewą"
+  },
+  {
+    "id": 199,
+    "question": "Płycizna między plosami to:",
+    "answers": [
+      "rynna",
+      "przemiał",
+      "kępa"
+    ],
+    "correct_answer": "przemiał"
+  },
+  {
+    "id": 200,
+    "question": "Przedstawione na rysunku znaki oznaczają:",
+    "answers": [
+      "przejście szlaku żeglownego na lewy brzeg",
+      "miejsce niebezpieczne na prawym brzegu",
+      "przebieg szlaku wzdłuż lewego brzegu"
+    ],
+    "correct_answer": "przebieg szlaku wzdłuż lewego brzegu",
+    "image_url": "page_078.png"
+  },
+  {
+    "id": 201,
+    "question": "Na Zatoce Gdańskiej zaobserwowano jeden ze znaków jak na rysunku. Co oznacza i jak postąpić?",
+    "answers": [
+      "akwen zakazany, nie wpływać poza znak",
+      "rezerwat przyrodniczy, nie wolno kotwiczyć",
+      "oś lub początek toru wodnego (tzw. znak bezpiecznej wody), obserwować dalsze znaki toru wodnego i płynąć według nich"
+    ],
+    "correct_answer": "oś lub początek toru wodnego (tzw. znak bezpiecznej wody), obserwować dalsze znaki toru wodnego i płynąć według nich",
+    "image_url": "page_079.png"
+  },
+  {
+    "id": 202,
+    "question": "Jakim znakiem oznaczony jest slip (pochylnia) przeznaczony do wyciągania jachtów z wody?",
+    "answers": [
+      "znakiem nr 1",
+      "znakiem nr 2",
+      "znakiem nr 3"
+    ],
+    "correct_answer": "znakiem nr 1",
+    "image_url": "page_080.png"
+  },
+  {
+    "id": 203,
+    "question": "Przy wejściu do portu zaobserwowano znak jak na rysunku. Co on oznacza i jak postąpić?",
+    "answers": [
+      "oznacza „marinę” dla jachtów, można wpływać.",
+      "zakaz ruchu statków używanych wyłącznie do uprawiania sportu i rekreacji",
+      "koniec strefy, w której małe statki używane wyłącznie do uprawiania sportu lub rekreacji mogły rozwijać duże prędkości"
+    ],
+    "correct_answer": "zakaz ruchu statków używanych wyłącznie do uprawiania sportu i rekreacji",
+    "image_url": "page_081.png"
+  },
+  {
+    "id": 204,
+    "question": "Na bocznej odnodze szlaku żeglownego ustawiona jest tablica jak na rysunku. Czy można tam wpływać?",
+    "answers": [
+      "tak, oznacza zezwolenie przejścia",
+      "nie, oznacza rezerwat przyrody – nie można wpływać",
+      "nie, oznacza akwen hodowli ryb – nie można wpływać"
+    ],
+    "correct_answer": "tak, oznacza zezwolenie przejścia",
+    "image_url": "page_082.png"
+  },
+  {
+    "id": 205,
+    "question": "Na polskiej mapie morskiej naniesione są oznaczenia jak na rysunku obok. Co one oznaczają?",
+    "answers": [
+      "głębokości odpowiednio 25m i 34 m",
+      "głębokości odpowiednio 2,5m i 3,4 m",
+      "głębokości odpowiednio 2 sążnie i 5 stóp, 3 sążnie 4 stopy"
+    ],
+    "correct_answer": "głębokości odpowiednio 2,5m i 3,4 m",
+    "image_url": "page_083.png"
+  },
+  {
+    "id": 206,
+    "question": "Płynąc w dół rzeki prawa strona szlaku to:",
+    "answers": [
+      "brzeg znajdujący się po prawej stronie",
+      "brzeg znajdujący się po lewej stronie",
+      "stronę określają tablice"
+    ],
+    "correct_answer": "brzeg znajdujący się po prawej stronie"
+  },
+  {
+    "id": 207,
+    "question": "Światło przerywane to światło w którym:",
+    "answers": [
+      "czas zaciemnienia jest dłuższy od czasu świecenia",
+      "czas zaciemnienia jest krótszy od czasu świecenia",
+      "czas świecenia równa się czasowy zaciemnienia"
+    ],
+    "correct_answer": "czas zaciemnienia jest krótszy od czasu świecenia"
+  },
+  {
+    "id": 208,
+    "question": "Światło izofazowe to światło w którym:",
+    "answers": [
+      "czas świecenia równa się czasowi zaciemnienia",
+      "czas zaciemnienia jest dłuższy od czasu świecenia",
+      "czas zaciemnienia jest krótszy od czasu świecenia"
+    ],
+    "correct_answer": "czas świecenia równa się czasowi zaciemnienia"
+  },
+  {
+    "id": 209,
+    "question": "Widząc przedstawiony znak należy:",
+    "answers": [
+      "zachować szczególną ostrożność",
+      "zatrzymać się w warunkach określonych przepisami",
+      "nadać sygnał dźwiękowy (1 długi uwaga)"
+    ],
+    "correct_answer": "zatrzymać się w warunkach określonych przepisami",
+    "image_url": "page_087.png"
+  },
+  {
+    "id": 210,
+    "question": "Kierunek szlaku żeglownego na śródlądowych drogach wodnych zazwyczaj biegnie:",
+    "answers": [
+      "z północy na południe",
+      "w górę rzeki",
+      "ze wschodu na zachód"
+    ],
+    "correct_answer": "ze wschodu na zachód"
+  },
+  {
+    "id": 211,
+    "question": "Szlak żeglowny to:",
+    "answers": [
+      "wszystkie wody śródlądowe dopuszczone do żeglugi",
+      "oznakowany pas wody o dostatecznej dla żeglugi głębokości i szerokości",
+      "kompleks wód śródlądowych zamkniętych połączonych kanałami łub ciekami naturalnymi"
+    ],
+    "correct_answer": "oznakowany pas wody o dostatecznej dla żeglugi głębokości i szerokości"
+  },
+  {
+    "id": 212,
+    "question": "Płynąc rzeką z prądem zaobserwowano boję stożkową o trudnym do rozpoznania kolorze. Co może oznaczać i jak ją minąć?",
+    "answers": [
+      "prawą stronę szlaku żeglownego, minąć prawą burtą",
+      "lewą stronę szlaku żeglownego, minąć lewą burtą",
+      "lewą stronę szlaku żeglownego, minąć prawą burtą"
+    ],
+    "correct_answer": "lewą stronę szlaku żeglownego, minąć lewą burtą"
+  },
+  {
+    "id": 213,
+    "question": "Przedstawione znaki stanowią oznakowanie szlaku wodnego i wskazują wpływ lub wypływ z jeziora lub szerokiej rzeki, różnica pomiędzy znakiem 1 i znakiem 2 polega na tym, że:",
+    "answers": [
+      "1-początek szlaku żeglownego, 2- koniec szlaku",
+      "1-znak ustawiany po lewej stronie wyjścia, 2- po prawej",
+      "2-znak ustawiany po lewej stronie wyjścia, 1- po prawej 1 2"
+    ],
+    "correct_answer": "1-znak ustawiany po lewej stronie wyjścia, 2- po prawej",
+    "image_url": "page_091.png"
+  },
+  {
+    "id": 214,
+    "question": "Określenie w górę szlaku oznacza kierunek:",
+    "answers": [
+      "z północy na południe",
+      "od źródła do ujścia rzeki",
+      "ze wschodu na zachód"
+    ],
+    "correct_answer": "z północy na południe"
+  },
+  {
+    "id": 215,
+    "question": "Co to za znak:",
+    "answers": [
+      "zakaz wszelkiego wyprzedzania",
+      "zakaz mijania i wyprzedzania",
+      "zakaz zawracania"
+    ],
+    "correct_answer": "zakaz wszelkiego wyprzedzania",
+    "image_url": "page_093.png"
+  },
+  {
+    "id": 216,
+    "question": "Co to za znak:",
+    "answers": [
+      "zakaz wszelkiego wyprzedzania",
+      "zakaz mijania i wyprzedzania",
+      "zakaz zawracania"
+    ],
+    "correct_answer": "zakaz mijania i wyprzedzania",
+    "image_url": "page_094.png"
+  },
+  {
+    "id": 217,
+    "question": "Co to za znak:",
+    "answers": [
+      "jaz w bliskiej odległości",
+      "prom na uwięzi",
+      "prom przemieszczający się swobodnie"
+    ],
+    "correct_answer": "jaz w bliskiej odległości",
+    "image_url": "page_095.png"
+  },
+  {
+    "id": 218,
+    "question": "Co to za znak:",
+    "answers": [
+      "połączenie z drogą uznaną za główną drogę wodną",
+      "połączenie z drogą uznaną za boczną drogę wodną",
+      "koniec obowiązywania zakazu/nakazu ograniczenia"
+    ],
+    "correct_answer": "połączenie z drogą uznaną za główną drogę wodną",
+    "image_url": "page_096.png"
+  },
+  {
+    "id": 219,
+    "question": "Jacht na rzece płynąc pod prąd napotkał czerwoną pławę walcową. Którą granicę szlaku żeglownego ona wyznacza? Którą burtą powinien ją ominąć?",
+    "answers": [
+      "wyznacza prawą granicę szlaku, powinien ominąć ją prawą burtą",
+      "wyznacza lewą granicę szlaku, powinien ominąć ją lewą burtą",
+      "wyznacza prawą granicę szlaku, powinien ominąć ją lewą burtą"
+    ],
+    "correct_answer": "wyznacza prawą granicę szlaku, powinien ominąć ją lewą burtą"
+  },
+  {
+    "id": 220,
+    "question": "Zachodni znak kardynalny ma charakterystykę świetlną:",
+    "answers": [
+      "dziewięć błysków",
+      "sześć błysków",
+      "trzy błyski"
+    ],
+    "correct_answer": "dziewięć błysków"
+  },
+  {
+    "id": 221,
+    "question": "Płynąc na Zalewie Szczecińskim na północ zaobserwowano na kursie tykę, kolor trudno określić ale widać znak szczytowy jak na rysunku. Jak ja wyminąć?",
+    "answers": [
+      "prawą burtą",
+      "lewą burtą",
+      "zawrócić"
+    ],
+    "correct_answer": "prawą burtą",
+    "image_url": "page_099.png"
+  },
+  {
+    "id": 222,
+    "question": "Płynąc na Zatoce Gdańskiej do portu w kierunku zachodnim w pobliżu wejścia zaobserwowano tykę bez znaku szczytowego jak na rysunku obok. Jak ją minąć?",
+    "answers": [
+      "prawą burtą",
+      "lewą burtą",
+      "można minąć z obu stron nie za blisko"
+    ],
+    "correct_answer": "prawą burtą",
+    "image_url": "page_100.png"
+  },
+  {
+    "id": 223,
+    "question": "Co to za znak:",
+    "answers": [
+      "połączenie z drogą uznaną za główną drogę wodną",
+      "połączenie z drogą uznaną za boczną drogę wodną",
+      "koniec obowiązywania zakazu, nakazu, ograniczenia"
+    ],
+    "correct_answer": "koniec obowiązywania zakazu, nakazu, ograniczenia",
+    "image_url": "page_101.png"
+  },
+  {
+    "id": 224,
+    "question": "Co to za znak:",
+    "answers": [
+      "zakaz wytwarzania fali",
+      "zakaz ruchu statków o napędzie mechanicznym",
+      "zakaz rozwijania dużych prędkości"
+    ],
+    "correct_answer": "zakaz ruchu statków o napędzie mechanicznym",
+    "image_url": "page_102.png"
+  },
+  {
+    "id": 225,
+    "question": "Płynąc w górę rzeki napotykasz zieloną pławę w kształcie stożka, którą stronę szlaku żeglownego wyznacza, którą burtą należy ja minąć:",
+    "answers": [
+      "prawą stronę szlaku żeglownego, mijamy ją prawą burtą",
+      "prawą stronę szlaku żeglownego, mijamy ją lewą burtą",
+      "lewą stronę szlaku żeglownego, mijamy ją prawą burtą"
+    ],
+    "correct_answer": "lewą stronę szlaku żeglownego, mijamy ją prawą burtą"
+  },
+  {
+    "id": 226,
+    "question": "Płynąc na wschód jacht napotkał na swej drodze tykę ze znakiem szczytowym w postaci dwóch stożków skierowanych wierzchołkami do góry, którą burtą powinien minąć znak:",
+    "answers": [
+      "prawą",
+      "lewą",
+      "obojętnie którą"
+    ],
+    "correct_answer": "prawą"
+  },
+  {
+    "id": 227,
+    "question": "Co to za znak:",
+    "answers": [
+      "znak odosobnionego niebezpieczeństwa",
+      "znak specjalny",
+      "znak bezpiecznej wody"
+    ],
+    "correct_answer": "znak bezpiecznej wody",
+    "image_url": "page_105.png"
+  },
+  {
+    "id": 228,
+    "question": "Wschodni znak kardynalny ma charakterystykę świetlną:",
+    "answers": [
+      "dziewięć błysków",
+      "sześć błysków",
+      "trzy błyski"
+    ],
+    "correct_answer": "trzy błyski"
+  },
+  {
+    "id": 229,
+    "question": "Płynąc na południe jacht napotkał na swej drodze tykę ze znakiem szczytowym w postaci dwóch stożków skierowanych wierzchołkami do siebie, którą burtą powinien minąć znak:",
+    "answers": [
+      "prawą",
+      "lewą",
+      "obojętnie którą"
+    ],
+    "correct_answer": "lewą"
+  },
+  {
+    "id": 230,
+    "question": "Co to jest IALA:",
+    "answers": [
+      "międzynarodowy kod sygnałowy",
+      "międzynarodowy system oznakowania nawigacyjnego",
+      "system ostrzegania meteorologicznego"
+    ],
+    "correct_answer": "międzynarodowy system oznakowania nawigacyjnego"
+  },
+  {
+    "id": 231,
+    "question": "W systemie IALA dla oznaczenia bezpiecznej wody stosuje się:",
+    "answers": [
+      "pławy w poziome czerwono-czarne pasy",
+      "pławy w poziome czerwono-zielone pasy",
+      "pławy w pionowe biało-czerwone pasy"
+    ],
+    "correct_answer": "pławy w pionowe biało-czerwone pasy"
+  },
+  {
+    "id": 232,
+    "question": "W rejonie A systemu IALA dla oznaczenia prawej strony toru wodnego stosuje się:",
+    "answers": [
+      "zielone pławy w kształcie stożka",
+      "zielone pławy w kształcie walca",
+      "czerwone pławy w kształcie walca"
+    ],
+    "correct_answer": "zielone pławy w kształcie stożka"
+  }
+]

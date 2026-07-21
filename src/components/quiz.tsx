@@ -13,6 +13,8 @@ export function Quiz() {
     setBrokenImage(false);
   }, [question]);
 
+  if (!question) return null;
+
   return (
     <main className='no-scrollbar flex-1 overflow-y-auto px-4 py-5'>
       <h1 className='font-display text-[1.375rem] font-semibold leading-snug text-foreground'>
@@ -29,6 +31,7 @@ export function Quiz() {
           />
         </Card>
       )}
+
       {question.image_url && brokenImage && (
         <Card className='mt-4 flex items-center gap-2 px-4 py-6 text-muted-foreground'>
           <ImageOff className='h-4 w-4 shrink-0' />

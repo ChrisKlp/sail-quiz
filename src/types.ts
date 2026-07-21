@@ -6,4 +6,9 @@ export interface Question {
   image_url?: string;
 }
 
+export interface CategoryData {
+  name: string;
+  data: () => Promise<{ default: Question[] }>;
+}
+
 export type AnswerState = 'idle' | 'correct' | 'incorrect';

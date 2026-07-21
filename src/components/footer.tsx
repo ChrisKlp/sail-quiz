@@ -3,6 +3,8 @@ import { useQuiz } from '@/context/QuizContext';
 import { cn } from '@/lib/utils';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 
+type ButtonVariant = 'default' | 'success' | 'destructive' | 'outline' | 'secondary';
+
 export function Footer() {
   const {
     question,
@@ -15,6 +17,9 @@ export function Footer() {
     handlePrev,
     canGoPrev,
   } = useQuiz();
+
+  if (!question) return null;
+
   return (
     <footer className='safe-bottom shrink-0 border-t border-border bg-card/80 px-4 pt-3 backdrop-blur'>
       <div className='rope-divider mb-3 -mt-3' />
@@ -25,16 +30,23 @@ export function Footer() {
           const isSelected = selected === answer;
           const isTheCorrectOne = isCorrect(answer);
 
-          let variant = 'default';
+          let variant: ButtonVariant = 'default';
 
-          if (hasAnswered && isSelected && isTheCorrectOne) variant = 'success';
-          else if (hasAnswered && isSelected) variant = 'destructive';
-          else if (hasAnswered) variant = 'outline';
+          if (hasAnswered) {
+            if (isSelected && isTheCorrectOne) {
+              variant = 'success';
+            } else if (isSelected && !isTheCorrectOne) {
+              variant = 'destructive';
+            } else if (isTheCorrectOne) {
+              variant = 'success';
+            } else {
+              variant = 'outline';
+            }
+          }
 
           return (
             <Button
               key={letter}
-              //@ts-ignore
               variant={variant}
               size='lg'
               disabled={hasAnswered && !isSelected}
