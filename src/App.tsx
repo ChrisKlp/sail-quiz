@@ -1,12 +1,13 @@
-import { Footer } from '@/components/footer';
-import { Header } from '@/components/header';
-import { Quiz } from '@/components/quiz';
-import { StartScreen } from '@/components/startScreen';
+import { Footer } from '@/components/Footer';
+import { Header } from '@/components/Header';
+import { Quiz } from '@/components/Quiz';
+import { StartScreen } from '@/components/StartScreen';
+import { Summary } from '@/components/Summary';
 import { QuizProvider, useQuiz } from '@/context/QuizContext';
 import { Loader2 } from 'lucide-react';
 
 function QuizLayout() {
-  const { status } = useQuiz();
+  const { status, mode } = useQuiz();
 
   return (
     <div className='flex h-dvh flex-col overflow-hidden bg-background'>
@@ -25,14 +26,7 @@ function QuizLayout() {
 
       {status === 'active' && <Quiz />}
 
-      {status === 'finished' && (
-        <main className='flex flex-1 flex-col items-center justify-center p-6 text-center'>
-          <h2 className='font-display text-2xl font-bold'>Koniec quizu!</h2>
-          <p className='mt-2 text-muted-foreground'>
-            Tutaj zbudujemy ekran z wynikami.
-          </p>
-        </main>
-      )}
+      {status === 'finished' && mode === 'exam' && <Summary />}
 
       {status === 'active' && <Footer />}
     </div>

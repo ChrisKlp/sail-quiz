@@ -11,4 +11,12 @@ export interface CategoryData {
   data: () => Promise<{ default: Question[] }>;
 }
 
+export interface ExamResults {
+  correct: number;
+  incorrect: number;
+  unanswered: number;
+  total: number;
+  passed: boolean;
+}
+
 export type AnswerState = 'idle' | 'correct' | 'incorrect';

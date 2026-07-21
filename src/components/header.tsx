@@ -3,14 +3,13 @@ import { Anchor, Menu } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 
 export function Header() {
-  const { question, status, resetToMenu } = useQuiz();
+  const { question, status, mode, resetToMenu, currentIndex, totalQuestions } =
+    useQuiz();
 
   return (
     <header className='safe-top shrink-0 border-b border-border bg-card/60 px-4 py-3 backdrop-blur'>
       <div className='flex items-center justify-between'>
-        {/* Lewa strona: Hamburger (warunkowo), Logo i Tytuł */}
         <div className='flex items-center gap-2'>
-          {/* Przycisk Menu widoczny tylko, gdy test jest aktywny / ładuje się */}
           {status !== 'idle' && (
             <Button
               variant='ghost'
@@ -38,12 +37,19 @@ export function Header() {
           </div>
         </div>
 
-        {/* Prawa strona: Numer pytania */}
-        {question && (
-          <span className='rounded-md border border-border bg-secondary/60 px-2 py-1 font-mono text-xs text-muted-foreground'>
-            #{String(question.id).padStart(3, '0')}
-          </span>
-        )}
+        <div className='flex items-center'>
+          {question && mode === 'exam' && (
+            <span className='rounded-md border border-border bg-secondary/60 px-2.5 py-1 font-mono text-xs font-medium text-muted-foreground'>
+              {currentIndex + 1} / {totalQuestions}
+            </span>
+          )}
+
+          {question && mode !== 'exam' && (
+            <span className='rounded-md border border-border bg-secondary/60 px-2 py-1 font-mono text-xs text-muted-foreground'>
+              #{String(question.id).padStart(3, '0')}
+            </span>
+          )}
+        </div>
       </div>
     </header>
   );
