@@ -362,7 +362,7 @@
       "półwiatrem prawego halsu"
     ],
     "correct_answer": "półwiatrem lewego halsu",
-    "image_url": "page_041.png"
+    "image_url": "img_389.jpg"
   },
   {
     "id": 390,
@@ -373,7 +373,7 @@
       "fordewindem prawego halsu"
     ],
     "correct_answer": "fordewindem lewego halsu",
-    "image_url": "page_042.png"
+    "image_url": "img_390.jpg"
   },
   {
     "id": 391,
@@ -638,14 +638,14 @@
     "question": "Jakim kursem względem wiatru rzeczywistego płynie pokazany na rysunku jacht (wiatr strzałka niebieska)?",
     "answers": ["bajdewindem", "baksztagiem", "półwiatrem"],
     "correct_answer": "bajdewindem",
-    "image_url": "page_070.png"
+    "image_url": "img_418.jpg"
   },
   {
     "id": 419,
     "question": "Jakim kursem względem wiatru rzeczywistego płynie pokazany na rysunku jacht (wiatr rzeczywisty strzałka niebieska)",
     "answers": ["bajdewindem", "baksztagiem", "półwiatrem"],
     "correct_answer": "baksztagiem",
-    "image_url": "page_071.png"
+    "image_url": "img_419.jpg"
   },
   {
     "id": 420,
@@ -794,7 +794,7 @@
       "nadal pozostanie w równowadze przy nowym kącie przechyłu"
     ],
     "correct_answer": "przewróci się",
-    "image_url": "page_087.png"
+    "image_url": "img_435.jpg"
   },
   {
     "id": 436,
