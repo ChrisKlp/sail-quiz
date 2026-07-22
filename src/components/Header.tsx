@@ -1,5 +1,5 @@
 import { useQuiz } from '@/context/QuizContext';
-import { Anchor, Menu } from 'lucide-react';
+import { Menu, Sailboat } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 
 export function Header() {
@@ -24,7 +24,7 @@ export function Header() {
 
           <div className='flex items-center gap-2'>
             <span className='flex h-8 w-8 items-center justify-center rounded-full bg-primary/15 text-primary'>
-              <Anchor className='h-4 w-4' strokeWidth={2.25} />
+              <Sailboat className='h-4 w-4' strokeWidth={2.25} />
             </span>
             <div className='leading-tight'>
               <p className='font-display text-sm font-semibold tracking-wide text-foreground'>
