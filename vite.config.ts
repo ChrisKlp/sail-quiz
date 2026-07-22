@@ -14,7 +14,6 @@ export default defineConfig({
     VitePWA({
       registerType: 'autoUpdate',
       injectRegister: 'auto',
-      includeAssets: ['assets/**/*'],
       manifest: {
         name: 'Sail Quiz',
         short_name: 'sail-quiz',
